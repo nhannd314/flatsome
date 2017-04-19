@@ -34,3 +34,4 @@ or in the style.css of a Child Theme.
 .main-header:after {
     content: ""; display: block; width: 100px; height: 3px; background: #c4161c; margin: 2px auto 0
 }
+.testimonial-text, .testimonial-meta { font-size: 14px }

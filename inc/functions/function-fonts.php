@@ -2,10 +2,10 @@
 
 function flatsome_get_google_fonts_link_lazy(){
 
-    $type_nav = get_theme_mod('type_nav', array('font-family'=> 'Lato','variant' => '700'));
-    $type_texts = get_theme_mod('type_texts', array('font-family'=> 'Lato','variant' => '400'));
-    $type_headings = get_theme_mod('type_headings',array('font-family'=> 'Lato','variant' => '700'));
-    $type_alt = get_theme_mod('type_alt', array('font-family'=> 'Dancing Script'));
+    $type_nav = get_theme_mod('type_nav', array('font-family'=> 'Roboto','variant' => '400'));
+    $type_texts = get_theme_mod('type_texts', array('font-family'=> 'Roboto','variant' => '400'));
+    $type_headings = get_theme_mod('type_headings',array('font-family'=> 'Roboto','variant' => '400'));
+    $type_alt = get_theme_mod('type_alt', array('font-family'=> 'Roboto'));
 
     // Fix old
     if(!is_array($type_nav)) {
@@ -39,7 +39,7 @@ function flatsome_get_google_fonts_link_lazy(){
       if(!empty($font['font-family'])) $f .= '"'.str_replace(' ', '+', $font['font-family']);
       // Always include regular variant as a workaround for Kirki
       // not updating the variant when font has only one variant.
-      if(!empty($font['variant'])) $f .= ':regular,'.$font['variant'];
+      if(!empty($font['variant'])) $f .= ':regular,italic,700,'.$font['variant'];
       if(!empty($font['subsets'])) {
         $font['subsets'] = array_unique( $font['subsets'] );
         $f .= ':'.implode( ',', $font['subsets'] );
