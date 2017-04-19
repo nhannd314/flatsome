@@ -228,10 +228,10 @@ if($alert_color && $alert_color !== '#b20000'){ ?>
 
 <?php
 // Get Type options
-$type_nav = get_theme_mod('type_nav', array('font-family'=> 'Lato','variant' => '700'));
-$type_texts = get_theme_mod('type_texts', array('font-family'=> 'Lato','variant' => '400'));
-$type_headings = get_theme_mod('type_headings',array('font-family'=> 'Lato','variant' => '700'));
-$type_alt = get_theme_mod('type_alt', array('font-family'=> 'Dancing Script'));
+$type_nav = get_theme_mod('type_nav', array('font-family'=> 'Roboto','variant' => '400'));
+$type_texts = get_theme_mod('type_texts', array('font-family'=> 'Roboto','variant' => '400'));
+$type_headings = get_theme_mod('type_headings',array('font-family'=> 'Roboto','variant' => '400'));
+$type_alt = get_theme_mod('type_alt', array('font-family'=> 'Roboto'));
 
 // Type sizes
 if(get_theme_mod('type_size', 100) !== 100){
@@ -243,7 +243,7 @@ if(get_theme_mod('type_size_mobile', 100) !== 100){
 
 // Fix old
 if(!is_array($type_nav)) {
-  $type_nav = array('font-family' => $type_nav, 'variant' => '700');
+  $type_nav = array('font-family' => $type_nav, 'variant' => '400');
 }
 if(!is_array($type_texts)) {
   $type_texts = array('font-family' => $type_texts, 'variant' => '400');
@@ -252,7 +252,7 @@ if(!is_array($type_alt)) {
   $type_alt = array('font-family' => $type_alt, 'variant' => '400');
 }
 if(!is_array($type_headings)) {
-  $type_headings = array('font-family' => $type_headings, 'variant' => '700');
+  $type_headings = array('font-family' => $type_headings, 'variant' => '400');
 }
 
 // Type Base
@@ -271,14 +271,16 @@ if(!empty($type_nav['font-family'])) {
 	echo '.nav > li > a {font-family:  "'.$type_nav['font-family'].'", sans-serif;}';
 }
 if(!empty($type_nav['variant'])) {
-	echo '.nav > li > a {font-weight: '.intval($type_nav['variant']).';}';
+	if($type_nav['variant']=='regular') $type_nav['variant']='400';
+	echo '.nav > li > a {font-weight: '.$type_nav['variant'].';}';
 }
 // Type Headings
 if(!empty($type_headings['font-family'])) {
 echo 'h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "'.$type_headings['font-family'].'", sans-serif;}';
 }
 if(!empty($type_headings['variant'])) {
-  echo 'h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: '.($type_headings['variant']*1).';}';
+  if($type_headings['variant']=='regular') $type_headings['variant']='400';
+  echo 'h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: '.($type_headings['variant']).';}';
 }
 if(get_theme_mod('type_headings_color')){
   echo 'h1,h2,h3,h4,h5,h6,.heading-font{color: '.get_theme_mod('type_headings_color').';}';
