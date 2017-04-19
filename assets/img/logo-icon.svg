@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="65px" viewBox="0 0 64 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo-ThemeForest</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.179517663 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(4.000000, -49.000000)" fill="#FFFFFF">
+            <g id="Logo-ThemeForest" filter="url(#filter-1)" transform="translate(0.000000, 51.000000)">
+                <path d="M28.40694,46.9959391 L21.3512884,39.9402875 L28.40694,32.884636 L28.40694,20.442015 L15.1299779,33.718977 L9.95138024,28.5403793 L28.40694,10.0848196 L28.40694,0.246280496 L0.0325226042,28.6206979 L28.40694,56.9951153 L28.40694,46.9959391 Z" id="Combined-Shape"></path>
+                <path d="M56.7529622,46.9959391 L49.6973107,39.9402875 L56.7529622,32.884636 L56.7529622,20.442015 L43.4760002,33.718977 L38.2974025,28.5403793 L56.7529622,10.0848196 L56.7529622,0.246280496 L28.3785448,28.6206979 L56.7529622,56.9951153 L56.7529622,46.9959391 Z" id="Combined-Shape" opacity="0.499591884" transform="translate(42.565754, 28.620698) scale(-1, 1) translate(-42.565754, -28.620698) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

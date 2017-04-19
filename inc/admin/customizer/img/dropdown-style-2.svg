@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="72px" height="52px" viewBox="0 0 72 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>dropdown-style-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="70" height="50" rx="4"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="72" height="52">
+            <rect x="-1" y="-1" width="72" height="52" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <rect id="path-4" x="-8" y="-3" width="84" height="60" rx="3"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="84" height="60" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dropdown-style-2" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask">
+                <use fill-opacity="0.1" fill="#9CD6E8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#9BD6E8" mask="url(#mask-3)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+            <g id="Rectangle-486" mask="url(#mask-2)" stroke-width="2" stroke="#9BD6E8" fill="#FFFFFF">
+                <use mask="url(#mask-5)" xlink:href="#path-4"></use>
+            </g>
+            <path d="M14.5,24.5 L55.5,24.5" id="Line" stroke-opacity="0.318953804" stroke="#9BD6E8" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <text id="Link" mask="url(#mask-2)" font-family="Lato-Regular, Lato" font-size="10" font-weight="normal" line-spacing="16">
+                <tspan x="14" y="18" fill="#9BD6E8">Link</tspan>
+                <tspan x="14" y="34" fill="#5BA4BB">Link 2</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

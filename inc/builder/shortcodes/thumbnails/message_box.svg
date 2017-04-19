@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>message_box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="9" y="17" width="83.1971905" height="32.703125"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="83.1971905" height="32.703125" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="83.1971905" height="32.703125" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="message_box">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-4"></use>
+            </mask>
+            <g id="Rectangle-486-Copy-4" stroke="#00A0D2" mask="url(#mask-5)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)">
+                <use mask="url(#mask-7)" xlink:href="#path-4"></use>
+            </g>
+            <g id="text" mask="url(#mask-6)" fill="#00A0D2">
+                <g transform="translate(16.000000, 29.000000)">
+                    <rect id="Rectangle-166" x="50" y="2.84217094e-14" width="20" height="7.05992857" rx="3"></rect>
+                    <rect id="Rectangle-167-Copy" fill-opacity="0.532382246" opacity="0.333430504" x="0" y="1" width="23" height="2"></rect>
+                    <rect id="Rectangle-167-Copy-2" fill-opacity="0.532382246" opacity="0.333430504" x="0" y="5" width="17" height="2"></rect>
+                </g>
+            </g>
+            <path d="M54.7414167,37.0588907 C54.7414167,37.0588907 57.4964167,34.4604552 58.0965,30.965955 C59.7115,30.965955 60.709,27.2508616 59.094,25.9440372 C59.1620833,24.5687529 61.16975,15.1440995 51,15.1440995 C40.83025,15.1440995 42.8379167,24.5687529 42.906,25.9440372 C41.291,27.2508616 42.2885,30.965955 43.9035,30.965955 C44.5035833,34.4604552 47.2601667,37.0588907 47.2601667,37.0588907 C47.2601667,37.0588907 47.238,39.5158423 46.3006667,39.6573262 C43.2796667,40.1152472 32,44.8541972 32,50.0510682 L70,50.0510682 C70,44.8541972 58.7203333,40.1152472 55.7009167,39.6573262 C54.7635833,39.5158423 54.7414167,37.0588907 54.7414167,37.0588907 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-6)"></path>
+        </g>
+    </g>
+</svg>

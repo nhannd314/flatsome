@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="72px" viewBox="0 0 100 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-fill-round</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="71.4285714" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-fill-round">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" stroke="#3498DB" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.01" fill="#00A0D2">
+                <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+            </g>
+            <rect id="Rectangle-166-Copy-4" fill="#3498DB" mask="url(#mask-3)" x="24.3075435" y="8.28125" width="52.9293346" height="53.4462226" rx="7"></rect>
+            <path d="M61.0451456,32.9627956 C61.0451456,34.6529341 60.3168644,36.1727436 59.1571251,37.2260274 L59.1665182,37.2260274 L52.9044269,43.4881186 C52.2782178,44.1143278 51.6520087,44.7405369 51.0257996,44.7405369 C50.3995904,44.7405369 49.7733813,44.1143278 49.1471722,43.4881186 L42.8850809,37.2260274 L42.8944741,37.2260274 C41.7347348,36.1727436 41.0064535,34.6529341 41.0064535,32.9627956 C41.0064535,29.7835319 43.5839303,27.2066814 46.7625678,27.2066814 C48.4527063,27.2066814 49.9725158,27.9349626 51.0257996,29.0947019 C52.0790833,27.9349626 53.5988929,27.2066814 55.2890313,27.2066814 C58.468295,27.2066814 61.0451456,29.7841581 61.0451456,32.9627956 L61.0451456,32.9627956 Z" id="Shape-Copy-14" fill="#FFFFFF" mask="url(#mask-3)"></path>
+        </g>
+    </g>
+</svg>

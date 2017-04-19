@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>portfolio</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="32" height="44"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="44" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="44" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <rect id="path-8" x="0" y="0" width="32" height="44"></rect>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="44" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="44" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <rect id="path-12" x="0" y="0" width="32" height="44"></rect>
+        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="44" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="44" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="portfolio">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)" id="image">
+                <g transform="translate(13.000000, 11.000000)">
+                    <g>
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Mask" stroke="#00A0D2" mask="url(#mask-5)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)">
+                            <use mask="url(#mask-7)" xlink:href="#path-4"></use>
+                        </g>
+                        <path d="M27.429484,29.4918182 C27.429484,29.4918182 30.0914647,26.5878247 30.6712869,22.6823956 C32.2317583,22.6823956 33.1955789,18.5304331 31.6351075,17.0699352 C31.7008921,15.532927 33.6407722,5 23.8143919,5 C13.9880116,5 15.9278918,15.532927 15.9936764,17.0699352 C14.4332049,18.5304331 15.3970255,22.6823956 16.9574969,22.6823956 C17.5373192,26.5878247 20.2008297,29.4918182 20.2008297,29.4918182 C20.2008297,29.4918182 20.1794114,32.2376902 19.2737261,32.3958116 C16.3547266,32.9075809 5.45590469,38.2037985 5.45590469,44.0117854 L42.1728791,44.0117854 C42.1728791,38.2037985 31.2740572,32.9075809 28.3565876,32.3958116 C27.4509023,32.2376902 27.429484,29.4918182 27.429484,29.4918182 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-6)"></path>
+                        <path d="M20.78125,21.625 L18.375,21.625 L18.375,19.21875 C18.375,19.098 18.277,19 18.15625,19 L16.84375,19 C16.723,19 16.625,19.098 16.625,19.21875 L16.625,21.625 L14.21875,21.625 C14.098,21.625 14,21.723 14,21.84375 L14,23.15625 C14,23.277 14.098,23.375 14.21875,23.375 L16.625,23.375 L16.625,25.78125 C16.625,25.902 16.723,26 16.84375,26 L18.15625,26 C18.277,26 18.375,25.902 18.375,25.78125 L18.375,23.375 L20.78125,23.375 C20.902,23.375 21,23.277 21,23.15625 L21,21.84375 C21,21.723 20.902,21.625 20.78125,21.625 L20.78125,21.625 Z" id="Shape" fill="#00A0D2" mask="url(#mask-6)"></path>
+                    </g>
+                </g>
+            </g>
+            <g mask="url(#mask-2)" id="image">
+                <g transform="translate(44.000000, 11.000000)">
+                    <g>
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-8"></use>
+                        </mask>
+                        <g id="Mask" stroke="#00A0D2" mask="url(#mask-9)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)">
+                            <use mask="url(#mask-11)" xlink:href="#path-8"></use>
+                        </g>
+                        <path d="M27.429484,29.4918182 C27.429484,29.4918182 30.0914647,26.5878247 30.6712869,22.6823956 C32.2317583,22.6823956 33.1955789,18.5304331 31.6351075,17.0699352 C31.7008921,15.532927 33.6407722,5 23.8143919,5 C13.9880116,5 15.9278918,15.532927 15.9936764,17.0699352 C14.4332049,18.5304331 15.3970255,22.6823956 16.9574969,22.6823956 C17.5373192,26.5878247 20.2008297,29.4918182 20.2008297,29.4918182 C20.2008297,29.4918182 20.1794114,32.2376902 19.2737261,32.3958116 C16.3547266,32.9075809 5.45590469,38.2037985 5.45590469,44.0117854 L42.1728791,44.0117854 C42.1728791,38.2037985 31.2740572,32.9075809 28.3565876,32.3958116 C27.4509023,32.2376902 27.429484,29.4918182 27.429484,29.4918182 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-10)"></path>
+                        <path d="M20.78125,21.625 L18.375,21.625 L18.375,19.21875 C18.375,19.098 18.277,19 18.15625,19 L16.84375,19 C16.723,19 16.625,19.098 16.625,19.21875 L16.625,21.625 L14.21875,21.625 C14.098,21.625 14,21.723 14,21.84375 L14,23.15625 C14,23.277 14.098,23.375 14.21875,23.375 L16.625,23.375 L16.625,25.78125 C16.625,25.902 16.723,26 16.84375,26 L18.15625,26 C18.277,26 18.375,25.902 18.375,25.78125 L18.375,23.375 L20.78125,23.375 C20.902,23.375 21,23.277 21,23.15625 L21,21.84375 C21,21.723 20.902,21.625 20.78125,21.625 L20.78125,21.625 Z" id="Shape" fill="#00A0D2" mask="url(#mask-10)"></path>
+                    </g>
+                </g>
+            </g>
+            <g mask="url(#mask-2)" id="image">
+                <g transform="translate(75.000000, 11.000000)">
+                    <g>
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-12"></use>
+                        </mask>
+                        <g id="Mask" stroke="#00A0D2" mask="url(#mask-13)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)">
+                            <use mask="url(#mask-15)" xlink:href="#path-12"></use>
+                        </g>
+                        <path d="M27.429484,29.4918182 C27.429484,29.4918182 30.0914647,26.5878247 30.6712869,22.6823956 C32.2317583,22.6823956 33.1955789,18.5304331 31.6351075,17.0699352 C31.7008921,15.532927 33.6407722,5 23.8143919,5 C13.9880116,5 15.9278918,15.532927 15.9936764,17.0699352 C14.4332049,18.5304331 15.3970255,22.6823956 16.9574969,22.6823956 C17.5373192,26.5878247 20.2008297,29.4918182 20.2008297,29.4918182 C20.2008297,29.4918182 20.1794114,32.2376902 19.2737261,32.3958116 C16.3547266,32.9075809 5.45590469,38.2037985 5.45590469,44.0117854 L42.1728791,44.0117854 C42.1728791,38.2037985 31.2740572,32.9075809 28.3565876,32.3958116 C27.4509023,32.2376902 27.429484,29.4918182 27.429484,29.4918182 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-14)"></path>
+                        <path d="M20.78125,21.625 L18.375,21.625 L18.375,19.21875 C18.375,19.098 18.277,19 18.15625,19 L16.84375,19 C16.723,19 16.625,19.098 16.625,19.21875 L16.625,21.625 L14.21875,21.625 C14.098,21.625 14,21.723 14,21.84375 L14,23.15625 C14,23.277 14.098,23.375 14.21875,23.375 L16.625,23.375 L16.625,25.78125 C16.625,25.902 16.723,26 16.84375,26 L18.15625,26 C18.277,26 18.375,25.902 18.375,25.78125 L18.375,23.375 L20.78125,23.375 C20.902,23.375 21,23.277 21,23.15625 L21,21.84375 C21,21.723 20.902,21.625 20.78125,21.625 L20.78125,21.625 Z" id="Shape" fill="#00A0D2" mask="url(#mask-14)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

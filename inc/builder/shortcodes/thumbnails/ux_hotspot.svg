@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>ux_hotspot</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ux_hotspot">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="bg" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <circle id="Oval-12" fill="#00A0D2" mask="url(#mask-2)" cx="49" cy="34" r="17.078125"></circle>
+            <polygon id="+" fill="#FFFFFF" mask="url(#mask-2)" points="50.2238076 25.4609375 50.2238076 32.8408426 57.2580497 32.8408426 57.2580497 35.1740679 50.2238076 35.1740679 50.2238076 42.6058224 47.7004677 42.6058224 47.7004677 35.1740679 40.7007919 35.1740679 40.7007919 32.8408426 47.7004677 32.8408426 47.7004677 25.4609375"></polygon>
+        </g>
+    </g>
+</svg>

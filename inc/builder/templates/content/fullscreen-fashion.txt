@@ -1,0 +1,153 @@
+[ux_slider]
+
+[ux_banner height="100%" bg="8989" bg_overlay="rgba(0, 0, 0, 0.31)" bg_pos="68% 27%"]
+
+[text_box width="52" width__sm="80" animate="bounceIn" parallax="-1" position_x__sm="50" position_y__sm="50"]
+
+<p class="alt-font"><span style="font-size: 160%;">Now Online!</span></p>
+<h2 class="uppercase"><strong><span style="font-size: 200%;" data-line-height="xs">BIG SalE</span></strong></h2>
+<h3 class="lead uppercase">up to <strong>70%</strong> off</h3>
+[button text="Shop Now" radius="99"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="100%" bg="4063" bg_overlay="rgba(0, 0, 0, 0.13)" bg_pos="68% 11%"]
+
+[text_box width="52" width__sm="77" animate="fadeInUp" parallax="-1" position_x="10" position_x__sm="5" position_y__sm="50" text_align="left"]
+
+<p class="alt-font"><span style="font-size: 160%;">New Trends 2016</span></p>
+<h2 class="uppercase"><span style="font-size: 150%;"><strong><span data-line-height="xs">CELEBRATE SUMMER<br /></span></strong></span></h2>
+[button text="Shop Now" radius="99"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
+[row style="collapse" width="full-width"]
+
+[col span="4" span__sm="12"]
+
+[ux_banner height="250px" bg="7341" bg_overlay="rgba(0, 0, 0, 0.12)" bg_pos="42% 18%" hover="zoom-fade"]
+
+[text_box width="75"]
+
+<h4 class="uppercase">Summer 2017</h4>
+<h2 class="uppercase"><strong>NEW Summer Trends</strong></h2>
+[button text="Shop now" color="white" style="outline" radius="99"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="250px" bg="4085" bg_size="medium" bg_overlay="rgba(0, 0, 0, 0.2)" bg_pos="50% 57%" hover="zoom-fade"]
+
+[text_box width="70" position_x="10" text_align="left"]
+
+<h4 class="uppercase">Summer 2017</h4>
+<h2 class="uppercase"><strong>NEW Summer Trends</strong></h2>
+[button text="Shop now" color="white" style="outline" radius="99"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="250px" bg="4120" bg_overlay="rgba(0, 0, 0, 0.13)" bg_pos="31% 0%" hover="zoom-fade"]
+
+[text_box text_color="dark" width="70" position_x="90" text_align="right"]
+
+<h4 class="uppercase">Summer 2017</h4>
+<h2 class="uppercase"><strong>NEW Summer Trends</strong></h2>
+[button text="Shop now" color="white" style="outline" radius="99"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+[row h_align="center"]
+
+[col span="7" span__sm="12" padding="40px 0px 0px 0px" align="center"]
+
+<h2 class="uppercase"><span style="font-size: 160%;">Welcome to our Shop</span></h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[button text="About us" style="outline" size="small" radius="99" link="about-us"]
+
+[button text="Shop now" size="small" radius="99" icon_pos="left" link="shop"]
+
+
+[/col]
+
+[/row]
+[title style="center" text="Browse products" size="undefined"]
+
+[ux_product_categories style="overlay" type="grid" grid_height="400px" number="4" image_hover="zoom" image_hover_alt="glow" text_pos="middle" text_size="large"]
+
+[title style="center" text="Browse products" size="undefined"]
+
+[ux_products cat="81"]
+
+[ux_banner height="426px" bg="8093" bg_pos="72% 78%" parallax="3"]
+
+[text_box width="61" width__sm="79" scale__sm="158" animate="fadeInRight" position_x__sm="50" border_style="dashed" border_radius="0" border_color="rgba(255, 255, 255, 0.27)"]
+
+<h3 class="uppercase"><strong>Signup for newsletter</strong></h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[contact-form-7 id="7042"]
+
+
+[/text_box]
+
+[/ux_banner]
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[featured_box img="8687" pos="center" title="Shop Feature 1" icon_border="1" margin="px px px px"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[featured_box img="8686" pos="center" title="Shop Feature 2" icon_border="1" margin="px px px px"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[featured_box img="8685" pos="center" title="Shop Feature 3" icon_border="1" margin="px px px px"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/featured_box]
+
+[/col]
+
+[/row]
+[title style="center" text="Latest news" margin_top="30px" size="undefined"]
+
+[blog_posts style="vertical" slider_nav_style="circle" slider_nav_position="outside" columns="2" title_style="uppercase" badge_style="circle-inside" image_height="100%" image_width="53" image_radius="100"]
+
+[title style="center" text="Follow Us on Instagram" icon="icon-instagram" margin_top="30px" size="undefined"]
+
+[ux_instagram_feed username="topshop" type="slider" slider_nav_style="circle" slider_nav_color="light" width="full-width" columns="6"]

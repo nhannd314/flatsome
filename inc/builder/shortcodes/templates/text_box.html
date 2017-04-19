@@ -1,0 +1,46 @@
+<div id="el_{{::$id}}"
+  class="
+    res-text
+    banner-layer
+    text-box
+    text-box-{{shortcode.options.style}}
+    x{{ shortcode.options.positionX }}
+    md-x{{ shortcode.options.positionX }}
+    lg-x{{ shortcode.options.positionX }}
+    y{{ shortcode.options.positionY }}
+    md-y{{ shortcode.options.positionY }}
+    lg-y{{ shortcode.options.positionY }}
+  " ng-class="{'has-hover-effect' : shortcode.options.hover}">
+    <div ng-attr-data-animate="{{ shortcode.options.animate }}" data-animated="true">
+    <div ng-class="{['hover-'+shortcode.options.hover ] : shortcode.options.hover}">
+    <div class="text
+        text-shadow-{{ shortcode.options.textDepth }}
+        box-shadow-{{ shortcode.options.depth }}
+        box-shadow-{{ shortcode.options.depthHover }}-hover"
+	    ng-class="{'dark' : shortcode.options.textColor == 'light'}"
+	    data-parallax-fade="true"
+      ng-attr-data-parallax="{{ shortcode.options.parallax }}">
+         <div ng-if="shortcode.options.border" class="is-border is-{{shortcode.options.borderStyle}}"
+        ng-style="{
+          'borderRadius': shortcode.options.borderRadius+'px',
+          'borderWidth': shortcode.options.border,
+          'margin': shortcode.options.borderMargin,
+          'borderColor': shortcode.options.borderColor,
+          }"
+        ></div>
+	    <div class="text-inner text-{{ shortcode.options.textAlign }}">
+	    	<content />
+	    </div>
+	</div>
+  </div>
+	</div>
+	<style scope="scope">
+		#el_{{::$id}}{ width: {{ shortcode.options.width }}%; }
+		#el_{{::$id}} { margin: {{ shortcode.options.margin }}; }
+		#el_{{::$id}} .text { background-color: {{ shortcode.options.bg }}; }
+	  #el_{{::$id}} .text-inner  { padding:{{ shortcode.options.padding }}; }
+		#el_{{::$id}} .text { font-size:{{ shortcode.options.scale }}%; }
+		#el_{{::$id}} .text { border-radius:{{ shortcode.options.radius }}px; }
+		#el_{{::$id}} .text { transform: rotate({{ shortcode.options.rotate }}deg)};
+	</style>
+</div><!-- .banner-layer -->

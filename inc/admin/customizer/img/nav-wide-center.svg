@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="73px" height="57px" viewBox="0 0 73 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>nav-wide-center</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="70" height="42" rx="4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav-wide-center" transform="translate(-1.000000, 0.000000)">
+            <g id="nav-left" transform="translate(2.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" stroke="#9BD6E8" fill-opacity="0.1" fill="#9CD6E8" xlink:href="#path-1"></use>
+                <rect id="Rectangle-45-Copy-18" stroke="#9BD6E8" fill-opacity="0.1034024" fill="#9CD6E8" mask="url(#mask-2)" x="0" y="0" width="70" height="31"></rect>
+                <rect id="Rectangle-45-Copy-18" stroke="#9BD6E8" fill-opacity="0.57141644" fill="#9CD6E8" mask="url(#mask-2)" x="0" y="30" width="70" height="12"></rect>
+                <rect id="Rectangle-45-Copy-23" fill="#9CD6E8" mask="url(#mask-2)" x="7" y="13" width="15" height="6"></rect>
+                <rect id="Rectangle-45-Copy-16" fill-opacity="0.5" fill="#FFFFFF" mask="url(#mask-2)" x="21.6715666" y="35" width="7.65686678" height="1.90966797"></rect>
+                <rect id="Rectangle-45-Copy-20" fill-opacity="0.5" fill="#FFFFFF" mask="url(#mask-2)" x="31.6715666" y="35" width="7.65686678" height="1.90966797"></rect>
+                <rect id="Rectangle-45-Copy-20" fill-opacity="0.5" fill="#FFFFFF" mask="url(#mask-2)" x="42.6715666" y="35" width="7.65686678" height="1.90966797"></rect>
+                <rect id="Rectangle-45-Copy-20" fill-opacity="0.5" fill="#9CD6E8" mask="url(#mask-2)" x="56.6715666" y="13" width="7.65686678" height="6" rx="99"></rect>
+            </g>
+            <text id="Bottom-Center" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#8B8B8B">
+                <tspan x="0.733" y="56">Bottom Center</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

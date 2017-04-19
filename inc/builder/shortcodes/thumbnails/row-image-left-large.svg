@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>row-image-left-large</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="56" y="13" width="36.016129" height="43"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36.016129" height="43" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <rect id="path-6" x="-4.01612903" y="8" width="54.016129" height="54.9112718"></rect>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="54.016129" height="54.9112718" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+    </defs>
+    <g id="Row-Presets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="row-image-left-large">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Rectangle-486-Copy" mask="url(#mask-2)" stroke="#00A0D2" stroke-width="2" fill="url(#linearGradient-3)" fill-opacity="0.15">
+                <use mask="url(#mask-5)" xlink:href="#path-4"></use>
+            </g>
+            <g id="Rectangle-486-Copy" mask="url(#mask-2)" stroke="#00A0D2" stroke-width="2" fill="url(#linearGradient-3)" fill-opacity="0.15">
+                <use mask="url(#mask-7)" xlink:href="#path-6"></use>
+            </g>
+            <path d="M31.1198333,44.8984131 C31.1198333,44.8984131 34.8898333,41.2958413 35.711,36.4509307 C37.921,36.4509307 39.286,31.3001812 37.076,29.4883491 C37.1691667,27.5816016 39.9165,14.5148967 26,14.5148967 C12.0835,14.5148967 14.8308333,27.5816016 14.924,29.4883491 C12.714,31.3001812 14.079,36.4509307 16.289,36.4509307 C17.1101667,41.2958413 20.8823333,44.8984131 20.8823333,44.8984131 C20.8823333,44.8984131 20.852,48.3048261 19.5693333,48.5009848 C15.4353333,49.1358643 0,55.7061283 0,62.9112718 L52,62.9112718 C52,55.7061283 36.5646667,49.1358643 32.4328333,48.5009848 C31.1501667,48.3048261 31.1198333,44.8984131 31.1198333,44.8984131 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

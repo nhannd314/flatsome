@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>cart-icon-bag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="70" height="70" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="70" height="70" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="70" height="70" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cart-icon-bag">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" stroke="#3498DB" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.01" fill="#00A0D2">
+                <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+            </g>
+            <g id="shopping-bag" mask="url(#mask-3)" fill="#3498DB">
+                <g transform="translate(20.000000, 19.000000)" id="Shape">
+                    <path d="M28.453,22 L29,26.891 C29.0313333,27.183 28.948,27.4433333 28.75,27.672 C28.552,27.8906667 28.302,28 28,28 L2,28 C1.698,28 1.448,27.8906667 1.25,27.672 C1.052,27.4426667 0.968666667,27.1823333 1,26.891 L1.547,22 L28.453,22 L28.453,22 Z M28.344,21 L1.656,21 L3,8.891 C3.03133333,8.641 3.14066667,8.43 3.328,8.258 C3.51533333,8.086 3.73933333,8 4,8 L8,8 L8,10 C8,10.552 8.19533333,11.0233333 8.586,11.414 C8.97666667,11.8046667 9.448,12 10,12 C10.552,12 11.0233333,11.8046667 11.414,11.414 C11.8046667,11.0233333 12,10.552 12,10 L12,8 L18,8 L18,10 C18,10.552 18.1953333,11.0233333 18.586,11.414 C18.9766667,11.8046667 19.448,12 20,12 C20.552,12 21.0233333,11.8046667 21.414,11.414 C21.8046667,11.0233333 22,10.552 22,10 L22,8 L26,8 C26.2606667,8 26.4846667,8.086 26.672,8.258 C26.8593333,8.43 26.9686667,8.641 27,8.891 L28.344,21 Z M21,6 L21,10 C21,10.2706667 20.901,10.505 20.703,10.703 C20.505,10.901 20.2706667,11 20,11 C19.7293333,11 19.495,10.901 19.297,10.703 C19.099,10.505 19,10.2706667 19,10 L19,6 C19,4.896 18.6093333,3.95333333 17.828,3.172 C17.0466667,2.39066667 16.104,2 15,2 C13.896,2 12.9533333,2.39066667 12.172,3.172 C11.3906667,3.95333333 11,4.896 11,6 L11,10 C11,10.2706667 10.901,10.505 10.703,10.703 C10.505,10.901 10.2706667,11 10,11 C9.72933333,11 9.495,10.901 9.297,10.703 C9.099,10.505 9,10.2706667 9,10 L9,6 C9,4.344 9.586,2.93 10.758,1.758 C11.93,0.586 13.344,0 15,0 C16.656,0 18.07,0.586 19.242,1.758 C20.414,2.93 21,4.344 21,6 L21,6 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>nav</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <rect id="path-3" x="0" y="0" width="75" height="9.1788019"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="75" height="9.1788019" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-5">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="0" y="12.516548" width="75" height="9.1788019"></rect>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="75" height="9.1788019" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <rect id="path-8" x="0" y="25.0330961" width="75" height="9.1788019"></rect>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="75" height="9.1788019" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <rect id="path-10" x="0" y="37.5496441" width="75" height="9.1788019"></rect>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="75" height="9.1788019" fill="white">
+            <use xlink:href="#path-10"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Rectangle-166-Copy-+-Shape-Copy-18" mask="url(#mask-2)">
+                <g transform="translate(13.000000, 9.000000)">
+                    <use id="Rectangle" stroke="#00A0D2" mask="url(#mask-4)" stroke-width="2" fill-opacity="0.0336574389" fill="#FFFFFF" opacity="0.12943097" xlink:href="#path-3"></use>
+                    <use id="Rectangle" stroke="#00A0D2" mask="url(#mask-7)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                    <use id="Rectangle" stroke="#00A0D2" mask="url(#mask-9)" stroke-width="2" fill-opacity="0.0336574389" fill="#FFFFFF" opacity="0.12943097" xlink:href="#path-8"></use>
+                    <use id="Rectangle" stroke="#00A0D2" mask="url(#mask-11)" stroke-width="2" fill-opacity="0.0336574389" fill="#FFFFFF" opacity="0.12943097" xlink:href="#path-10"></use>
+                    <path d="M48,29.1205776 C48,27.7725725 47.8739267,29.4532484 47.5652041,28.1769456 C47.3391445,27.2974261 46.683058,26.6042879 45.826102,26.6042879 C45.3091323,26.6042879 44.8391598,26.8528712 44.5217551,27.2501025 L44.5217551,27.0823189 C44.5217551,26.0259185 43.7435083,25.17024 42.7826122,25.17024 C41.8217162,25.17024 41.0434694,26.0258737 41.0434694,27.0823189 L41.0434694,26.1263018 C41.0434694,25.0699014 40.2652226,24.2142229 39.3043266,24.2142229 C38.3434305,24.2142229 37.5651837,25.0698566 37.5651837,26.1263018 L37.5652245,19.9120789 C37.5652245,18.8556785 36.7869777,18 35.8260816,18 C34.8651856,18 34.0869388,18.8556337 34.0869388,19.9120789 L34.0869388,30.8160869 C34.0869388,31.3461917 33.6956347,31.772104 33.2173878,31.772104 C33.1347655,31.772104 33.0565047,31.7577635 32.9782439,31.7338776 L30.5217102,30.6344558 C30.2869686,30.5048985 30.0217785,30.428401 29.7391428,30.428401 C28.7782875,30.428401 28,31.2840347 28,32.3404799 C28,33.1340014 28.443478,33.8175493 29.0695645,34.109154 C31.8913153,35.7104927 34.1521561,37.6751384 35.7347774,40.9447679 L45.6700288,40.9447679 C47.1695794,38.2774386 48,32.179402 48,29.1205776 Z" id="Shape-Copy-18" stroke="none" fill="#00A0D2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

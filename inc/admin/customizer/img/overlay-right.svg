@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="72px" height="52px" viewBox="0 0 72 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>overlay-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="70" height="50" rx="4"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="72" height="52">
+            <rect x="-1" y="-1" width="72" height="52" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <rect id="path-4" x="47" y="-36" width="23" height="96"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="25" height="98">
+            <rect x="46" y="-37" width="25" height="98" fill="white"></rect>
+            <use xlink:href="#path-4" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="overlay-right" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask">
+                <use fill-opacity="0.01" fill="#00A0D2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#3498DB" mask="url(#mask-3)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+            <g id="Rectangle-5-Copy-7" mask="url(#mask-2)">
+                <use fill-opacity="0.127858922" fill="#3498DB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <use stroke="#3498DB" mask="url(#mask-5)" stroke-width="2" xlink:href="#path-4"></use>
+            </g>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="51.9583162 18 66.1004518 18 66.6004518 18 66.6004518 17 66.1004518 17 51.9583162 17 51.4583162 17 51.4583162 18"></polygon>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="51.9583162 21 66.1004518 21 66.6004518 21 66.6004518 20 66.1004518 20 51.9583162 20 51.4583162 20 51.4583162 21"></polygon>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="51.9583162 24 66.1004518 24 66.6004518 24 66.6004518 23 66.1004518 23 51.9583162 23 51.4583162 23 51.4583162 24"></polygon>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="51.9583162 27 66.1004518 27 66.6004518 27 66.6004518 26 66.1004518 26 51.9583162 26 51.4583162 26 51.4583162 27"></polygon>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="51.9583162 30 66.1004518 30 66.6004518 30 66.6004518 29 66.1004518 29 51.9583162 29 51.4583162 29 51.4583162 30"></polygon>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="51.9583162 33 66.1004518 33 66.6004518 33 66.6004518 32 66.1004518 32 51.9583162 32 51.4583162 32 51.4583162 33"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,103 @@
+[gap]
+
+[ux_banner_grid height="575"]
+
+[col_grid span="9" span__sm="12" depth="1"]
+
+[ux_slider]
+
+[ux_banner height="500px" bg="8053" bg_size="large" bg_color="rgb(2, 2, 2)" bg_pos="56% 29%" hover="zoom-fade"]
+
+[text_box width="50" width__sm="78" scale="99"]
+
+<p class="lead alt-font"><span style="font-size: 190%;">Add any text here...</span></p>
+<h2 class="uppercase"><span style="font-size: 130%;"><strong>New arrivals on the shop</strong></span></h2>
+[divider align="left"]
+
+[button text="Browse" color="white" style="outline" size="larger"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="500px" bg="8102" bg_size="large" bg_color="rgb(255, 255, 255)" bg_pos="65% 16%" hover="zoom-fade"]
+
+[text_box width="50" scale="99" position_x="10" text_align="left" text_color="dark"]
+
+<p class="lead alt-font"><span style="font-size: 190%;">Add any text here...</span></p>
+<h2 class="uppercase"><span style="font-size: 130%;"><strong>New arrivals on the shop</strong></span></h2>
+[divider align="left"]
+
+[button text="Browse" style="outline" size="larger"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
+
+[/col_grid]
+[col_grid span="3" span__sm="12" height="1-2" depth="1"]
+
+[ux_banner height="500px" bg="4113" bg_size="medium" hover="zoom-fade"]
+
+[text_box width="67" width__sm="60"]
+
+<h2 class="uppercase"><strong>Add Any Headline here</strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="3" span__sm="13" height="1-2" depth="1"]
+
+[ux_banner height="500px" bg="8103" bg_size="medium" hover="zoom-fade"]
+
+[text_box width="68" width__sm="60"]
+
+<h2 class="uppercase"><strong>Add Any Headline here</strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+
+[/ux_banner_grid]
+[title style="bold-center" text="Featured Products" margin_top="22px" size="undefined"]
+
+[ux_products show="featured"]
+
+[title style="bold-center" text="Featured Categories" size="undefined"]
+
+[ux_product_categories]
+
+[gap height="36px"]
+
+[ux_banner height="366px" bg="3834" bg_overlay="rgba(0, 0, 0, 0.26)" bg_pos="60% 0%" parallax="1"]
+
+[text_box width="37" width__sm="78" position_x="10"]
+
+<h3 class="uppercase"><strong>Signup for Newsletter</strong></h3>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</p>
+[gap height="18px"]
+
+[contact-form-7 id="7042"]
+
+
+[/text_box]
+
+[/ux_banner]
+[title style="bold-center" text="Latest news" size="undefined"]
+
+[blog_posts columns="3" badge_style="square" image_height="200px"]
+
+[title style="bold-center" text="Follow on instagram" icon="icon-instagram" size="undefined"]
+
+[ux_instagram_feed username="topshop" type="slider" slider_nav_style="circle" width="full-width" columns="6"]

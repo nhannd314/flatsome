@@ -1,0 +1,79 @@
+/* Improving styles for Extra Product Options Plugin
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.tm-extra-product-options input,
+.tm-extra-product-options select,
+.tm-extra-product-options textarea{
+  margin-bottom: 0;
+}
+
+.tm-extra-product-options .tmcp-textfield.tm-epo-field{
+  width: 100%;
+}
+
+
+.tm-extra-product-options .tm-cell{
+  margin: 0!important;
+  padding: 0 0 .5em!important;
+}
+
+.tm-extra-product-options .cpf-type-divider hr{
+  margin: .5em 0;
+  border-width: 2px;
+}
+.tm-extra-product-options .cpf-type-divider + .tm-cell{
+  border:0;
+}
+.tmcp-date-select{
+  padding-right: 20px;
+}
+.tm-extra-product-options ul.tmcp-elements li.tmcp-field-wrap{
+  padding: 0;
+}
+
+.tm-extra-product-options .tmcp-field-wrap .price.amount{
+  font-size: .8em!important;
+  opacity: .6;
+}
+.tm-epo-totals{
+  margin: 0;
+  padding: 0;
+}
+
+.tm-extra-product-options .tm-extra-product-options-field{
+  margin: 0;
+}
+
+.tm-extra-product-options .tmcp-field-wrap .amount, .tm-extra-product-options .tmcp-field-wrap .after-amount{
+  margin: .6em 0 1em;
+}
+
+
+
+dt.tm-options-totals,
+dt.tm-final-totals{
+  width: 58%;
+  vertical-align: top;
+  display: inline-block;
+}
+
+dd.tm-options-totals,
+dd.tm-final-totals{
+  width: 40%;
+  text-align: right;
+  display: inline-block;
+}
+
+dt.tm-options-totals, dd.tm-options-totals{
+  font-size: 80%;
+  opacity: .7;
+}
+
+.rtl dd.tm-options-totals,
+.rtl dd.tm-final-totals{
+  text-align: left;
+}
+
+.tm-final-totals{
+  border-top: 1px solid #eee;
+  padding-top: .5em;
+}

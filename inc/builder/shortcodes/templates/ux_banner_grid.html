@@ -1,0 +1,22 @@
+<div class="banner-grid-wrapper">
+	<div id="banner-grid-{{:: shortcode.$id }}" class="banner-grid">
+		<div class="row row-grid 
+			row-{{ shortcode.options.spacing }}
+			row-{{ shortcode.options.width }}
+			row-box-shadow-{{ shortcode.options.depth }}
+			row-box-shadow-{{ shortcode.options.depthHover }}-hover">
+			<div class="grid-size small-1"></div>
+			<content />
+		</div>
+		
+		<style scope="scope">
+		   #banner-grid-{{:: shortcode.$id }} {min-height: {{ shortcode.options.height * 1 }}px }
+		   #banner-grid-{{:: shortcode.$id }} .grid-col-1{height: {{ shortcode.options.height * 1 }}px }
+		   #banner-grid-{{:: shortcode.$id }} .grid-col-1-2{height: {{ shortcode.options.height / 2 }}px }
+		   #banner-grid-{{:: shortcode.$id }} .grid-col-1-3{height: {{ shortcode.options.height / 3 }}px }
+		   #banner-grid-{{:: shortcode.$id }} .grid-col-2-3{height: {{ shortcode.options.height / 3*2 }}px }
+		   #banner-grid-{{:: shortcode.$id }} .grid-col-1-4{height: {{ shortcode.options.height / 4 }}px }
+		   #banner-grid-{{:: shortcode.$id }} .grid-col-3-4{height: {{ shortcode.options.height / 4 * 3 }}px }
+		</style>
+	</div>
+</div>

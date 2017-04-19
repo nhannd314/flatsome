@@ -1,0 +1,23 @@
+<div class="img 
+	has-hover
+	box-shadow-{{ shortcode.options.depth }}
+	{{ shortcode.options.pos }} 
+	box-shadow-{{ shortcode.options.depthHover }}-hover 
+	image-{{ shortcode.options.imageHover }}" 
+	style="max-width: {{ shortcode.options.width }}%">
+
+	<div class="test" data-animate="{{ shortcode.options.animate }}">
+		<div class="img-inner">
+		    <a href="javascript:void();">
+		        <img draggable="false"
+		            ng-if="shortcode.options.id"
+		            wp-attachment="shortcode.options.id"
+		            wp-attachment-size="shortcode.options.imageSize">
+		        <div class="temp-image" ng-if="!shortcode.options.id">
+		            Upload an Image...
+		        </div>
+		    </a>
+		</div>
+	</div>
+
+</div>

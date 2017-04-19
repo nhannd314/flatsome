@@ -1,0 +1,503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-18 21:30+0000\n"
+"PO-Revision-Date: 2016-09-25 17:25+0000\n"
+"Last-Translator: fatou <cococitron.ch@gmail.com>\n"
+"Language-Team: French (France)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: fr-FR"
+
+#: archive.php:67
+msgid "Asides"
+msgstr ""
+
+#: content-single.php:59
+#, c-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr ""
+
+#: content-single.php:61
+#, c-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content.php:61
+#, c-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content.php:71 content.php:122 content.php:192
+#, c-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content.php:112 content.php:170
+#, c-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:216
+msgid "My Account Menu"
+msgstr ""
+
+#: functions.php:231
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr ""
+
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr ""
+
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr ""
+
+#: functions.php:349
+msgid "Flatsome Theme Options"
+msgstr ""
+
+#: image.php:25
+#, c-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return "
+"to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: image.php:36 image.php:109 inc/template-tags.php:77 
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr ""
+
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: inc/custom-css.php:177
+msgid "Hot"
+msgstr ""
+
+#: inc/extras.php:101
+#, c-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:126
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+
+#: inc/post-types/blocks.php:33
+msgid "Shortcode"
+msgstr ""
+
+#: inc/post-types/blocks.php:35
+msgid "Date"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:93
+#, c-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/template-tags.php:104
+#, c-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr ""
+
+#: no-results.php:19
+#, c-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: structure-wc-product-page.php:149 woocommerce/content-product.php:149
+msgid "Zoom"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oooops ! La page demandée n'existe pas."
+
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il semble que la recherche tapée ne se trouve pas ici, essayez un des liens "
+"ci dessous "
+
+#: archive.php:40
+#, c-format
+msgid "Category Archives: %s"
+msgstr "Archives par catégorie: %s"
+
+#: archive.php:43
+#, c-format
+msgid "Tag Archives: %s"
+msgstr "Archives par tags: %s"
+
+#: archive.php:50
+#, c-format
+msgid "Author Archives: %s"
+msgstr "Archives par auteur %s"
+
+#: archive.php:58
+#, c-format
+msgid "Daily Archives: %s"
+msgstr "Archives par date de publication: %s"
+
+#: archive.php:61
+#, c-format
+msgid "Monthly Archives: %s"
+msgstr "Archives par mois de publication: %s"
+
+#: archive.php:64
+#, c-format
+msgid "Yearly Archives: %s"
+msgstr "Archives par année de publication: %s"
+
+#: archive.php:70
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:73
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:76
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:79
+msgid "Links"
+msgstr "Liens"
+
+#: comments.php:29
+#, c-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Commentaires sur &ldquo;%2$s&rdquo;"
+
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires précédents"
+
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires Suivants &rarr;"
+
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "Naviguer à travers les commentaires"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Commentaires désactivés"
+
+#: content-page.php:17 content-single.php:33 content.php:47 image.php:92 
+#: page-left-sidebar-notitle.php:22 page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr "Pages:"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:51 content-single.php:54 content.php:58 content.php:66 
+#: content.php:109 content.php:117 content.php:167 content.php:187
+msgid ", "
+msgstr ","
+
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:77 content.php:133 content.php:181 
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "Laissez un commentaire "
+
+#: content.php:77 content.php:133 content.php:181 
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> Commentaire"
+
+#: content.php:77 content.php:133 content.php:181 
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%</strong> Commentaires"
+
+#: functions.php:213
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: functions.php:214
+msgid "Footer Menu"
+msgstr "Menu du footer"
+
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr "Top Bar Menu"
+
+#: image.php:101
+#, c-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>.\n"
+
+#: image.php:103
+#, c-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">"
+"Trackback URL</a>."
+msgstr ""
+"Les commentaires sont désactivés mais vous pouvez laisser un lien de suivi: "
+"<a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your "
+"post\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:114 woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Précédent"
+
+#: image.php:115 woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Suivant <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/custom-css.php:176
+msgid "New"
+msgstr "Nouveau"
+
+#: inc/woocommerce/tempalte-tags-global:36
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/custom-css.php:178
+msgid "Sale"
+msgstr "En action"
+
+#: inc/custom-css.php:179
+msgid "Popular"
+msgstr "Populaire"
+
+#: inc/extras.php:120
+msgid "Top Content"
+msgstr "Haut de page"
+
+#: inc/post-types/blocks.php:30 
+#: inc/widgets/woocommerce-subcategories-widget.php:108
+msgid "Title"
+msgstr "Titre"
+
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr "Partager sur Twitter"
+
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr "Envoyer par mail"
+
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr "Epingler sur Pinterest"
+
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr "Partager sur Google+"
+
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Tumblr"
+msgstr "Partager sur Tumblr"
+
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow on Facebook"
+msgstr "Nous suivre sur Facebook"
+
+#: inc/shortcodes/share_follow.php:103
+msgid "Follow on YouTube"
+msgstr "Nous suivre sur Youtube"
+
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow on Twitter"
+msgstr "Nous suivre sur Twitter"
+
+#: inc/shortcodes/share_follow.php:79
+msgid "Follow on SnapChat"
+msgstr "Nous suivre sur SnapChat"
+
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr "Nous envoyer un email"
+
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow on Pinterest"
+msgstr "Nous suivre sur Pinterest"
+
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow on Google+"
+msgstr "Nous suivre sur Google+"
+
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow on Instagram"
+msgstr "Nous suivre sur Instagram"
+
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr "S'abonner à notre flux RSS"
+
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> Postes précédents"
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "Nouveaux posts <span class=\"icon-angle-right\"></span>"
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération"
+
+#: inc/template-tags.php:86
+#, c-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posté le  %s"
+
+#: inc/template-tags.php:91
+#, c-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#: inc/template-tags.php:147
+#, c-format
+msgid "View all posts by %s"
+msgstr "Voir tous les articles de %s"
+
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr "Article précédent"
+
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr "Article suivant"
+
+#: search.php:35
+#, c-format
+msgid "Search Results for: %s"
+msgstr "Chercher: %s"
+
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr "Nombre d'article :"
+
+#: inc/widgets/upsell-widget.php:105 woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr "S'associe bien avec "
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Pas de résultat"
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, nous n'avons rien pas trouvé de correspondance. Merci de re-essayer "
+"avec d'autres mots clefs"
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne trouvons pas ce que vous demander. Merci de chercher "
+"encore"
+
+#: page-checkout.php:17 page-checkout.php:28
+msgid "Shopping Cart"
+msgstr "Panier"
+
+#: page-checkout.php:19 page-checkout.php:30
+msgid "Checkout details"
+msgstr "Détails de la commande"
+
+#: page-checkout.php:21 page-checkout.php:32
+msgid "Order Complete"
+msgstr "Commande terminée"
+
+#: page-my-account.php:30 woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "S'enregistrer/s'inscrire avec Facebook"
+
+#: content-product.php:61 woocommerce/content-product.php:61
+msgid "Quick View"
+msgstr "Aperçu"

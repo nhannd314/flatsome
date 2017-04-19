@@ -1,0 +1,2219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Wed Oct 07 2015 20:01:56 GMT+0330 (Iran Standard Time)\n"
+"Last-Translator: علی فرقانی <forgani.ali@gmail.com>\n"
+"Language-Team: \n"
+"Language: Persian\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: ARGENTINA\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: fa_IR"
+
+#: ../no-results.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آماده انتشار اولین نوشته خود هستید؟ <a href=\"%1$s\">پس آغاز کنید</a>.\n"
+
+#: ../no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"به نظر میرسد نمیتوانیم چیزی که می گردید پیدا کنیم &rsquo;t | &rsquo;re . "
+"لطفا از قسمت جست و جو استفاده کنید.\n"
+
+#: ../page-right-sidebar-notitle.php:24 ../content-single.php:36 ../content-page.
+#: php:17 ../page-left-sidebar-notitle.php:24 ../content.php:47 ../image.php:92
+msgid "Pages:"
+msgstr "صفحات:"
+
+#. translators: used between list items, there is a space after the comma
+#: ../content-single.php:54 ../content-single.php:57 ../content.php:58 ../content.
+#: php:66 ../content.php:109 ../content.php:157 ../content.php:177
+msgid ", "
+msgstr ", \n"
+
+#: ../header.php:51 ../header.php:273 ../inc/structure/header.php:185
+msgid "My Account"
+msgstr "اکانت من"
+
+#: ../header.php:71 ../header.php:293 ../inc/structure/header.php:203 ..
+#: woocommerce/myaccount/form-login.php:27 ../woocommerce/myaccount/form-login.
+#: php:46
+msgid "Login"
+msgstr "ورود"
+
+#: ../header.php:79 ../header.php:308 ../inc/woocommerce/template-tags-global.php:
+#: 92
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: ../header.php:327 ../inc/woocommerce/template-tags-global.php:116
+msgid "No products in the cart."
+msgstr "محصولی در سبد خرید وجود ندارد."
+
+#: ../comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;\n"
+msgstr[1] ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه های قدیمی تر\n"
+
+#: ../comments.php:37 ../comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه های جدیدتر &rarr;\n"
+
+#: ../comments.php:55
+msgid "Comment navigation"
+msgstr "تنظیمات دیدگاه ها"
+
+#: ../comments.php:67
+msgid "Comments are closed."
+msgstr "ارسال دیدگاه بسته شده است."
+
+#: ../content.php:112 ../content.php:160
+#, php-format
+msgid "%1$s"
+msgstr "%1$s\n"
+
+#: ../page-checkout.php:19 ../page-checkout.php:31 ../page-checkout-focused.php:
+#: 65 ../page-checkout-focused.php:76
+msgid "Shopping Cart"
+msgstr "سبد خرید"
+
+#: ../page-checkout.php:21 ../page-checkout.php:33 ../page-checkout-focused.php:
+#: 67 ../page-checkout-focused.php:78
+msgid "Checkout details"
+msgstr "جزئیات پرداخت"
+
+#: ../page-checkout.php:23 ../page-checkout.php:35 ../page-checkout-focused.php:
+#: 69 ../page-checkout-focused.php:80
+msgid "Order Complete"
+msgstr "اتمام عملیات خرید"
+
+#: ../image.php:25
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"منتشر شده در <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>\n"
+
+#: ../image.php:36 ../image.php:109 ../inc/structure/posts.php:76 ..
+#: inc/structure/posts.php:105
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ../image.php:101
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"دیدگاه ارسال کنید\">دیدگاه "
+"ارسال کنید</a> یا بازتاب بفرستید <a class=\"trackback-link\" href=\"%s\" "
+"title=\"لینک بازتاب نوشته شما\" rel=\"trackback\">Trackback URL</a>.\n"
+
+#: ../image.php:103
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" "
+"rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"ارسال کامت بسته شده است ولی شما میتوانید بازتاب ارسال کنید <a "
+"class=\"trackback-link\" href=\"%s\" title=\"لینک ارسال بازتاب برای پست شما\" "
+"rel=\"trackback\">Trackback URL</a>.\n"
+
+#: ../image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" "
+"title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"ارسال بازتاب بسته شده است ولی می توانید <a class=\"comment-link\" "
+"href=\"#respond\" title=\"دیدگاه ارسال کنید\">دیدگاه ارسال کنید</a>.\n"
+
+#: ../image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr "ارسال دیدگاه و بازتاب بشته شده است"
+
+#: ../image.php:114
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> قبلی"
+
+#: ../image.php:115
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "بعدی <span class=\"meta-nav\">&rarr;</span>\n"
+
+#: ../functions.php:21 ../functions.php:25
+#, php-format
+msgid " %1$s"
+msgstr " %1$s\n"
+
+#: ../archive.php:67
+msgid "Asides"
+msgstr "کلمات قصار"
+
+#: ../archive.php:70
+msgid "Images"
+msgstr "عکس ها"
+
+#: ../archive.php:73
+msgid "Videos"
+msgstr "ویدیو ها"
+
+#: ../archive.php:76
+msgid "Quotes"
+msgstr "نقل قول"
+
+#: ../archive.php:79
+msgid "Links"
+msgstr "لینک ها"
+
+#: ../inc/helpers/global.php:144
+msgid "<strong>Maintenance mode</strong> is <strong>active</strong>!"
+msgstr "<strong>حالت تعمیر و نگهداری</strong> is <strong>active</strong>!\n"
+
+#: ../inc/helpers/global.php:145
+msgid "Deactivate it, when work is done."
+msgstr "زمانی که کارتان به پایان رسید، غیر فعال کنید"
+
+#: ../inc/helpers/global.php:161 ../inc/helpers/global.php:161
+msgid "Maintenance"
+msgstr "Maintenance\n"
+
+#: ../inc/shortcodes/share_follow.php:29
+msgid "Share on WhatsApp"
+msgstr "اشتراک گذاری در WhatsApp"
+
+#: ../inc/shortcodes/share_follow.php:31
+msgid "Share on Facebook"
+msgstr "اشتراک گذاری در Facebook"
+
+#: ../inc/shortcodes/share_follow.php:34
+msgid "Share on Twitter"
+msgstr "اشتراک گذاری در Twitter"
+
+#: ../inc/shortcodes/share_follow.php:37
+#, php-format
+msgid "Check%20this%20out:"
+msgstr "بررسی20٪ این کار٪ 20:"
+
+#: ../inc/shortcodes/share_follow.php:37
+msgid "Email to a Friend"
+msgstr "ایمیل به دوستان"
+
+#: ../inc/shortcodes/share_follow.php:40
+msgid "Pin on Pinterest"
+msgstr "پین(pin) در Pinterest"
+
+#: ../inc/shortcodes/share_follow.php:43
+msgid "Share on Google+"
+msgstr "اشتراک گذاری در Google+"
+
+#: ../inc/shortcodes/share_follow.php:46
+msgid "Share on Tumblr"
+msgstr "اشتراک گذاری در Tumblr"
+
+#: ../inc/shortcodes/share_follow.php:49
+msgid "Share on VKontakte"
+msgstr "اشتراک گذاری در TVKontakte"
+
+#: ../inc/shortcodes/share_follow.php:94
+msgid "Follow us on Facebook"
+msgstr "ما را در فیسبوک دنبال کنید"
+
+#: ../inc/shortcodes/share_follow.php:97
+msgid "Follow us on Twitter"
+msgstr "ما را در توییتر دنبال کنید"
+
+#: ../inc/shortcodes/share_follow.php:100
+msgid "Send us an email"
+msgstr "برای ما ایمیل بفرستید"
+
+#: ../inc/shortcodes/share_follow.php:103
+msgid "Follow us on Pinterest"
+msgstr "ما در Pinterest دنبال کنید"
+
+#: ../inc/shortcodes/share_follow.php:106
+msgid "Follow us on Google+"
+msgstr "ما را در + Google دنبال کنید"
+
+#: ../inc/shortcodes/share_follow.php:109
+msgid "Follow us on Instagram"
+msgstr "ما در اینستاگرم دنبال کنید"
+
+#: ../inc/shortcodes/share_follow.php:112
+msgid "Subscribe to RSS"
+msgstr "اشتراک در RSS"
+
+#: ../inc/shortcodes/share_follow.php:115
+msgid "Follow us on LinkedIn"
+msgstr "ما در LinkedIn دنبال کنید"
+
+#: ../inc/shortcodes/share_follow.php:118
+msgid "Follow us on YouTube"
+msgstr "ما را در یوتیوب دنبال کنید"
+
+#: ../inc/shortcodes/share_follow.php:121
+msgid "Follow us on Tumblr"
+msgstr "ما را در وبلاگ Tumblr  دنبال کنید"
+
+#: ../inc/shortcodes/share_follow.php:124
+msgid "Flickr"
+msgstr "Flickr\n"
+
+#: ../inc/shortcodes/share_follow.php:127
+msgid "Follow on VKontakte"
+msgstr "دنبال در VKontakte دنبال کنید"
+
+#: ../inc/shortcodes/product_categories.php:334 ../woocommerce/content-
+#: product_cat.php:49
+msgid "Products"
+msgstr "محصولات"
+
+#: ../inc/post-types/ux-featured-items.php:90
+msgid "Featured Items"
+msgstr "آیتم های برجسته"
+
+#: ../inc/post-types/ux-featured-items.php:91
+msgid "Featured Item"
+msgstr "آیتم برجسته"
+
+#: ../inc/post-types/ux-featured-items.php:92 ../inc/post-types/ux-featured-items.
+#: php:93
+msgid "Add New"
+msgstr "افزودن"
+
+#: ../inc/post-types/ux-featured-items.php:94
+msgid "Edit Item"
+msgstr "ویرایش"
+
+#: ../inc/post-types/ux-featured-items.php:95
+msgid "Add New  Item"
+msgstr "اضافه کردن آیتم جدید"
+
+#: ../inc/post-types/ux-featured-items.php:96
+msgid "View Item"
+msgstr "مشاهده"
+
+#: ../inc/post-types/ux-featured-items.php:97
+msgid "Search Items"
+msgstr "جست وجو "
+
+#: ../inc/post-types/ux-featured-items.php:98
+msgid "No items found"
+msgstr "موردی پیدا نشد"
+
+#: ../inc/post-types/ux-featured-items.php:99
+msgid "No items found in trash"
+msgstr "موردی در سطل زباله یافت نشد "
+
+#: ../inc/post-types/ux-featured-items.php:135 ../inc/post-types/ux-featured-
+#: items.php:137
+msgid "Tags"
+msgstr "تگ ها"
+
+#: ../inc/post-types/ux-featured-items.php:136
+msgid "Tag"
+msgstr "تگ"
+
+#: ../inc/post-types/ux-featured-items.php:138
+msgid "Edit Tag"
+msgstr "ویرایش تگ"
+
+#: ../inc/post-types/ux-featured-items.php:139
+msgid "Update Tag"
+msgstr "بروزرسانی تگ"
+
+#: ../inc/post-types/ux-featured-items.php:140
+msgid "Add New Tag"
+msgstr "افزودن تگ جدید"
+
+#: ../inc/post-types/ux-featured-items.php:141
+msgid "New  Tag Name"
+msgstr "نام تگ جدید"
+
+#: ../inc/post-types/ux-featured-items.php:142
+msgid "Parent Tag"
+msgstr "تگ مادر"
+
+#: ../inc/post-types/ux-featured-items.php:143
+msgid "Parent Tag:"
+msgstr "تگ مادز:"
+
+#: ../inc/post-types/ux-featured-items.php:144
+msgid "All Tags"
+msgstr "تمام تگ ها"
+
+#: ../inc/post-types/ux-featured-items.php:145
+msgid "Search  Tags"
+msgstr "جست و جوی تگ"
+
+#: ../inc/post-types/ux-featured-items.php:146
+msgid "Popular Tags"
+msgstr "تگ های محبوب"
+
+#: ../inc/post-types/ux-featured-items.php:147
+msgid "Separate tags with commas"
+msgstr "تگ ها را با کاما جدا کنید"
+
+#: ../inc/post-types/ux-featured-items.php:148
+msgid "Add or remove tags"
+msgstr "افزودن یا پاک کردن تگ ها"
+
+#: ../inc/post-types/ux-featured-items.php:149
+msgid "Choose from the most used tags"
+msgstr "انتخاب از تگ های بیشتر استفاده شده"
+
+#: ../inc/post-types/ux-featured-items.php:314
+msgid "Thumbnail"
+msgstr "Thumbnail\n"
+
+#: ../inc/post-types/ux-blocks.php:44
+msgid "Shortcode"
+msgstr "Shortcode\n"
+
+#: ../inc/admin/welcome-screen/welcome-screen.php:47
+#, php-format
+msgid ""
+"Thanks for choosing Flatsome! You can read hints and tips on how get the "
+"most out of your new theme on the %swelcome screen%s."
+msgstr ""
+"با تشکر از انتخاب پوسته Flatsome.شما می توانید تکات و راهنمایی های پوسته "
+"جدید خود را اینتجا ببیدید %swelcome screen%s"
+
+#: ../inc/admin/welcome-screen/welcome-screen.php:48
+msgid "Get started with flatsome"
+msgstr "شروع کار با پوسته Flatsome"
+
+#: ../inc/admin/welcome-screen/sections/intro.php:14
+msgid ""
+"Awesome! You've decided to use Storefront to enrich your WooCommerce store "
+"design."
+msgstr ""
+"Awesome! You've decided to use Storefront to enrich your WooCommerce store "
+"design.\n"
+
+#: ../inc/admin/welcome-screen/sections/intro.php:15
+msgid ""
+"Whether you're a store owner, WordPress developer, or both - we hope you "
+"enjoy Storefront's deep integration with WooCommerce core (including several "
+"popular WooCommerce extensions), plus the flexible design and extensible "
+"codebase that this theme provides."
+msgstr ""
+"Whether you're a store owner, WordPress developer, or both - we hope you "
+"enjoy Storefront's deep integration with WooCommerce core (including several "
+"popular WooCommerce extensions), plus the flexible design and extensible "
+"codebase that this theme provides.\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:11
+msgid "Get a whole new look"
+msgstr "دریافت یک نگاه کاملا جدید"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:14
+msgid ""
+"Below you will find a selection of Storefront child themes that will "
+"transform the look and feel of your site while retaining the rock solid "
+"Storefront foundation."
+msgstr ""
+"Below you will find a selection of Storefront child themes that will "
+"transform the look and feel of your site while retaining the rock solid "
+"Storefront foundation.\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:20
+msgid "Galleria Child Theme"
+msgstr "گالری Child Theme"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:21
+msgid "Galleria"
+msgstr "گالری"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:22
+msgid ""
+"Galleria is a Storefront child theme perfect for fashion and design stores. "
+"Stylish and minimalist, it gives sites a high class look and keeps products "
+"centerstage."
+msgstr ""
+"Galleria is a Storefront child theme perfect for fashion and design stores. "
+"Stylish and minimalist, it gives sites a high class look and keeps products "
+"centerstage.\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:25
+#, php-format
+msgid "Buy %s now"
+msgstr "Buy %s now\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:27
+#, php-format
+msgid "Read more %sabout Galleria%s &rarr;"
+msgstr "Read more %sabout Galleria%s &rarr;\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:32
+msgid "Deli Child Theme"
+msgstr "Deli Child Theme\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:33
+msgid "Deli"
+msgstr "Deli\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:34
+msgid ""
+"Deli features a texturised, earthy design, perfect for stores selling "
+"natural, organic or hand made goods."
+msgstr ""
+"Deli features a texturised, earthy design, perfect for stores selling "
+"natural, organic or hand made goods.\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:37 ../inc/admin/welcome-
+#: screen/sections/child-themes.php:49
+#, php-format
+msgid "Install %s now"
+msgstr "Install %s now\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:39
+#, php-format
+msgid "Read more %sabout Deli%s &rarr;"
+msgstr "Read more %sabout Deli%s &rarr;\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:44
+msgid "Boutique Child Theme"
+msgstr "Boutique Child Theme\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:45
+msgid "Boutique"
+msgstr "Boutique\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:46
+msgid ""
+"Boutique is a simple, traditionally designed Storefront child theme, ideal "
+"for small stores or boutiques. Add your logo, create a unique color scheme "
+"and start selling!"
+msgstr ""
+"Boutique is a simple, traditionally designed Storefront child theme, ideal "
+"for small stores or boutiques. Add your logo, create a unique color scheme "
+"and start selling!\n"
+
+#: ../inc/admin/welcome-screen/sections/child-themes.php:51
+#, php-format
+msgid "Read more %sabout Boutique%s &rarr;"
+msgstr "Read more %sabout Boutique%s &rarr;\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:7
+msgid "Enhance your site"
+msgstr "بهبود سایت شما"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:10
+msgid ""
+"Below you will find a selection of free and commercial Storefront extensions "
+"that could help improve your online store."
+msgstr ""
+"Below you will find a selection of free and commercial Storefront extensions "
+"that could help improve your online store.\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:14
+msgid "Make your site instantly recognisable by adding your logo"
+msgstr " با اضافه کردن لوگوی خود سایت خود را سریعا قابل تشخیص کنید"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:14 ../inc/admin/welcome-
+#: screen/sections/add-ons.php:105
+msgid "Free (Third Party)"
+msgstr "Free (Third Party)\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:16
+#, php-format
+msgid ""
+"Jetpack is probably a plugin you're already familiar with. Storefront fully "
+"supports Jetpacks site logo feature making it easy to upload and display "
+"your logo via the Customizer. %sMore info &rarr;%s"
+msgstr ""
+"Jetpack is probably a plugin you're already familiar with. Storefront fully "
+"supports Jetpacks site logo feature making it easy to upload and display "
+"your logo via the Customizer. %sMore info &rarr;%s\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:19 ../inc/admin/welcome-
+#: screen/sections/add-ons.php:32 ../inc/admin/welcome-screen/sections/add-ons.
+#: php:45 ../inc/admin/welcome-screen/sections/add-ons.php:58 ..
+#: inc/admin/welcome-screen/sections/add-ons.php:71 ../inc/admin/welcome-
+#: screen/sections/add-ons.php:84 ../inc/admin/welcome-screen/sections/add-ons.
+#: php:97 ../inc/admin/welcome-screen/sections/add-ons.php:110
+msgid "Activated"
+msgstr "Activated\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:21 ../inc/admin/welcome-
+#: screen/sections/getting-started.php:39
+msgid "Install Jetpack"
+msgstr "Install Jetpack\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:27
+msgid "Further customise your store with the Storefront Designer"
+msgstr "Further customise your store with the Storefront Designer\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:27 ../inc/admin/welcome-
+#: screen/sections/add-ons.php:40 ../inc/admin/welcome-screen/sections/add-ons.
+#: php:92
+msgid "Premium"
+msgstr "Premium\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:29
+msgid ""
+"Storefront Designer adds a bunch of additional appearance settings allowing "
+"you to further tweak and perfect your Storefront design by changing the "
+"header layout, button styles, typographical schemes/scales and more."
+msgstr ""
+"Storefront Designer adds a bunch of additional appearance settings allowing "
+"you to further tweak and perfect your Storefront design by changing the "
+"header layout, button styles, typographical schemes/scales and more.\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:34
+#, php-format
+msgid "Buy %sStorefront Designer%s now"
+msgstr "Buy %sStorefront Designer%s now\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:40
+msgid "Highlight a product of your choosing with the Storefront Product Hero"
+msgstr "Highlight a product of your choosing with the Storefront Product Hero\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:42
+msgid ""
+"The Storefront Product Hero extension adds a parallax hero component to your "
+"homepage highlighting a specific product at your store. Use the shortcode to "
+"add attractive hero components to posts, pages or widgets."
+msgstr ""
+"The Storefront Product Hero extension adds a parallax hero component to your "
+"homepage highlighting a specific product at your store. Use the shortcode to "
+"add attractive hero components to posts, pages or widgets.\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:47
+#, php-format
+msgid "Buy %sStorefront Product Hero%s now"
+msgstr "Buy %sStorefront Product Hero%s now\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:53
+msgid "Have your visitors market your store for you with Storefront Product Sharing"
+msgstr "Have your visitors market your store for you with Storefront Product Sharing\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:53 ../inc/admin/welcome-
+#: screen/sections/add-ons.php:66 ../inc/admin/welcome-screen/sections/add-ons.
+#: php:79
+msgid "Free"
+msgstr "رایگان"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:55
+#, php-format
+msgid ""
+"Storefront Product Sharing adds attractive social sharing icons for Facebook,"
+" Twitter, Pinterest and Email to your product pages. %sMore info &rarr;%s"
+msgstr ""
+"Storefront Product Sharing adds attractive social sharing icons for Facebook,"
+" Twitter, Pinterest and Email to your product pages. %sMore info &rarr;%s\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:60
+msgid "Install Storefront Product Sharing"
+msgstr "Install Storefront Product Sharing\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:66
+msgid "Add a site-wide call out to your footer with Storefront Footer Bar"
+msgstr "Add a site-wide call out to your footer with Storefront Footer Bar\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:68
+#, php-format
+msgid ""
+"Storefront Footer Bar adds a full width widgetised region above the default "
+"Storefront footer widget area. %sMore info &rarr;%s"
+msgstr ""
+"Storefront Footer Bar adds a full width widgetised region above the default "
+"Storefront footer widget area. %sMore info &rarr;%s\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:73
+msgid "Install Storefront Footer Bar"
+msgstr "Install Storefront Footer Bar\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:79
+msgid "Storefront Product Pagination"
+msgstr "Storefront Product Pagination\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:81
+#, php-format
+msgid ""
+"Storefront Product Pagination adds unobtrusive links to next/previous "
+"products on your WooCommerce single product pages. %sMore info &rarr;%s"
+msgstr ""
+"Storefront Product Pagination adds unobtrusive links to next/previous "
+"products on your WooCommerce single product pages. %sMore info &rarr;%s\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:86
+msgid "Install Storefront Product Pagination"
+msgstr "Install Storefront Product Pagination\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:92
+msgid ""
+"Refine your shop archives and product pages with the Storefront WooCommerce "
+"Customiser"
+msgstr ""
+"Refine your shop archives and product pages with the Storefront WooCommerce "
+"Customiser\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:94
+msgid ""
+"The Storefront WooCommerce Customiser extension gives you further control "
+"over the look and feel of your shop. Change the product archive and single "
+"layouts, toggle various shop components and more."
+msgstr ""
+"The Storefront WooCommerce Customiser extension gives you further control "
+"over the look and feel of your shop. Change the product archive and single "
+"layouts, toggle various shop components and more.\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:99
+#, php-format
+msgid "Buy %sStorefront WooCommerce Customiser%s now"
+msgstr "Buy %sStorefront WooCommerce Customiser%s now\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:105
+msgid "Add practical information to your pages with Storefront Top Bar"
+msgstr "Add practical information to your pages with Storefront Top Bar\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:107
+#, php-format
+msgid ""
+"Storefront Top Bar adds a widgetised content area at the top of your site "
+"and customise it's appearance in the Customizer. %sMore info &rarr;%s"
+msgstr ""
+"Storefront Top Bar adds a widgetised content area at the top of your site "
+"and customise it's appearance in the Customizer. %sMore info &rarr;%s\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:112
+msgid "Install Storefront Top Bar"
+msgstr "Install Storefront Top Bar\n"
+
+#: ../inc/admin/welcome-screen/sections/add-ons.php:120
+#, php-format
+msgid ""
+"There are literally hundreds of awesome extensions available for you to use. "
+"Looking for Table Rate Shipping? Subscriptions? Product Add-ons? You can "
+"find these and more in the WooCommerce extension shop. %sGo shopping%s."
+msgstr ""
+"There are literally hundreds of awesome extensions available for you to use. "
+"Looking for Table Rate Shipping? Subscriptions? Product Add-ons? You can "
+"find these and more in the WooCommerce extension shop. %sGo shopping%s.\n"
+
+#: ../inc/admin/welcome-screen/sections/tabs.php:2
+msgid "Getting Started"
+msgstr "شروع"
+
+#: ../inc/admin/welcome-screen/sections/tabs.php:3
+msgid "Customize Flatsome"
+msgstr "سفارشی سازی Flatsome"
+
+#: ../inc/admin/welcome-screen/sections/tabs.php:4
+msgid "Flatsome Plugins"
+msgstr "افزونه های Flatsome"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:15
+msgid "Using Storefront"
+msgstr "Using Storefront\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:16
+msgid ""
+"We've purposely kept Storefront lean & mean so configuration is a breeze. "
+"Here are some common theme-setup tasks:"
+msgstr ""
+"We've purposely kept Storefront lean & mean so configuration is a breeze. "
+"Here are some common theme-setup tasks:\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:20 ..
+#: inc/admin/welcome-screen/sections/getting-started.php:23
+msgid "Install WooCommerce"
+msgstr "نصب Woccommerce"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:21
+msgid ""
+"Although Storefront works fine as a standard WordPress theme, it really "
+"shines when used for an online store. Install WooCommerce and start selling "
+"now."
+msgstr ""
+"Although Storefront works fine as a standard WordPress theme, it really "
+"shines when used for an online store. Install WooCommerce and start selling "
+"now.\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:26
+msgid "Configure menu locations"
+msgstr "پیکربندی مکان های منو(فهرست)"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:27
+msgid ""
+"Storefront includes three menu locations for primary, secondary and handheld "
+"navigation. The primary navigation is perfect for your key pages like the "
+"shop and product categories. The secondary navigation is better suited to "
+"lower traffic pages such as terms and conditions. The handheld navigation "
+"gives you complete control over what menu items to serve to handheld devices."
+msgstr ""
+"Storefront includes three menu locations for primary, secondary and handheld "
+"navigation. The primary navigation is perfect for your key pages like the "
+"shop and product categories. The secondary navigation is better suited to "
+"lower traffic pages such as terms and conditions. The handheld navigation "
+"gives you complete control over what menu items to serve to handheld devices."
+"\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:28
+msgid "Configure menus"
+msgstr "پیکربندی منو(فهرست)"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:30
+msgid "Create a color scheme"
+msgstr "ایجاد یک طرح رنگ"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:31
+msgid ""
+"Using the WordPress Customizer you can tweak Storefront's appearance to "
+"match your brand."
+msgstr ""
+"Using the WordPress Customizer you can tweak Storefront's appearance to "
+"match your brand.\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:32
+msgid "Open the Customizer"
+msgstr "باز کردن Customizer\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:35
+msgid "Add your logo"
+msgstr "افزودن لوگو"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:36
+#, php-format
+msgid ""
+"Install and activate either %sJetpack%s or the to enable a custom logo "
+"option in the Customizer."
+msgstr ""
+"Install and activate either %sJetpack%s or the to enable a custom logo "
+"option in the Customizer.\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:46
+msgid "Configure homepage template"
+msgstr "پیکربندی قالب صفحه اصلی"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:47
+msgid ""
+"Storefront includes a homepage template that displays a selection of "
+"products from your store."
+msgstr ""
+"Storefront includes a homepage template that displays a selection of "
+"products from your store.\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:48
+#, php-format
+msgid ""
+"To set this up you will need to create a new page and assign the \"Homepage\" "
+"template to it. You can then set that as a static homepage in the "
+"%sReading%s settings."
+msgstr ""
+"برای تنظیم این شما نیاز به ایجاد یک صفحه جدید و اختصاص دادن \"صفحه خانگی\" "
+"قالب به آن است. بعد از آن شما می توانید از تنظیمات آن را برای صفحه اصلی "
+"انتخاب کنید٪ sReading٪ ."
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:49
+#, php-format
+msgid ""
+"Once set up you can toggle and re-order the homepage components using the "
+"%sHomepage Control%s plugin."
+msgstr ""
+"Once set up you can toggle and re-order the homepage components using the "
+"%sHomepage Control%s plugin.\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:52
+msgid "Install Homepage Control"
+msgstr "نصب کنترل صفحه اصلی"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:55
+msgid "View documentation"
+msgstr "مشاهده مستندات و آموزش"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:56
+msgid ""
+"You can read detailed information on Storefronts features and how to develop "
+"on top of it in the documentation."
+msgstr ""
+"You can read detailed information on Storefronts features and how to develop "
+"on top of it in the documentation.\n"
+
+#: ../inc/admin/welcome-screen/sections/getting-started.php:57
+msgid "View documentation &rarr;"
+msgstr "مشاهده مستندات و آموزش &rarr;\n"
+
+#: ../inc/admin/welcome-screen/sections/who.php:8
+msgid "The Woo Team"
+msgstr "The Woo Team\n"
+
+#: ../inc/admin/welcome-screen/sections/who.php:9
+msgid "Who are UX Themes"
+msgstr "Who are UX Themes\n"
+
+#: ../inc/admin/welcome-screen/sections/who.php:10
+msgid ""
+"WooCommerce creators WooThemes is an international team of WordPress "
+"superstars building products for a passionate community of hundreds of "
+"thousands of users."
+msgstr ""
+"WooCommerce creators WooThemes is an international team of WordPress "
+"superstars building products for a passionate community of hundreds of "
+"thousands of users.\n"
+
+#: ../inc/admin/welcome-screen/sections/who.php:11
+msgid "Visit WooThemes"
+msgstr "Visit WooThemes\n"
+
+#: ../inc/admin/classes/class.options_machine.php:568
+msgid "Last Backup : "
+msgstr "اخرین بک آپ"
+
+#: ../inc/admin/front-end/options.php:29 ../inc/admin/front-end/options.php:53
+msgid "Save All Changes"
+msgstr "ذخیره تمامی تغییرات"
+
+#: ../inc/admin/front-end/options.php:54
+msgid "Options Reset"
+msgstr "بازگردانی به حالت پیشفرض"
+
+#: ../inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr "برای تشویق به خرید بیشتر محصولات را در صفحه محصول قرار بده"
+
+#: ../inc/widgets/upsell-widget.php:109 ../woocommerce/single-product/up-sells.
+#: php:40
+msgid "Complete the look"
+msgstr "Complete the look\n"
+
+#: ../inc/widgets/recent-posts.php:18
+msgid "A widget that displays recent posts "
+msgstr "A widget that displays recent posts \n"
+
+#: ../inc/widgets/recent-posts.php:22
+msgid "Flatsome Recent Posts"
+msgstr "Flatsome Recent Posts\n"
+
+#: ../inc/widgets/recent-posts.php:43
+msgid "Recent Posts"
+msgstr "Recent Posts\n"
+
+#: ../inc/widgets/recent-posts.php:97
+msgid "Title:"
+msgstr "عنوان:"
+
+#: ../inc/widgets/recent-posts.php:100
+msgid "Number of posts to show:"
+msgstr "تعداد پست های قابل نمایش:"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:333 ../inc/functions/inc-
+#: plugins.php:113
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های مورد نیاز"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:334 ../inc/functions/inc-
+#: plugins.php:114
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:335 ../inc/functions/inc-
+#: plugins.php:115
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "در حال نصب افزونه: %s\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:336 ../inc/functions/inc-
+#: plugins.php:116
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API.\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:337 ../inc/functions/inc-
+#: plugins.php:117
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "این پوسته نیاز به پلاگین های زیر دارد.%1$s"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:342 ../inc/functions/inc-
+#: plugins.php:122
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "برای استفاده از این پوسته پلاگین های زیر توصیه میشود. %1$s"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:347 ../inc/functions/inc-
+#: plugins.php:127
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "با عرض پوزش، اما شما دسترسی لازم را برای نصب افزونه %1$sرا ندارد."
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:352 ../inc/functions/inc-
+#: plugins.php:132
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"افزونه زیر نیاز دارد که به آخرین نسخه آن روز رسانی شود.برای اطمینان از "
+"حداکثر سازگاری با این پوسته:%1$s"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:357 ../inc/functions/inc-
+#: plugins.php:137
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "آپدیت جدید برای:%1$s"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:362 ../inc/functions/inc-
+#: plugins.php:142
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "با عرض پوزش، اما شما دسترسی لازم را برای بروزرسانی افزونه %1$sرا ندارد."
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:367 ../inc/functions/inc-
+#: plugins.php:147
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ": این افزونه مورد نیاز در حال حاضر غیر فعال است%1$s"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:372 ../inc/functions/inc-
+#: plugins.php:152
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ": این افزونه توصیه شده در حال حاضر غیر فعال است%1$s"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:377 ../inc/functions/inc-
+#: plugins.php:157
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "با عرض پوزش، اما شما دسترسی لازم را برای فعالسازی افزونه %1$sرا ندارد."
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:382 ../inc/functions/inc-
+#: plugins.php:162
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "شروع به نصب افزونه"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:387 ../inc/functions/inc-
+#: plugins.php:167
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "شروع بروز رسانی افزونه"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:392 ../inc/functions/inc-
+#: plugins.php:172
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "شروع فعالسازی افزونه"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:397 ../inc/functions/inc-
+#: plugins.php:177
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت به محل نصب افزونه های مورد نیاز"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "بازگشت به پیشخوان"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:399 ../inc/classes/class-tgm-
+#: plugin-activation.php:3034 ../inc/functions/inc-plugins.php:178
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:400 ../inc/classes/class-tgm-
+#: plugin-activation.php:2837 ../inc/functions/inc-plugins.php:179
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "پلاگین های زیر با موفقیت فعال شد:"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:401 ../inc/functions/inc-
+#: plugins.php:180
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "هیج اقدامی انجام نشد. افزونه %1$s از قبل فعال است"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:402 ../inc/functions/inc-
+#: plugins.php:181
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"افزونه فعال نشد. ورژن جدید تر %s برای این پوسته مورد نیاز است. لطفا "
+"بروزرسانی کنید."
+
+#: ../inc/classes/class-tgm-plugin-activation.php:403 ../inc/functions/inc-
+#: plugins.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "همه افزونه ها با موفقیت نسب و فعال شد. %1$s"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "پنهان کردن این پیام"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:405 ../inc/functions/inc-
+#: plugins.php:183
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای کمک با مدیر این سایت تماس بگیرید."
+
+#: ../inc/classes/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه برای سازگاری با پوسته شما نیاز به بروز رسانی دارد"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr "بروزرسانی نیاز است"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr "Set the parent_slug config variable instead.\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:833 ../inc/classes/class-tgm-
+#: plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr "بازگست به پیشخوان"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work.\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:940 ../inc/classes/class-tgm-
+#: plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines.\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder.\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:1121 ../inc/classes/class-tgm-
+#: plugin-activation.php:2833
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr "مورد نیاز"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr "پیش بسته بندی شده"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr "نصب شده است اما هنوز فعال نشده"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr "فعال"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr "نیاز به روز رسانی موجود نیست"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr "نیاز به بروز رسانی"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr "بروز رسانی های توصیه شده"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2285
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>\n"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>\n"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "بروزرسانی موجود است <span class=\"count\">(%s)</span>\n"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "برای فعال سازی <span class=\"count\">(%s)</span>\n"
+msgstr[1] ""
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناخته"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr "ورژن نصب شده:"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr "کمترین ورژن مورد نیاز:"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr "ورژن موجود:"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"افزونه ای برای نصب ، آپدیت یا بروزرسانی وجود ندارد <a href=\"%1$s\">بازگشت به "
+"پیشخوان</a>\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr "افزونه"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr "مخزن"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr "نوع"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr "ورژن"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr "وضعیت"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "نصب %2$s\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "بروزرسانی %2$s\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "فعالسازی %2$s\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr " پیام ارتقا از نویسنده افزونه:"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr "نصب"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr "فعالسازی"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه ای برای نصب انتخاب نشده است"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ افزونه ای برای بروزرسانی انتخاب نشده است"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr "افزونه ای برای نصب در این زمان وجود ندارد."
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr "افزونه ای برای بروزرسانی در این زمان وجود ندارد."
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه ای برای فعالسازی انتخاب نشده است"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr "افزونه ای برای فعالسازی در این زمان وجود ندارد."
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr "فعال سازی پلاگین شکست خورده است."
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "بروزرسانی افزونه %1$s (%2$d/%3$d)\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "خطایی در نصب بوجود آمده است %1$s: <strong>%2$s</strong>.\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "نصب %1$s با خطا مواجه شد"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"مراحل نصب و فعال سازی شروع شده است. این فرایند ممکن است در بعضی از میزبان ها "
+"طول بکشد، پس لطفا صبور باشید."
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s با موفقیت نصب و فعال شد.\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3375 ../inc/classes/class-tgm-
+#: plugin-activation.php:3381
+msgid "Show Details"
+msgstr "نمایش جزییات"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3375 ../inc/classes/class-tgm-
+#: plugin-activation.php:3381
+msgid "Hide Details"
+msgstr "پنهان کردن جزییات"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr "همه نصب ها و فعالسازی ها به اتمام رسید"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعالسازی افزونه %1$s (%2$d/%3$d)\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"مراحل نصب شروع شده است. این فرایند ممکن است در بعضی از میزبان ها طول بکشد، "
+"پس لطفا صبور باشید."
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s با موفقیت نصب شد.\n"
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr "همه نصب ها به پایان رسیده."
+
+#: ../inc/classes/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال نصب افزونه %1$s (%2$d/%3$d)\n"
+
+#: ../inc/extensions/ux-builder/flatsome-builder.php:28
+msgid "Page Builder"
+msgstr "صفحه ساز"
+
+#: ../inc/structure/posts.php:48
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> نوشته های قدیمی\n"
+
+#: ../inc/structure/posts.php:52
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "نوشته های جدیدتر <span class=\"icon-angle-right\"></span>"
+
+#: ../inc/structure/posts.php:76
+msgid "Pingback:"
+msgstr "اشتراک ها:"
+
+#: ../inc/structure/posts.php:92
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">میگوید:</span>\n"
+
+#: ../inc/structure/posts.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار تایید است."
+
+#: ../inc/structure/posts.php:103
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s\n"
+
+#: ../inc/woocommerce/wc-admin.php:13
+msgid "Top Content"
+msgstr "بالای صفحه"
+
+#: ../inc/woocommerce/wc-admin.php:19
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+"یک مقدار برای این فیلد وارد کنید. shortcode مجاز است. این در بالای صفحه "
+"نمایش داده می شود."
+
+#: ../inc/woocommerce/wc-admin.php:35
+msgid "Bottom Content"
+msgstr "پایین صفحه"
+
+#: ../inc/woocommerce/wc-admin.php:40
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at bottom of the category."
+msgstr ""
+"یک مقدار برای این فیلد وارد کنید. shortcode مجاز است. این در پایین صفحه "
+"نمایش داده می شود."
+
+#: ../inc/woocommerce/wc-custom-fields.php:11
+msgid "Extra"
+msgstr "Extra"
+
+#: ../inc/woocommerce/wc-custom-fields.php:17
+msgid "Custom Bubble"
+msgstr "Bubble سفارشی"
+
+#: ../inc/woocommerce/wc-custom-fields.php:18
+msgid "Enable a custom bubble on this product."
+msgstr "فعالسازی Bubble سفارشی برای این محصول"
+
+#: ../inc/woocommerce/wc-custom-fields.php:29
+msgid "Custom Bubble Title"
+msgstr "عنوان bubble سفارشی"
+
+#: ../inc/woocommerce/wc-custom-fields.php:30
+msgid "NEW"
+msgstr "جدید"
+
+#: ../inc/woocommerce/wc-custom-fields.php:32 ../inc/woocommerce/wc-custom-fields.
+#: php:42
+msgid "Field description."
+msgstr "فیلد توضیحات"
+
+#: ../inc/woocommerce/wc-custom-fields.php:39
+msgid "Custom Tab Title"
+msgstr "عنوان تب سفارشی"
+
+#: ../inc/woocommerce/wc-custom-fields.php:49
+msgid "Custom Tab Content"
+msgstr "محتوای تب سفارشی"
+
+#: ../inc/woocommerce/wc-custom-fields.php:52
+msgid "Enter content for custom product tab here. Shortcodes are allowed"
+msgstr "محتوای تب محصول سفارشی را اینجا وارد کنید. shortcode  مجاز است"
+
+#: ../inc/woocommerce/wc-custom-fields.php:61
+msgid "Product Video"
+msgstr "ویدیو محصول"
+
+#: ../inc/woocommerce/wc-custom-fields.php:63
+msgid ""
+"Enter a Youtube or Vimeo Url of the product video here. We recommend "
+"uploading your video to Youtube."
+msgstr ""
+"لینک آدرس Youtube یا Vimdeo این محصول .ما توصیه می کنیم ویدیو را در Youtube "
+"آپلود کنید"
+
+#: ../inc/woocommerce/wc-custom-fields.php:70
+msgid "Product Video Size"
+msgstr "سایز ویدیو محصول"
+
+#: ../inc/woocommerce/wc-custom-fields.php:71
+msgid "900x900"
+msgstr "900x900\n"
+
+#: ../inc/woocommerce/wc-custom-fields.php:74
+msgid "Set Product Video Size.. Default is 900x900. (Width X Height)"
+msgstr "سایز ویدیو را تنظیم کنید (پیشفرض  900x90) "
+
+#: ../woocommerce/cart/cart.php:52
+msgid "Remove this item"
+msgstr "حذف این مورد"
+
+#: ../woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr "موجود در backorder"
+
+#: ../woocommerce/cart/cart.php:142
+msgid "Update Cart"
+msgstr "بروزرسانی سبد خرید"
+
+#: ../woocommerce/cart/cart.php:143
+msgid "Proceed to Checkout"
+msgstr "اتمام خرید - ادامه"
+
+#: ../woocommerce/cart/cart.php:149
+msgid "Coupon"
+msgstr "کوپن"
+
+#: ../woocommerce/cart/cart.php:150
+msgid "Enter Coupon"
+msgstr "وارد کردن کوپن"
+
+#: ../woocommerce/cart/cart.php:151
+msgid "Apply Coupon"
+msgstr "اعمال کوپن"
+
+#: ../woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "برای تسویه حساب باید وارد شوید."
+
+#: ../woocommerce/checkout/form-checkout.php:37
+msgid "Returning customer?"
+msgstr "مشتری بازگشتی؟"
+
+#: ../woocommerce/checkout/form-checkout.php:42 ../woocommerce/checkout/form-
+#: checkout.php:44
+msgid "Click here to login"
+msgstr "برای ورود اینجا را کلیک کنید"
+
+#: ../woocommerce/checkout/form-checkout.php:50
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"اگر قبلا از ما خرید داشته اید، خواهشمندیم جزییات را در کادر های پایین "
+"بنویسید. اگر مشتری جدید هستید به مرحله پرداخت و ارسال بروید"
+
+#: ../woocommerce/checkout/form-checkout.php:89
+msgid "Your order"
+msgstr "سفارش شما"
+
+#: ../woocommerce/loop/nested-category.php:99
+msgid "See more"
+msgstr "بیشتر"
+
+#: ../woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr "مرتب سازی پیش فرض"
+
+#: ../woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr "مرتب سازی بر اساس محبوبیت"
+
+#: ../woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr "مرتب سازی بر اساس میانگین رتبه"
+
+#: ../woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr "مرتب سازی بر اساس جدیدترین"
+
+#: ../woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr "مرتب سازی بر اساس هزینه: کم به زیاد"
+
+#: ../woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr "مرتب سازی بر اساس هزینه: زیاد به کم"
+
+#. Name of the theme
+msgid "Flatsome"
+msgstr "Flatsome"
+
+#. Theme URI of the theme
+msgid "http://flatsome.uxthemes.com/"
+msgstr "http://flatsome.uxthemes.com/\n"
+
+#. Description of the theme
+msgid "Flat Responsive WooCommerce theme"
+msgstr "Flat Responsive WooCommerce theme\n"
+
+#. Author of the theme
+msgid "UX-Themes"
+msgstr "UX-Themes\n"
+
+#. Author URI of the theme
+msgid "http://www.uxthemes.com/"
+msgstr "http://www.uxthemes.com/\n"
+
+#: ../inc/woocommerce/template-tags-global.php:36
+msgid "Home"
+msgstr "صفحه اصلی"
+
+#: ../inc/woocommerce/template-tags-product-page.php:28
+msgid "Video"
+msgstr "ویدیو"
+
+#: ../inc/woocommerce/template-tags-product-page.php:58
+msgid "Zoom"
+msgstr "زوم"
+
+#: ../inc/woocommerce/template-tags-product-page.php:173 ../woocommerce/single-
+#: product/review.php:24
+msgid "out of 5"
+msgstr "از 5"
+
+#: ../inc/woocommerce/template-tags-checkout.php:8
+msgid "Continue Shopping"
+msgstr "خرید را ادامه دهید"
+
+#: ../inc/functions/setup.php:43
+msgid "Main Menu"
+msgstr "منو اصلی"
+
+#: ../inc/functions/setup.php:44
+msgid "Main Menu - Mobile"
+msgstr "منو اصلی - موبایل"
+
+#: ../inc/functions/setup.php:45
+msgid "Footer Menu"
+msgstr "منو فوتر"
+
+#: ../inc/functions/setup.php:46
+msgid "Top bar Menu"
+msgstr "منو تاپ بار"
+
+#: ../inc/functions/setup.php:47
+msgid "My Account Menu"
+msgstr "منو اکانت"
+
+#: ../inc/functions/setup.php:67
+msgid "Sidebar"
+msgstr "سایدبار"
+
+#: ../inc/functions/setup.php:77
+msgid "Shop Sidebar"
+msgstr "سایدبار فروشگاه"
+
+#: ../inc/functions/setup.php:86
+msgid "Product Sidebar"
+msgstr "سایدبار صفحه محصول"
+
+#: ../inc/functions/setup.php:105
+msgid "Footer 1"
+msgstr "فوتر 1"
+
+#: ../inc/functions/setup.php:115
+msgid "Footer 2"
+msgstr "فوتر 2"
+
+#: ../inc/functions/custom-css.php:213 ../woocommerce/single-product/sale-flash.
+#: php:23 ../woocommerce/loop/sale-flash.php:26
+msgid "New"
+msgstr "جدید"
+
+#: ../inc/functions/custom-css.php:214
+msgid "Hot"
+msgstr "جدید"
+
+#: ../inc/functions/custom-css.php:215
+msgid "Sale"
+msgstr "حراج"
+
+#: ../inc/functions/custom-css.php:216
+msgid "Popular"
+msgstr "محبوب"
+
+#: ../woocommerce/archive-product.php:76 ../woocommerce/archive-product.php:81
+msgid "Filter"
+msgstr "فیلتر"
+
+#: ../woocommerce/wishlist-view.php:23
+msgid "Edit title"
+msgstr "ویرایش عنوان"
+
+#: ../woocommerce/wishlist-view.php:31
+msgid "Save"
+msgstr "ذخیره"
+
+#: ../woocommerce/wishlist-view.php:34
+msgid "Cancel"
+msgstr "لغو"
+
+#: ../woocommerce/wishlist-view.php:55
+msgid "Product Name"
+msgstr "نام محصول"
+
+#: ../woocommerce/wishlist-view.php:61
+msgid "Unit Price"
+msgstr "قیمت واحد"
+
+#: ../woocommerce/wishlist-view.php:69
+msgid "Stock Status"
+msgstr "وضعیت سهام"
+
+#: ../woocommerce/wishlist-view.php:105
+msgid "Remove this product"
+msgstr "حذف کردن این محصول"
+
+#: ../woocommerce/wishlist-view.php:134
+msgid "Free!"
+msgstr "مجانی"
+
+#: ../woocommerce/wishlist-view.php:145
+msgid "Out of Stock"
+msgstr "اتمام موجودی"
+
+#: ../woocommerce/wishlist-view.php:148
+msgid "In Stock"
+msgstr "موجود در انبار"
+
+#: ../woocommerce/wishlist-view.php:174
+msgid "No products were added to the wishlist"
+msgstr "محصولی به لیست علاقه مندی ها اضافه نشده است"
+
+#: ../woocommerce/wishlist-view.php:206 ../woocommerce/wishlist-view.php:238
+msgid "Ask an estimate of costs"
+msgstr "درخواست برآورد هزینه ها "
+
+#: ../woocommerce/content-single-product-fullwidth.php:7 ../woocommerce/content-
+#: single-product-rightcol-fullheight.php:7 ../woocommerce/content-single-product-
+#: leftcol.php:7 ../woocommerce/content-single-product-rightcol.php:7 ..
+#: woocommerce/content-single-product.php:18
+msgctxt "slug"
+msgid "product-category"
+msgstr "product-category\n"
+
+#: ../woocommerce/content-product-flipbook.php:39
+msgid "Read More"
+msgstr "بیشتر"
+
+#: ../woocommerce/single-product-reviews.php:25
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s دیدگاه برای %s"
+msgstr[1] ""
+
+#: ../woocommerce/single-product-reviews.php:27
+msgid "Reviews"
+msgstr "دیدگاه ها"
+
+#: ../woocommerce/single-product-reviews.php:51
+msgid "There are no reviews yet."
+msgstr "هنوز دیدگاهی ثبت نشده است."
+
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Add a review"
+msgstr "افزودن دیدگاه"
+
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Be the first to review"
+msgstr "اولین کسی باشید که دیدگاه می نویسید:"
+
+#: ../woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "پاسخ دهید به %s"
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Name"
+msgstr "نام"
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Email"
+msgstr "ایمیل"
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Submit"
+msgstr "ارسال"
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Your Rating"
+msgstr "امتیاز شما"
+
+#: ../woocommerce/single-product-reviews.php:87
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;\n"
+
+#: ../woocommerce/single-product-reviews.php:88
+msgid "Perfect"
+msgstr "عالی"
+
+#: ../woocommerce/single-product-reviews.php:89
+msgid "Good"
+msgstr "خوب"
+
+#: ../woocommerce/single-product-reviews.php:90
+msgid "Average"
+msgstr "معمولی"
+
+#: ../woocommerce/single-product-reviews.php:91
+msgid "Not that bad"
+msgstr "بد نیست"
+
+#: ../woocommerce/single-product-reviews.php:92
+msgid "Very Poor"
+msgstr "بد"
+
+#: ../woocommerce/single-product-reviews.php:96
+msgid "Your Review"
+msgstr "دیدگاه شما"
+
+#: ../woocommerce/single-product-reviews.php:106
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"تنها مشتریانی که این محصول را خریداری کرده اند و وارد سایت شده اند می توانند "
+"دیدگاه ارسال کنند."
+
+#: ../woocommerce/content-product-lookbook.php:29 ../woocommerce/content-product-
+#: pinterest-style.php:33
+msgid "Quick View"
+msgstr "مشاهده"
+
+#: ../woocommerce/content-product.php:61
+msgid "مشاهده"
+msgstr "مشاهده"
+
+#: ../woocommerce/content-product.php:64
+msgid "Out of stock"
+msgstr "اتمام موحودی"
+
+#: ../woocommerce/single-product/related.php:37
+msgid "Related Products"
+msgstr "محصولات مرتبط"
+
+#: ../woocommerce/single-product/sale-flash.php:33 ../woocommerce/loop/sale-flash.
+#: php:36
+msgid "Sale!"
+msgstr "حراج"
+
+#: ../woocommerce/single-product/sale-flash.php:55 ../woocommerce/single-
+#: product/sale-flash.php:66 ../woocommerce/loop/sale-flash.php:58 ..
+#: woocommerce/loop/sale-flash.php:69
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../woocommerce/single-product/review.php:23
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "امتیاز %d از 5"
+
+#: ../woocommerce/single-product/review.php:29
+msgid "Your comment is awaiting approval"
+msgstr "دیدگاه شما در انتظار تایید است"
+
+#: ../woocommerce/single-product/review.php:35
+msgid "verified owner"
+msgstr "مالک تایید شده"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr "این محصول در حال حاضر  در دسترس نیست"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:34
+msgid "Clear selection"
+msgstr "پاک کردن انتخاب"
+
+#: ../woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr "نام کاربری یا ایمیل"
+
+#: ../woocommerce/myaccount/form-login.php:38 ../woocommerce/myaccount/form-login.
+#: php:86
+msgid "Password"
+msgstr "گذرواژه"
+
+#: ../woocommerce/myaccount/form-login.php:47
+msgid "Lost your password?"
+msgstr "فراموشی پسورد؟"
+
+#: ../woocommerce/myaccount/form-login.php:49
+msgid "Remember me"
+msgstr "مرا بیاد بسپار"
+
+#: ../woocommerce/myaccount/form-login.php:64 ../woocommerce/myaccount/form-login.
+#: php:100
+msgid "Register"
+msgstr "ثبت نام"
+
+#: ../woocommerce/myaccount/form-login.php:72
+msgid "Username"
+msgstr "نام کاربری"
+
+#: ../woocommerce/myaccount/form-login.php:79
+msgid "Email address"
+msgstr "ایمیل"
+
+#: ../woocommerce/myaccount/form-login.php:93
+msgid "Anti-spam"
+msgstr "آنتی اسپم"
+
+#: ../woocommerce/cart/cart.php:32
+msgid "Product"
+msgstr "محصول"
+
+#: ../woocommerce/cart/cart.php:33
+msgid "Price"
+msgstr "قیمت"
+
+#: ../woocommerce/cart/cart.php:34
+msgid "Quantity"
+msgstr "تعداد"
+
+#: ../woocommerce/cart/cart.php:35
+msgid "Total"
+msgstr "مجموع"
+
+#: ../no-results.php:13
+msgid "Nothing Found"
+msgstr "نتیجه ای پیدا نشد"
+
+#: ../no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"با عرض پوزش نتیجه ای برای جست و جوی شما پیدا نشد. \n"
+"می توانید از کلمات دیگر برای جست و جو استفاده کنید."
+
+#: ../content-single.php:62
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr ""
+"دسته بندی: %1$s\n"
+"\n"
+"برچسب ها: %2$s"
+
+#: ../content-single.php:64
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"دسته بندی: %1$s\n"
+"\n"
+"برچسب ها: %2$s"
+
+#: ../404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+"با عرض پوزش.\n"
+"صفحه مورد نظر شما پیدا نشد"
+
+#: ../404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"به نظر میرسد آدرسی که وارد کرده اید اشتباه است. میتوانید از لینک های زیر و "
+"یا قسمت جست و جو استفاده کنید"
+
+#: ../product-searchform.php:17 ../searchform.php:13
+msgid "Search"
+msgstr "جست و جو"
+
+#: ../search.php:35
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جست و جوی : %s"
+
+#: ../content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ادامه <span class=\"meta-nav\">&rarr;</span>\n"
+
+#: ../content.php:61
+#, php-format
+msgid "Posted in %1$s"
+msgstr "ارسال شده در : %1$s"
+
+#: ../content.php:71 ../content.php:182
+#, php-format
+msgid "Tagged %1$s"
+msgstr "برچسب: %1$s"
+
+#: ../content.php:77 ../content.php:123 ../content.php:171 ..
+#: inc/shortcodes/blog_posts.php:77 ../inc/widgets/recent-posts.php:61
+msgid "Leave a comment"
+msgstr "ارسال دیدگاه"
+
+#: ../content.php:77 ../content.php:123 ../content.php:171 ..
+#: inc/shortcodes/blog_posts.php:77 ../inc/widgets/recent-posts.php:61
+msgid "<strong>1</strong> Comment"
+msgstr "یک دیدگاه"
+
+#: ../content.php:77 ../content.php:123 ../content.php:171 ..
+#: inc/shortcodes/blog_posts.php:77 ../inc/widgets/recent-posts.php:61
+msgid "<strong>%</strong> Comments"
+msgstr "% دیدگاه"
+
+#: ../page-my-account.php:16 ../woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "ورود / ثبت نام از طریق <strong>Facebook</strong>"
+
+#: ../page-my-account.php:47
+msgid "Log Out"
+msgstr "خروج"
+
+#: ../archive.php:40
+#, php-format
+msgid "Category Archives: %s"
+msgstr "آرشیو دسته بندی: %s"
+
+#: ../archive.php:43
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "آرشیو برچسب های: %s"
+
+#: ../archive.php:50
+#, php-format
+msgid "Author Archives: %s"
+msgstr "آرشیو نویسنده: %s"
+
+#: ../archive.php:58
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "آرشیو روزانه: %s"
+
+#: ../archive.php:61
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "آرشیو ماهانه: %s"
+
+#: ../archive.php:64
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "آرشیو سالانه: %s"
+
+#: ../inc/post-types/ux-featured-items.php:150
+msgid "No  tags found."
+msgstr "برچسبی پیدا نشد."
+
+#: ../inc/post-types/ux-featured-items.php:180 ../inc/post-types/ux-featured-
+#: items.php:182
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: ../inc/post-types/ux-featured-items.php:181
+msgid "Category"
+msgstr "دسته بندی"
+
+#: ../inc/post-types/ux-featured-items.php:183
+msgid "Edit Category"
+msgstr "ویرایش دسته بندی"
+
+#: ../inc/post-types/ux-featured-items.php:184
+msgid "Update Category"
+msgstr "بروزرسانی دسته بندی"
+
+#: ../inc/post-types/ux-featured-items.php:185
+msgid "Add New Category"
+msgstr "افزودن دسته بندی جدید"
+
+#: ../inc/post-types/ux-featured-items.php:186
+msgid "New Category Name"
+msgstr "نام دسته بندی جدید"
+
+#: ../inc/post-types/ux-featured-items.php:187
+msgid "Parent Category"
+msgstr "دسته بندی مادر"
+
+#: ../inc/post-types/ux-featured-items.php:188
+msgid "Parent Category:"
+msgstr "دسته بندی مادر:"
+
+#: ../inc/post-types/ux-featured-items.php:189
+msgid "All Categories"
+msgstr "همه دسته بندی ها"
+
+#: ../inc/post-types/ux-featured-items.php:190
+msgid "Search Categories"
+msgstr "جست و جوی دسته بندی"
+
+#: ../inc/post-types/ux-featured-items.php:191
+msgid "Popular Categories"
+msgstr "محبوبترین دسته بندی ها"
+
+#: ../inc/post-types/ux-featured-items.php:192
+msgid "Separate categories with commas"
+msgstr " دسته بندی ها را با کاما (,) جدا کنید"
+
+#: ../inc/post-types/ux-featured-items.php:193
+msgid "Add or remove categories"
+msgstr "افزودن یا پاک کردن دسته بندی"
+
+#: ../inc/post-types/ux-featured-items.php:194
+msgid "Choose from the most used categories"
+msgstr "از دسته بندی که بیشتر استفاده شده است انتخاب کنید"
+
+#: ../inc/post-types/ux-featured-items.php:195
+msgid "No categories found."
+msgstr "دسته بندی پیدا نشد."
+
+#: ../inc/post-types/ux-featured-items.php:390
+msgid "Featured Item Item"
+msgid_plural "Featured Item Items"
+msgstr[0] "آیتم های برجسته"
+msgstr[1] ""
+
+#: ../inc/post-types/ux-featured-items.php:402
+msgid "Featured Item Item Pending"
+msgid_plural "Featured Item Items Pending"
+msgstr[0] "آیتم برجسته در انتظار"
+msgstr[1] ""
+
+#: ../inc/post-types/ux-blocks.php:6
+msgid "Add block"
+msgstr "اضافه کردن بلوک"
+
+#: ../inc/post-types/ux-blocks.php:7
+msgid "Blocks"
+msgstr "بلوک ها"
+
+#: ../inc/post-types/ux-blocks.php:8
+msgid "Block"
+msgstr "بلوک"
+
+#: ../inc/post-types/ux-blocks.php:9
+msgid "Edit Block"
+msgstr "ویرایش بلوک"
+
+#: ../inc/post-types/ux-blocks.php:10
+msgid "View Block"
+msgstr "نمایش بلوک"
+
+#: ../inc/post-types/ux-blocks.php:11
+msgid "Search Blocks"
+msgstr "جست وحوی بلوک"
+
+#: ../inc/post-types/ux-blocks.php:12
+msgid "No Blocks found"
+msgstr "بلوکی پیدا نشد"
+
+#: ../inc/post-types/ux-blocks.php:13
+msgid "No Blocks found in Trash"
+msgstr "بلوکی دز سطل زباله پیدا نشد"
+
+#: ../inc/post-types/ux-blocks.php:41 ../inc/widgets/upsell-widget.php:113
+msgid "Title"
+msgstr "عنوان"
+
+#: ../inc/post-types/ux-blocks.php:42
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: ../inc/post-types/ux-blocks.php:46
+msgid "Date"
+msgstr "روز"
+
+#: ../inc/admin/index.php:168
+msgid "Fonts"
+msgstr "فونت ها"
+
+#: ../inc/structure/posts.php:151
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "تاریخ: %s"
+
+#: ../inc/structure/posts.php:156
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "نویسنده: %s"

@@ -1,0 +1,12 @@
+.product-image .button{
+  position: absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%,-50%);
+  font-size: 11px;
+  opacity: 0;
+}
+
+.product-image:hover .button{
+  opacity: 1;
+}

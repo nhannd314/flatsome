@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-28 11:51+0000\n"
+"PO-Revision-Date: 2016-09-28 22:30+1000\n"
+"Last-Translator: Justin <justin@localhost>\n"
+"Language-Team: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ja\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ページが見つかりませんでした。"
+
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"何も見つかりませんでした。下記のリンク、または検索をトライしてみてください。"
+
+#: archive.php:40
+msgid "Category Archives: %s"
+msgstr "カテゴリーアーカイブ: %s"
+
+#: archive.php:43
+msgid "Tag Archives: %s"
+msgstr "タグアーカイブ: %s"
+
+#: archive.php:50
+msgid "Author Archives: %s"
+msgstr "投稿者アーカイブ: %s"
+
+#: archive.php:58
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#: archive.php:61
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: archive.php:64
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: archive.php:67
+msgid "Asides"
+msgstr "アサイド"
+
+#: archive.php:70
+msgid "Images"
+msgstr "画像"
+
+#: archive.php:73
+msgid "Videos"
+msgstr "ビデオ"
+
+#: archive.php:76
+msgid "Quotes"
+msgstr "引用"
+
+#: archive.php:79
+msgid "Links"
+msgstr "リンク"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%s&rdquo;へのコメント(%1$s)"
+
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "コメント"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません"
+
+#: content-page.php:17 content-single.php:33 content.php:47 image.php:92
+#: page-left-sidebar-notitle.php:22 page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr "ページ:"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:51 content-single.php:54 content.php:58 content.php:66
+#: content.php:109 content.php:117 content.php:167 content.php:187
+msgid ", "
+msgstr "、"
+
+#: content-single.php:59
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "カテゴリー: %1$s　タグ: %2$s"
+
+#: content-single.php:61
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"カテゴリー: %1$s。 <a href=\"%3$s\" title=\"%4$sへのパーマリンク\" rel="
+"\"bookmark\">パーマリンク</a>"
+
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:61
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#: content.php:71 content.php:122 content.php:192
+msgid "Tagged %1$s"
+msgstr "タグ: %1$s"
+
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "コメントをどうぞ"
+
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1件</strong>のコメント"
+
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%件</strong>のコメント"
+
+#: content.php:112 content.php:170
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:213
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: functions.php:214
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr "トップメニュー"
+
+#: functions.php:216
+msgid "My Account Menu"
+msgstr "マイアカウント メニュー"
+
+#: functions.php:231
+msgid "Sidebar"
+msgstr "ブログサイドバー"
+
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr "ショップサイドバー"
+
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr "商品ページのサイドバー"
+
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr "フッター 1 (4 列)"
+
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr "フッター 2 (4 列)"
+
+#: functions.php:349
+msgid "Flatsome Theme Options"
+msgstr "Flatsomeテーマ設定"
+
+#: image.php:25
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"投稿日: <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\" pubdate>%2$s</time></span> (<a href=\"%3$s\" title=\"フルサイズ画像へのリ"
+"ンク\">%4$s &times; %5$s</a>) ギャラリー: <a href=\"%6$s\" title=\"%7$s へ戻"
+"る\"rel=\"gallery\">%7$s</a>"
+
+#: image.php:36 image.php:109 inc/template-tags.php:77
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr "編集"
+
+#: image.php:101
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"コメントをどうぞ\">コメン"
+"トをどうぞ</a> またはトラックバック: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"トラックバックURL\" rel=\"trackback\">トラックバックURL</a>."
+
+#: image.php:103
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"コメントは受け付けていませんがトラックバックはどうぞ: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"トラックバックURL\" rel=\"trackback\">トラックバッ"
+"クURL</a>"
+
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"トラックバックは受け付けていませんが、<a class=\"comment-link\" href="
+"\"#respond\" title=\"コメントはどうぞ\">コメントはどうぞ</a>"
+
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr "コメントとトラックバックは現在受け付けていません。"
+
+#: image.php:114 woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> 前へ"
+
+#: image.php:115 woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "次へ <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/custom-css.php:176
+msgid "New"
+msgstr "New"
+
+#: inc/woocommerce/tempalte-tags-global:36
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/custom-css.php:177
+msgid "Hot"
+msgstr "Hot"
+
+#: inc/custom-css.php:178
+msgid "Sale"
+msgstr "Sale"
+
+#: inc/custom-css.php:179
+msgid "Popular"
+msgstr "人気"
+
+#: inc/extras.php:101
+msgid "Page %s"
+msgstr "%s ページ"
+
+#: inc/extras.php:120
+msgid "Top Content"
+msgstr "トップコンテンツ"
+
+#: inc/extras.php:126
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr "カテゴリページの上部に表示されます。ショートコードも使えます。"
+
+#: inc/post-types/blocks.php:30
+#: inc/widgets/woocommerce-subcategories-widget.php:108
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/post-types/blocks.php:33
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/post-types/blocks.php:35
+msgid "Date"
+msgstr "日付"
+
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr "Facebookでシェア"
+
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr "Twitterでシェア"
+
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr "メールでシェア"
+
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr "Pinterestでピン"
+
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr "Google+でシェア"
+
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Tumblr"
+msgstr "Tumblrでシェアする。"
+
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow on Facebook"
+msgstr "Facebookでフォロー"
+
+#: inc/shortcodes/share_follow.php:103
+msgid "Follow on YouTube"
+msgstr "YouTubeでフォロー"
+
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow on Twitter"
+msgstr "Twitterでフォロー"
+
+#: inc/shortcodes/share_follow.php:79
+msgid "Follow on SnapChat"
+msgstr "SnapChatでフォロー"
+
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr "メールをどうぞ"
+
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow on Pinterest"
+msgstr "Pinterestでフォロー"
+
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow on Google+"
+msgstr "Google+でフォロー"
+
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow on Instagram"
+msgstr "インスタでフォロー"
+
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr "RSS フィードを購読"
+
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span>過去の投稿"
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "新しい投稿<span class=\"icon-angle-right\"></span>"
+
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: inc/template-tags.php:93
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+"<span itemprop=\"name\">%s </span><span class=\"says\">のコメント:</span>"
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "コメントは承認待ちです。"
+
+#: inc/template-tags.php:104
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "%s - "
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#: inc/template-tags.php:147
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr "前へ"
+
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr "次へ"
+
+#: search.php:35
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr "表示数:"
+
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr "アップセル商品数"
+
+#: inc/widgets/upsell-widget.php:105 woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr "これを見たお客様はこちらもチェックしました"
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "見つかりませんでした"
+
+#: no-results.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>し"
+"てください。"
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"指定した検索条件に一致した情報が見つかりませんでした。別のキーワードでもう一"
+"度検索してみてください。"
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"お探しのものが見つけられません。検索、または下のリンクのうちのひとつを使って"
+"みてください。"
+
+#: page-checkout.php:17 page-checkout.php:28
+msgid "Shopping Cart"
+msgstr "カート"
+
+#: page-checkout.php:19 page-checkout.php:30
+msgid "Checkout details"
+msgstr "チェックアウトの詳細"
+
+#: page-checkout.php:21 page-checkout.php:32
+msgid "Order Complete"
+msgstr "注文完了"
+
+#: page-my-account.php:30 woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "Facebookでログイン"
+
+#: content-product.php:61 woocommerce/content-product.php:61
+msgid "Quick View"
+msgstr "クイックビュー"
+
+#: structure-wc-product-page.php:149 woocommerce/content-product.php:149
+msgid "Zoom"
+msgstr "拡大"

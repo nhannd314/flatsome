@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>ux_image</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="15" y="12" width="72" height="44"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="44" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ux_image">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Rectangle-486-Copy" mask="url(#mask-2)" stroke="#00A0D2" stroke-width="2" fill="url(#linearGradient-3)" fill-opacity="0.15">
+                <use mask="url(#mask-5)" xlink:href="#path-4"></use>
+            </g>
+            <path d="M55.1818164,39.0739005 C55.1818164,39.0739005 58.5048066,35.8328878 59.2286074,31.4742191 C61.1765672,31.4742191 62.3797188,26.8404059 60.431759,25.2104119 C60.5138789,23.4950281 62.9354603,11.7397158 50.6690429,11.7397158 C38.4026255,11.7397158 40.8242069,23.4950281 40.9063268,25.2104119 C38.958367,26.8404059 40.1615186,31.4742191 42.1094784,31.4742191 C42.8332792,35.8328878 46.1581792,39.0739005 46.1581792,39.0739005 C46.1581792,39.0739005 46.1314425,42.1384411 45.0008619,42.3149131 C41.3570312,42.8860752 27.7518689,48.7969385 27.7518689,55.2789638 L73.5862169,55.2789638 C73.5862169,48.7969385 59.9810546,42.8860752 56.3391337,42.3149131 C55.2085531,42.1384411 55.1818164,39.0739005 55.1818164,39.0739005 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

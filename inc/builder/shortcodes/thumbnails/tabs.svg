@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>tabs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M50,2.9996277 C50,1.34297906 51.3433937,-2.13162821e-14 52.9936145,-2.13162821e-14 L94.0063855,-2.13162821e-14 C95.6597131,-2.13162821e-14 97,1.34963851 97,2.9996277 L97,22.9447679 L50,22.9447679 L50,2.9996277 Z" id="path-4"></path>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47" height="22.9447679" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <path d="M0,2.9996277 C0,1.34297906 1.34339372,-2.13162821e-14 2.99361448,-2.13162821e-14 L44.0063855,-2.13162821e-14 C45.6597131,-2.13162821e-14 47,1.34963851 47,2.9996277 L47,22.9447679 L0,22.9447679 L0,2.9996277 Z" id="path-6"></path>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47" height="22.9447679" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <path d="M100,2.9996277 C100,1.34297906 101.343394,-2.13162821e-14 102.993614,-2.13162821e-14 L144.006386,-2.13162821e-14 C145.659713,-2.13162821e-14 147,1.34963851 147,2.9996277 L147,22.9447679 L100,22.9447679 L100,2.9996277 Z" id="path-8"></path>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47" height="22.9447679" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tabs">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Rectangle-166-Copy-+-Shape-Copy-18" mask="url(#mask-2)">
+                <g transform="translate(-22.000000, 21.000000)">
+                    <use id="Rectangle-166-Copy" stroke="#00A0D2" mask="url(#mask-5)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    <use id="Rectangle-166-Copy" stroke="#00A0D2" mask="url(#mask-7)" stroke-width="2" fill-opacity="0.0336574389" fill="#FFFFFF" opacity="0.12943097" xlink:href="#path-6"></use>
+                    <use id="Rectangle-166-Copy" stroke="#00A0D2" mask="url(#mask-9)" stroke-width="2" fill-opacity="0.0336574389" fill="#FFFFFF" opacity="0.12943097" xlink:href="#path-8"></use>
+                    <path d="M83,19.1205776 C83,17.7725725 82.8739267,19.4532484 82.5652041,18.1769456 C82.3391445,17.2974261 81.683058,16.6042879 80.826102,16.6042879 C80.3091323,16.6042879 79.8391598,16.8528712 79.5217551,17.2501025 L79.5217551,17.0823189 C79.5217551,16.0259185 78.7435083,15.17024 77.7826122,15.17024 C76.8217162,15.17024 76.0434694,16.0258737 76.0434694,17.0823189 L76.0434694,16.1263018 C76.0434694,15.0699014 75.2652226,14.2142229 74.3043266,14.2142229 C73.3434305,14.2142229 72.5651837,15.0698566 72.5651837,16.1263018 L72.5652245,9.91207893 C72.5652245,8.85567851 71.7869777,8 70.8260816,8 C69.8651856,8 69.0869388,8.8556337 69.0869388,9.91207893 L69.0869388,20.8160869 C69.0869388,21.3461917 68.6956347,21.772104 68.2173878,21.772104 C68.1347655,21.772104 68.0565047,21.7577635 67.9782439,21.7338776 L65.5217102,20.6344558 C65.2869686,20.5048985 65.0217785,20.428401 64.7391428,20.428401 C63.7782875,20.428401 63,21.2840347 63,22.3404799 C63,23.1340014 63.443478,23.8175493 64.0695645,24.109154 C66.8913153,25.7104927 69.1521561,27.6751384 70.7347774,30.9447679 L80.6700288,30.9447679 C82.1695794,28.2774386 83,22.179402 83,19.1205776 Z" id="Shape-Copy-18" stroke="none" fill="#00A0D2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

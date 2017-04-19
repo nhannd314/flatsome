@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>title</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="title">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="bg" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <path d="M26.54,29.36 L26.54,41 L29.68,41 L29.68,29.36 L33.96,29.36 L33.96,26.72 L22.26,26.72 L22.26,29.36 L26.54,29.36 Z M35.6,26.72 L35.6,41 L38.74,41 L38.74,26.72 L35.6,26.72 Z M44.66,29.36 L44.66,41 L47.8,41 L47.8,29.36 L52.08,29.36 L52.08,26.72 L40.38,26.72 L40.38,29.36 L44.66,29.36 Z M53.72,26.72 L53.72,41 L63.82,41 L63.82,38.36 L56.86,38.36 L56.86,26.72 L53.72,26.72 Z M65.58,26.72 L65.58,41 L76.42,41 L76.42,38.36 L68.72,38.36 L68.72,34.86 L75.64,34.86 L75.64,32.42 L68.72,32.42 L68.72,29.36 L76.26,29.36 L76.26,26.72 L65.58,26.72 Z" id="TITLE" fill="#00A0D2" mask="url(#mask-2)"></path>
+            <polygon id="Line" fill-opacity="0.532382246" fill="#00A0D2" opacity="0.333430504" mask="url(#mask-2)" points="13.5 32 -34.5 32 -36 32 -36 35 -34.5 35 13.5 35 15 35 15 32"></polygon>
+            <polygon id="Line" fill-opacity="0.532382246" fill="#00A0D2" opacity="0.333430504" mask="url(#mask-2)" points="134.5 32 86.5 32 85 32 85 35 86.5 35 134.5 35 136 35 136 32"></polygon>
+        </g>
+    </g>
+</svg>

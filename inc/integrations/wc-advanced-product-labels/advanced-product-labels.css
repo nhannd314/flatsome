@@ -1,0 +1,14 @@
+.label-wrap{
+	float:none!important;
+}
+
+.label-wrap.wapl-alignleft{
+	text-align: left;
+}
+
+.label-wrap.wapl-aligncenter{
+	text-align: center;
+}
+.label-wrap.wapl-alignright{
+	text-align: right;
+}

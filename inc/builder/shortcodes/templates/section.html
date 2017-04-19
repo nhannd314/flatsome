@@ -1,0 +1,46 @@
+<section id="{{:: shortcode.$id }}" class="section mask-{{ shortcode.options.mask }} {{ shortcode.options.visibility }} {{ shortcode.options.class }} has-hover" ng-class="{dark: shortcode.options.dark == 'true', 'has-mask': shortcode.options.mask,'has-parallax' : shortcode.options.parallax, 'uxb-sticky-section': shortcode.options.sticky == 'true'}">
+      <div class="bg section-bg bg-fill fill" data-parallax-container=".section"
+        ng-attr-data-parallax="-{{ shortcode.options.parallax }}" data-parallax-background wp-attachment="shortcode.options.bg" wp-attachment-size="shortcode.options.bgSize">
+
+            <div ng-if="shortcode.options.videoMp4" class="video-overlay fill"></div>
+
+            <video ng-if="shortcode.options.videoMp4"
+                class="video-bg no-click hide-for-small"
+                preload="auto" autoplay="true" loop="loop" muted="muted">
+                <source ng-if="shortcode.options.videoMp4" ng-src="{{shortcode.options.videoMp4}}" type="video/mp4">
+                <source ng-if="shortcode.options.videoOgg" ng-src="{{shortcode.options.videoOgg}}" type="video/ogg">
+                <source ng-if="shortcode.options.videoWebm" ng-src="{{shortcode.options.videoWebm}}" type="video/webm">
+            </video>
+
+            <div ng-if="shortcode.options.bgOverlay" class="section-bg-overlay fill"></div>
+
+            <div ng-if="shortcode.options.effect" class="effect-{{shortcode.options.effect}} bg-effect fill no-click"></div>
+
+            <div ng-if="shortcode.options.border" class="is-border is-{{shortcode.options.borderStyle}}"
+            ng-class="{['hover-'+shortcode.options.borderHover ] : shortcode.options.borderHover}"
+            ng-style="{
+              'borderRadius': shortcode.options.borderRadius+'px',
+              'borderWidth': shortcode.options.border,
+              'margin': shortcode.options.borderMargin,
+              'borderColor': shortcode.options.borderColor,
+              }"
+            ></div>
+
+            <button ng-if="shortcode.options.scrollForMore" class="scroll-for-more icon absolute bottom h-center z-5">
+                <i class="icon-angle-down" style="font-size:42px;"></i>
+            </button>
+      </div><!-- .background -->
+
+      <div class="section-content relative">
+        	<content/>
+      </div><!-- .content -->
+
+     <style scope="scope">
+        #{{:: shortcode.$id }} {min-height: {{ shortcode.options.height }};}
+       	#{{:: shortcode.$id }} {background-color: {{ shortcode.options.bgColor }}!important;}
+      	#{{:: shortcode.$id }} {padding-top: {{ shortcode.options.padding }}; padding-bottom: {{ shortcode.options.padding }};}
+      	#{{:: shortcode.$id }} {margin-bottom: {{ shortcode.options.margin }};}
+        #{{:: shortcode.$id }} .section-bg-overlay {background-color: {{ shortcode.options.bgOverlay }} }
+        #{{:: shortcode.$id }} .section-bg{background-position: {{ shortcode.options.bgPos }} }
+     </style>
+</section><!-- .section -->

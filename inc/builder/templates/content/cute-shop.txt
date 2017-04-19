@@ -1,0 +1,135 @@
+[section bg_color="rgb(237, 239, 241)" effect="snow" border="1px 0px 1px 0px" border_color="rgba(0, 0, 0, 0.13)"]
+
+[ux_banner_grid height="617" depth="1"]
+
+[col_grid span="4" span__sm="12"]
+
+[ux_banner bg="8755" bg_pos="64% 30%" border_color="rgba(0, 0, 0, 0.05)"]
+
+[text_box width="70" position_y="80"]
+
+<h2 class="alt-font">A Cute Title</h2>
+<h2 class="uppercase"><strong><span style="font-size: 140%;">This is a simple headline</span></strong></h2>
+<p class="lead"><span style="font-size: 130%;">A Small text</span></p>
+[button text="Click me!" style="outline" size="xlarge"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="3" span__sm="12"]
+
+[ux_banner bg="8754" bg_pos="51% 56%" border_color="rgba(0, 0, 0, 0.08)"]
+
+[text_box width="70" width__sm="60" position_y="10"]
+
+<h2 class="uppercase"><strong>This is a simple headline</strong></h2>
+[button text="Shop now" style="outline" size="larger"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="5" span__sm="14" height="1-3"]
+
+[ux_banner bg="8753" bg_size="medium" bg_overlay="rgba(255, 255, 255, 0.15)" bg_pos="51% 30%" border_color="rgba(0, 0, 0, 0.08)"]
+
+[text_box width="42" position_x="10" position_y="80" text_align="left" text_color="dark"]
+
+<h2 class="uppercase"><strong>This is a simple headline</strong></h2>
+[button text="Shop now" style="outline" size="larger"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="5" span__sm="12" height="2-3"]
+
+[ux_banner bg="8757" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.3)" bg_pos="71% 19%" border_color="rgba(0, 0, 0, 0.07)"]
+
+[text_box width="70" width__sm="60"]
+
+<h2 class="uppercase"><strong>SALE ENDS SOON</strong></h2>
+[ux_countdown size="268" bg_color="rgba(0, 0, 0, 0.1)"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+
+[/ux_banner_grid]
+
+[/section]
+[section bg_color="rgb(255, 255, 255)"]
+
+[row col_style="divided"]
+
+[col span="4" span__sm="12" align="center" animate="fadeInUp"]
+
+[featured_box img="8687" img_width="51" pos="center" icon_border="3" margin="px px px px"]
+
+<h3>Free Shipping on orders above 99$</h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" align="center" animate="fadeInUp"]
+
+[featured_box img="8750" img_width="51" pos="center" icon_border="3" margin="px px px px"]
+
+<h3>Give a Gift to a Friend</h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed dia.</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" align="center" animate="fadeInUp"]
+
+[featured_box img="8686" img_width="51" pos="center" icon_border="3" margin="px px px px"]
+
+<h3>Loved by our Customers</h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed.</p>
+
+[/featured_box]
+
+[/col]
+
+[/row]
+
+[/section]
+[title style="bold-center" text="Shop Now" margin_top="10px" size="undefined"]
+
+[ux_product_categories style="overlay" columns="5" depth="1" show_count="0" image_overlay="rgba(0, 0, 0, 0.08)" image_hover="zoom" text_pos="middle" text_size="small"]
+
+[row]
+
+[col span="3" span__sm="12"]
+
+
+[/col]
+[col span="5" span__sm="12"]
+
+
+[/col]
+[col span="4" span__sm="12"]
+
+
+[/col]
+
+[/row]
+[title style="bold-center" text="Weekly Featured Products" margin_top="10px" size="undefined"]
+
+[ux_products style="normal" columns="5" depth="1" show="featured"]
+
+[title style="bold-center" text="Follow us on Instgram" margin_top="10px" size="undefined"]
+
+[ux_instagram_feed username="stylechild_no" type="slider" width="full-width" columns="8"]

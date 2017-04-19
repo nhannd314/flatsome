@@ -1,0 +1,15 @@
+i.mce-i-icon {
+    font: 400 20px/1 dashicons!important;
+    padding: 0;
+    vertical-align: top;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-left: -2px;
+    padding-right: 2px;
+}
+
+.mce-tooltip-inner{overflow: hidden!important;}
+.image-bg-button{text-align: left!important; background-repeat: no-repeat!important;background-size: auto 100%!important; background-position: right!important;}
+div[aria-label="Add Shortcodes"]{border:1px solid #627f9a!important;}
+div[aria-label="Add Shortcodes"] > button > span{color:#627f9a!important;}

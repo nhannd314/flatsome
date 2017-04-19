@@ -1,0 +1,44 @@
+li.toplevel_page_flatsome-panel img{
+	width: 26px;
+	height: 26px;
+	padding-top: 4px!important;
+}
+
+.flatsome-panel .about-wrap .nav-tab{
+  font-size: 14px;
+  margin-right: 5px;
+  margin-left: 0;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.flatsome-panel .fl-badge {
+    background-image: url(Logo.svg)!important;
+}
+
+.flatsome-panel .about-wrap .nav-tab-wrapper{
+	margin-bottom: 20px!important;
+}
+
+.flatsome-panel .about-wrap .flatsome-panel h2{
+	text-align: left;
+	max-width: 600px;
+}
+
+.flatsome-panel .about-wrap .flatsome-panel .inner-panel{
+	padding: 0 20px 30px 20px;
+	background-color: #FFF;
+	margin: 15px 10px;
+	box-shadow: 1px 1px 5px 1px rgba(0,0,0,.1);
+}
+
+.flatsome-panel .about-wrap .cols{display: flex;}
+.flatsome-panel .about-wrap .inner-panel{flex:1;}
+.flatsome-panel .inner-panel{
+	transition: opacity .3s;
+}
+.flatsome-panel .inner-panel:hover{
+	opacity: 1!important;
+}
+.flatsome-panel .inner-panel.success{border-color: green!important; opacity: .6}
+.flatsome-panel .inner-panel.success h5{color: green!important;}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="72px" viewBox="0 0 100 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-plain</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="71.4285714" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-plain">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" stroke="#3498DB" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.01" fill="#00A0D2">
+                <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+            </g>
+            <path d="M62.6219816,31.8879564 C62.6219816,34.1814624 61.6337092,36.2438332 60.0599511,37.6731319 L60.0726975,37.6731319 L51.5750837,46.1707457 C50.7253223,47.0205071 49.8755609,47.8702684 49.0257996,47.8702684 C48.1760382,47.8702684 47.3262768,47.0205071 46.4765154,46.1707457 L37.9789016,37.6731319 L37.991648,37.6731319 C36.41789,36.2438332 35.4296175,34.1814624 35.4296175,31.8879564 C35.4296175,27.5737179 38.9272353,24.0769498 43.2406241,24.0769498 C45.53413,24.0769498 47.5965009,25.0652223 49.0257996,26.6389804 C50.4550982,25.0652223 52.5174691,24.0769498 54.810975,24.0769498 C59.1252136,24.0769498 62.6219816,27.5745676 62.6219816,31.8879564 L62.6219816,31.8879564 Z" id="Shape-Copy-14" fill="#3498DB" mask="url(#mask-3)"></path>
+        </g>
+    </g>
+</svg>

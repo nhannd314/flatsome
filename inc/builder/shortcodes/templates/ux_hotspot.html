@@ -1,0 +1,29 @@
+<div class="hotspot-wrapper dark
+  is-{{ shortcode.options.size }}
+  x{{ shortcode.options.positionX }}
+  md-x{{ shortcode.options.positionX }}
+  lg-x{{ shortcode.options.positionX }}
+  y{{ shortcode.options.positionY }}
+  md-y{{ shortcode.options.positionY }}
+  lg-y{{ shortcode.options.positionY }}">
+	<div data-animate="{{ shortcode.options.animate }}">
+
+		<a ng-if="shortcode.options.type == 'text'" class="hotspot tooltip
+			box-shadow-{{shortcode.options.depth}}
+			box-shadow-{{shortcode.options.depthHover}}-hover"
+			title="{{ shortcode.options.text }}"
+			ng-style="{'background-color' : shortcode.options.bgColor}"
+			>
+			<i class="icon-{{ shortcode.options.icon }}"></i>
+		</a>
+
+		<a ng-if="shortcode.options.type == 'product'" href="#quick-view" class="quick-view hotspot tooltip
+			box-shadow-{{shortcode.options.depth}}
+			box-shadow-{{shortcode.options.depthHover}}-hover"
+			title="{{ shortcode.options.prod_id }}"
+			ng-style="{'background-color' : shortcode.options.bgColor}"
+			data-prod="{{ shortcode.options.prodId }}">
+			<i class="icon-{{ shortcode.options.icon }}"></i>
+		</a>
+	</div>
+</div>

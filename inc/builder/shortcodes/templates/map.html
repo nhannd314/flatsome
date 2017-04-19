@@ -1,0 +1,12 @@
+<div class="google-map relative mb">
+    <div id="map_{{:: shortcode.$id }}" class="map-height" style="height:{{ shortcode.options.height }}"></div>
+    <div class="map_overlay"></div><!-- To prevent map drag event. -->
+    <div id="map_overlay_top"></div>
+    <div id="map_overlay_bottom"></div>
+    <div ng-if="shortcode.options.contentEnable" class="absolute map-inner last-reset map_inner
+    x{{ shortcode.options.positionX }} md-x{{ shortcode.options.positionX }} lg-x{{ shortcode.options.positionX }} y{{ shortcode.options.positionY }} md-y{{ shortcode.options.positionY }} lg-y{{ shortcode.options.positionY }}"
+        style="width: {{ shortcode.options.contentWidth }}%; background-color: {{ shortcode.options.contentBg }}"
+    >
+        <content />
+    </div>
+</div>

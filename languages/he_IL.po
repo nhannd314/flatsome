@@ -1,0 +1,625 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-10-08 23:43+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: he_IL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ flatsome
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "נראה כי העמוד אותו חיפשת איננו קיים."
+
+# @ flatsome
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"הדף שאתה מנסה להגיע אליו אינו קיים, או הועבר.אנא השתמש בתפריט או בתיבת "
+"החיפוש כדי למצוא את העמוד הרצוי"
+
+# @ flatsome
+#: archive.php:40
+#, php-format
+msgid "Category Archives: %s"
+msgstr "קטגורית ארכיון: %s"
+
+# @ flatsome
+#: archive.php:43
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "תג ארכיון: %s"
+
+# @ flatsome
+#: archive.php:50
+#, php-format
+msgid "Author Archives: %s"
+msgstr "מחבר ארכיון: %s"
+
+# @ flatsome
+#: archive.php:58
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "ארכיון יומי: %s"
+
+# @ flatsome
+#: archive.php:61
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "ארכיון חודשי: %s"
+
+# @ flatsome
+#: archive.php:64
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "ארכיון שנתי: %s"
+
+# @ flatsome
+#: archive.php:67
+msgid "Asides"
+msgstr "צדדים"
+
+# @ flatsome
+#: archive.php:70
+msgid "Images"
+msgstr "תמונות"
+
+# @ flatsome
+#: archive.php:73
+msgid "Videos"
+msgstr "וידאו"
+
+# @ flatsome
+#: archive.php:76
+msgid "Quotes"
+msgstr "ציטוטים"
+
+# @ flatsome
+#: archive.php:79
+msgid "Links"
+msgstr "קישורים"
+
+# @ flatsome
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "תגובה אחת על הפוסט &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s תגובות על &ldquo;%2$s&rdquo;"
+
+# @ flatsome
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; תגובות ישנות יותר"
+
+# @ flatsome
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "תגובות חדשות יותר &rarr;"
+
+# @ flatsome
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "ניווט תגובה"
+
+# @ flatsome
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "התגובות סגורות."
+
+# @ flatsome
+#: content-page.php:17 content-single.php:33 content.php:47 image.php:92
+#: page-left-sidebar-notitle.php:22 page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr "עמודים:"
+
+# @ flatsome
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:51 content-single.php:54 content.php:58 content.php:66
+#: content.php:109 content.php:117 content.php:167 content.php:187
+msgid ", "
+msgstr ", "
+
+# @ flatsome
+#: content-single.php:59
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "רשומה זו פורסמה ב%1$s ומתוייגת כ%2$s."
+
+# @ flatsome
+#: content-single.php:61
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"פוסט זה פורסם בקטגוריה %1$s. אפשר להגיע ישירות לפוסט זה <a href=\"%3$s\" "
+"title=\"קישור ישיר לפוסט %4$s\" rel=\"bookmark\">עם קישור ישיר</a>."
+
+# @ flatsome
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "המשך קריאה <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: content.php:61
+#, php-format
+msgid "Posted in %1$s"
+msgstr "פורסם ב%1$s"
+
+# @ flatsome
+#: content.php:71 content.php:122 content.php:192
+#, php-format
+msgid "Tagged %1$s"
+msgstr "פוסטים שתוייגו %1$s"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "השאר תגובה"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> תגובה"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%</strong> תגובות"
+
+# @ flatsome
+#: content.php:112 content.php:170
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ flatsome
+#: functions.php:213
+msgid "Main Menu"
+msgstr "תפריט ראשי"
+
+# @ flatsome
+#: functions.php:214
+msgid "Footer Menu"
+msgstr "תפריט פוטר"
+
+# @ flatsome
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr "תפריט עליון"
+
+# @ flatsome
+#: functions.php:216
+msgid "My Account Menu"
+msgstr "תפריט החשבון שלי"
+
+# @ flatsome
+#: functions.php:231
+msgid "Sidebar"
+msgstr "סרגל צד"
+
+# @ flatsome
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr "סרגל חנות צדדי"
+
+# @ flatsome
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr "סרגל מוצר צדדי"
+
+# @ flatsome
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr "פוטר 1 (4 טורים)"
+
+# @ flatsome
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr "פוטר 2 (4 טורים)"
+
+# @ default
+#: functions.php:349
+msgid "Flatsome Theme Options"
+msgstr "Flatsome אפשרויות תבנית"
+
+# @ flatsome
+#: image.php:25
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"פורסם <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\">%2$s</time></span> ב<a href=\"%3$s\" title=\"קישור לתמונה בגודל מלא\">"
+"%4$s &times; %5$s</a> ב<a href=\"%6$s\" title=\"חזרה ל %7$s\" rel=\"gallery"
+"\">%8$s</a>"
+
+# @ flatsome
+#: image.php:36 image.php:109 inc/template-tags.php:77
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr "ערוך"
+
+# @ flatsome
+#: image.php:101
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"פרסם תגובה\">פרסם תגובה</"
+"a> או השאר trackback: <a class=\"trackback-link\" href=\"%s\" title=\"כתובת "
+"הTrackback של הפוסט שלך\" rel=\"trackback\">כתובת Trackback</a>."
+
+# @ flatsome
+#: image.php:103
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"התגובות סגורות, אבל אתה יכול להשאיר trackback=\"trackback-link\" href=\"%s\" "
+"title=\"כתובת Trackback עבור הפוסט שלך\" rel=\"trackback\">כתובת Trackback</"
+"a>."
+
+# @ flatsome
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Trackbacks סגורים, אבל את/ה יכול/ה <a class=\"comment-link\" href=\"#respond"
+"\" title=\"פרסום תגובה\">לפרסם תגובה</a>."
+
+# @ flatsome
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr "גם התגובות וגם הtrackbacks סגורים כרגע."
+
+# @ flatsome
+#: image.php:114 woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> הקודם"
+
+# @ flatsome
+#: image.php:115 woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "הבא <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: inc/custom-css.php:176
+msgid "New"
+msgstr "חדש"
+
+# @ flatsome
+#: inc/woocommerce/tempalte-tags-global:36
+msgid "Home"
+msgstr "דף הבית"
+
+# @ flatsome
+#: inc/custom-css.php:177
+msgid "Hot"
+msgstr "חם"
+
+# @ flatsome
+#: inc/custom-css.php:178
+msgid "Sale"
+msgstr "מבצע"
+
+# @ flatsome
+#: inc/custom-css.php:179
+msgid "Popular"
+msgstr "פופולרי"
+
+# @ flatsome
+#: inc/extras.php:101
+#, php-format
+msgid "Page %s"
+msgstr "עמוד %s"
+
+# @ pippin
+#: inc/extras.php:120
+msgid "Top Content"
+msgstr "תוכן עליון"
+
+# @ pippin
+#: inc/extras.php:126
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+"הזן ערך עבור שדה זה. קודים מקוצרים מותרים. זה יוצג בחלק העליון של הקטגוריה."
+
+# @ default
+#: inc/post-types/blocks.php:30
+#: inc/widgets/woocommerce-subcategories-widget.php:108
+msgid "Title"
+msgstr "כותרת"
+
+# @ default
+#: inc/post-types/blocks.php:33
+msgid "Shortcode"
+msgstr "קוד קצר"
+
+# @ default
+#: inc/post-types/blocks.php:35
+msgid "Date"
+msgstr "תאריך"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr "שתף בפייסבוק"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr "שתף בטוויטר"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr "שלח דואר אלקטרוני לחבר"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr "שתף בפינטרסט"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr "שתף בגוגל+"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Tumblr"
+msgstr "שתף בטאמבלר"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow on Facebook"
+msgstr "עקבו אחרינו בפייסבוק"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:103
+msgid "Follow on YouTube"
+msgstr "עקבו אחרינו ביוטיוב"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow on Twitter"
+msgstr "עקבו אחרינו בטוויטר"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Follow on SnapChat"
+msgstr "עקבו אחרינו בסנאפצ'אט"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr "שלח לנו דואר אלקטרוני"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow on Pinterest"
+msgstr "עקבו אחרינו בפיטרסט"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow on Google+"
+msgstr "עקבו אחרינו בגוגל+"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow on Instagram"
+msgstr "עקבו אחרינו באינסטגרם"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr "הירשם לעדכוני RSS"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr "לינקדאין"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr "יוטיוב"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr "פליקר"
+
+# @ flatsome
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> פוסטים ישנים יותר"
+
+# @ flatsome
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "פוסטים חדשים יותר <span class=\"icon-angle-right\"></span>"
+
+# @ flatsome
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ flatsome
+#: inc/template-tags.php:93
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">אומר:</span>"
+
+# @ flatsome
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "התגובה שלך ממתינה לאישור."
+
+# @ flatsome
+#: inc/template-tags.php:104
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+# @ flatsome
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "פורסם ב%s"
+
+# @ flatsome
+#: inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "על ידי %s"
+
+# @ flatsome
+#: inc/template-tags.php:147
+#, php-format
+msgid "View all posts by %s"
+msgstr "הצג את כל הפוסטים שנכתבו על ידי %s"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr "לפוסט הקודם"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr "לפוסט הבא"
+
+# @ flatsome
+#: search.php:35
+#, php-format
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור השאילתה: %s"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr "פוסטים אחרונים"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr "מספר הפוסטים להצגה:"
+
+# @ text_domain
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr "הוסף מוצרי הרחבה לעמוד מוצר"
+
+# @ text_domain
+# @ flatsome
+#: inc/widgets/upsell-widget.php:105 woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr "להשלים את המראה"
+
+# @ flatsome
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "שום דבר לא נמצא"
+
+# @ flatsome
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הפוסט הראשון שלך?<a href=\"%1$s\">התחל כאן</a>."
+
+# @ flatsome
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"מצטערים, אבל שום דבר מתאים למונחי החיפוש שלך. אנא נסה שוב עם מילות מפתח "
+"שונות."
+
+# @ flatsome
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "נראה שלא נוכל למצוא את מה שאת/ה מחפש. יתכן וחיפוש יוכל יעזור."
+
+# @ flatsome
+#: page-checkout.php:17 page-checkout.php:28
+msgid "Shopping Cart"
+msgstr "עגלת קניות"
+
+# @ flatsome
+#: page-checkout.php:19 page-checkout.php:30
+msgid "Checkout details"
+msgstr "פרטי עגלת הקניות"
+
+# @ flatsome
+#: page-checkout.php:21 page-checkout.php:32
+msgid "Order Complete"
+msgstr "הזמנה הושלמה"
+
+# @ flatsome
+#: page-my-account.php:30 woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "התחבר / הירשם עם <strong>חשבון פייסבוק</strong>"
+
+# @ flatsome
+#: content-product.php:61 woocommerce/content-product.php:61
+msgid "Quick View"
+msgstr "תצוגה מהירה"
+
+# @ flatsome
+#: structure-wc-product-page.php:149 woocommerce/content-product.php:149
+msgid "Zoom"
+msgstr "הגדלה"
+
+# @ flatsome
+#: structure-wc-global.php:188 inc/woocommerce/structure-wc-global.php:188
+msgid "Pages and posts found"
+msgstr "עמודים ופוסטים נמצאו"
+
+# @ flatsome
+#: structure-wc-global.php:139 inc/shortcodes/portfolio.php:139
+msgid "All"
+msgstr "הכל"
+
+# @ flatsome
+#: flatsome-live-search.php:129 inc/shortcodes/portfolio.php:129
+msgid "No matches found"
+msgstr "לא נמצאו תוצאות מתאימות"

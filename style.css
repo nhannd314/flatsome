@@ -1,0 +1,29 @@
+/*
+Theme Name: Flatsome
+Theme URI: http://flatsome.uxthemes.com/
+Author: UX-Themes
+Author URI: http://www.uxthemes.com/
+Description: Multi-Purpose Responsive WooCommerce Theme
+Version: 3.3.3
+Text Domain: flatsome
+License:
+License URI:
+*/
+
+/***************
+All custom CSS should be added to Flatsome > Advanced > Custom CSS,
+or in the style.css of a Child Theme.
+***************/
+
+.reasons-row .accordion-item {
+    border: solid 1px #c4161c; margin-bottom: 10px
+}
+.reasons-row .accordion-title {
+    background: #c4161c; color: #fff !important;
+    border-top: none; font-weight: normal !important
+}
+.reasons-row .accordion-inner { padding: 10px 15px; font-size: 15px }
+.teachers-row .col > .col-inner > .box {
+    background: #fafafa; padding: 10px
+}
+.teachers-row .col > .col-inner > .box > .box-text { padding-bottom: 3px }

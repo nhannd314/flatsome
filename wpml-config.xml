@@ -1,0 +1,41 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_flatsome">
+			<key name="site_logo" />
+			<key name="topbar_left" />
+			<key name="topbar_right" />
+			<key name="top_right_text" />
+			<key name="footer_left_text" />
+			<key name="footer_right_text" />
+			<key name="tab_content" />
+			<key name="tab_title" />
+			<key name="shop_aside_title" />
+			<key name="nav_position_text_top" />
+			<key name="nav_position_text" />
+			<key name="html_after_header" />
+			<key name="html_intro" />
+			<key name="html_shop_page" />
+			<key name="tab_title" />
+			<key name="tab_content" />
+			<key name="html_before_add_to_cart" />
+			<key name="html_after_add_to_cart" />
+			<key name="html_cart_footer" />
+			<key name="catalog_mode_header" />
+			<key name="catalog_mode_product" />
+			<key name="catalog_mode_lightbox" />
+			<key name="blog_header" />
+			<key name="blog_after_post" />
+			<key name="featured_items_page" />
+			<key name="html_scripts_header" />
+			<key name="html_scripts_footer" />
+			<key name="html_after_footer" />
+			<key name="html_before_footer" />
+		</key>
+	</admin-texts>
+</wpml-config>
+
+
+
+
+
+

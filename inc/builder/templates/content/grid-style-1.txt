@@ -1,0 +1,100 @@
+[gap height="32px"]
+
+[ux_banner_grid]
+
+[col_grid span="6" span__sm="12" depth="1"]
+
+[ux_banner height="500px" bg="8102" bg_color="rgb(255, 255, 255)" bg_pos="65% 16%" hover="overlay-add"]
+
+[text_box text_color="dark" width="50" width__sm="80" scale="99" position_x="10" position_y="90" text_align="left"]
+
+<p class="lead alt-font"><span style="font-size: 190%;">Add any text here...</span></p>
+<h2 class="uppercase"><span style="font-size: 130%;"><strong>New arrivals on the shop</strong></span></h2>
+[divider align="left"]
+
+[button text="Browse" style="outline" size="larger"]
+
+[button text="Shop now" size="larger"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="3" span__sm="12" depth="1"]
+
+[ux_banner height="500px" bg="8106" bg_size="medium" bg_pos="58% 24%"]
+
+[text_box width="80" width__sm="60"]
+
+<h2 class="uppercase"><strong>Add Any CONTENT here</strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="3" span__sm="12" height="1-2" depth="1"]
+
+[ux_banner height="500px" bg="4113" bg_size="medium"]
+
+[text_box width="80"]
+
+<h2 class="uppercase"><strong>Add Any Headline here</strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="3" span__sm="13" height="1-2" depth="1"]
+
+[ux_banner height="500px" bg="8103" bg_size="medium" hover="glow"]
+
+[text_box width="68" width__sm="60"]
+
+<h2 class="uppercase"><strong>Add Any Headline here</strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+
+[/ux_banner_grid]
+[title style="center" text="Featured Products" margin_top="22px" size="undefined"]
+
+[ux_products show="featured"]
+
+[title style="center" text="Featured Categories" size="undefined"]
+
+[ux_product_categories]
+
+[gap height="36px"]
+
+[ux_banner height="366px" bg="3834" bg_overlay="rgba(0, 0, 0, 0.26)" bg_pos="60% 0%" parallax="1"]
+
+[text_box width="49" width__sm="78" position_x="10"]
+
+<h3 class="uppercase"><strong>Signup for Newsletter</strong></h3>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</p>
+[contact-form-7 id="7042"]
+
+
+[/text_box]
+
+[/ux_banner]
+[title style="bold-center" text="Latest news" size="undefined"]
+
+[blog_posts badge_style="square" image_height="75%" image_hover="zoom"]
+
+[title style="bold-center" text="Follow on instagram" icon="icon-instagram" size="undefined"]
+
+[ux_instagram_feed username="topshop" type="slider" width="full-width" columns="6"]

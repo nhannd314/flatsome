@@ -1,0 +1,120 @@
+[ux_slider]
+
+[ux_banner height="600px" bg_overlay="rgba(246, 208, 45, 0.94)" border="2px 2px 2px 2px" border_margin="10px 10px 10px 10px" border_style="dashed" border_radius="undefined"]
+
+[text_box style="circle" width="15" width__sm="29" rotate="1" animate="fadeInRight" position_x="95" position_x__sm="95" position_y="5" position_y__sm="5" border="2px 2px 2px 2px" border_margin="5px 5px 5px 5px" border_style="dashed" border_radius="100" border_color="rgba(255, 255, 255, 0.19)"]
+
+<h3>Up to<br /><span style="font-size: 160%;"><strong>50<span style="font-size: 75%;">%</span><br /></strong></span>off</h3>
+
+[/text_box]
+[text_box width="57" width__sm="84" scale__sm="111" animate="flipInY"]
+
+<h1 class="uppercase"><span style="font-size: 400%;" data-line-height="xs"><strong>Sale</strong></span></h1>
+<h2 class="lead">Summer Sale has Started</h2>
+[ux_countdown style="text" size="114" color="light"]
+
+[gap height="23px"]
+
+[button text="Shop men" color="white"]
+
+[button text="Shop Women" color="white"]
+
+[button text="Shop All" color="white"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="600px" bg="6799" bg_pos="84% 0%" border="2px 2px 2px 2px" border_margin="10px 10px 10px 10px" border_style="dashed" border_radius="undefined"]
+
+[text_box style="circle" width="15" width__sm="29" rotate="1" animate="fadeInRight" position_x="100" position_x__sm="95" position_y="15" position_y__sm="5" border="2px 2px 2px 2px" border_margin="5px 5px 5px 5px" border_style="dashed" border_radius="100" border_color="rgba(255, 255, 255, 0.19)"]
+
+<h3>Up to<br /><span style="font-size: 160%;"><strong>50<span style="font-size: 75%;">%</span><br /></strong></span>off</h3>
+
+[/text_box]
+[text_box width="50"]
+
+<h2 class="uppercase">Shop Fashion Clothes today</h2>
+<h3 class="thin-font">Add any text here..</h3>
+[button text="Shop now" color="white" style="outline"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
+[row depth="1" depth_hover="5"]
+
+[col span="4" span__sm="12"]
+
+[ux_banner height="160px" bg="4116" bg_overlay="rgba(0, 0, 0, 0.06)" bg_pos="50% 12%" border="1px 1px 1px 1px" border_margin="10px 10px 10px 10px" border_style="dashed" border_color="rgba(0, 0, 0, 0.16)"]
+
+[text_box width="68" width__sm="60"]
+
+<h2 class="uppercase"><strong>About us</strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="160px" bg="4110" bg_overlay="rgba(0, 0, 0, 0.06)" bg_pos="60% 18%" border="1px 1px 1px 1px" border_margin="10px 10px 10px 10px" border_style="dashed" border_color="rgba(0, 0, 0, 0.16)"]
+
+[text_box width="68" width__sm="60"]
+
+<h2 class="uppercase"><strong>OUR BLOG</strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="160px" bg="4117" bg_overlay="rgba(0, 0, 0, 0.06)" bg_pos="51% 35%" border="1px 1px 1px 1px" border_margin="10px 10px 10px 10px" border_style="dashed" border_color="rgba(0, 0, 0, 0.16)"]
+
+[text_box width="68" width__sm="60"]
+
+<h2 class="uppercase"><strong>NEWSLETTER</strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+[title style="bold-center" text="Latest products on sale" size="undefined"]
+
+[ux_products depth="1" depth_hover="4" orderby="sales" show="onsale"]
+
+[title style="bold-center" text="Browse our Categories" size="undefined"]
+
+[ux_product_categories depth="1" depth_hover="4"]
+
+[title style="bold-center" text="Follow us on Instagram" icon="instagram" size="undefined"]
+
+[ux_instagram_feed username="topshop" depth="1"]
+
+[gap height="58px"]
+
+[ux_banner height="407px" bg="8102" bg_color="rgb(18, 18, 18)" bg_overlay="rgba(0, 0, 0, 0.36)" bg_pos="79% 0%" parallax="1" border="2px 0px 2px 0px" border_margin="10px 0px 10px 0px" border_style="dashed" border_radius="undefined" border_color="rgba(255, 255, 255, 0.22)"]
+
+[text_box width="47"]
+
+<h2 class="uppercase"><strong>Don't miss a sale</strong></h2>
+<h3 class="thin-font">Sign up for our Newsletter</h3>
+[gap height="32px"]
+
+[contact-form-7 id="7042"]
+
+
+[/text_box]
+
+[/ux_banner]
+[title style="bold-center" text="Latest News" size="undefined"]
+
+[blog_posts columns="3" depth="1" depth_hover="4" image_height="181px"]

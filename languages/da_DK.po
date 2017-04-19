@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-09-17 18:13+0100\n"
+"Last-Translator: Kenneth Kastbjerg Clausen <kenneth@dotnot.dk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: da_DK\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ flatsome
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Siden findes ikke"
+
+# @ flatsome
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Lader til vi ikke kunne finde noget, prøv fx en af linkene nedenfor eller "
+"søgefeltet"
+
+# @ flatsome
+#: archive.php:40
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategori Arkiver: %s"
+
+# @ flatsome
+#: archive.php:43
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Arkiver: %s"
+
+# @ flatsome
+#: archive.php:50
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Forfatter Arkiver: %s"
+
+# @ flatsome
+#: archive.php:58
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Daglige Arkiver: %s"
+
+# @ flatsome
+#: archive.php:61
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Månedlig Arkiver: %s"
+
+# @ flatsome
+#: archive.php:64
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Årlig Arkiver: %s"
+
+# @ flatsome
+#: archive.php:67
+msgid "Asides"
+msgstr "Tilside"
+
+# @ flatsome
+#: archive.php:70
+msgid "Images"
+msgstr "Billeder"
+
+# @ flatsome
+#: archive.php:73
+msgid "Videos"
+msgstr "Videos"
+
+# @ flatsome
+#: archive.php:76
+msgid "Quotes"
+msgstr "Citater"
+
+# @ flatsome
+#: archive.php:79
+msgid "Links"
+msgstr "Links"
+
+# @ flatsome
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En tanke om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanker om &ldquo;%2$s&rdquo;"
+
+# @ flatsome
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Ældre kommentarer"
+
+# @ flatsome
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommetarer &rarr;"
+
+# @ flatsome
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+# @ flatsome
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Kommentar er lukket"
+
+# @ flatsome
+#: content-page.php:17 content-single.php:33 content.php:47 image.php:92
+#: page-left-sidebar-notitle.php:22 page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr "Sider:"
+
+# @ flatsome
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:51 content-single.php:54 content.php:58 content.php:66
+#: content.php:109 content.php:117 content.php:167 content.php:187
+msgid ", "
+msgstr ","
+
+# @ flatsome
+#: content-single.php:59
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "Dette indlæg blev postet i %1$s og tagged %2$s."
+
+# @ flatsome
+#: content-single.php:61
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Dette indlæg var udgivet den %1$s. Bookmark <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+# @ flatsome
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsæt med at læse <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: content.php:61
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Udgivet %1$s"
+
+# @ flatsome
+#: content.php:71 content.php:122 content.php:192
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> Komentar"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%</strong> Komentarer"
+
+# @ flatsome
+#: content.php:112 content.php:170
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ flatsome
+#: functions.php:213
+msgid "Main Menu"
+msgstr "Hoved Menu"
+
+# @ flatsome
+#: functions.php:214
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+# @ flatsome
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr "Top bar Menu"
+
+# @ flatsome
+#: functions.php:216
+msgid "My Account Menu"
+msgstr "Min Side"
+
+# @ flatsome
+#: functions.php:231
+msgid "Sidebar"
+msgstr "Sidebar"
+
+# @ flatsome
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr "Shop Sidebar"
+
+# @ flatsome
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr "Produkt Sidebar"
+
+# @ flatsome
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr "Footer 1 (4 column)"
+
+# @ flatsome
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr "Footer 2 (4 column)"
+
+# @ default
+#: functions.php:349
+msgid "Flatsome Theme Options"
+msgstr "Flatsome Tema Optioner"
+
+# @ flatsome
+#: image.php:25
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Udgivet <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\">%2$s</time></span> den <a href=\"%3$s\" title=\"Link to full-size image\">"
+"%4$s &times; %5$s</a> i <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%8$s</a>"
+
+# @ flatsome
+#: image.php:36 image.php:109 inc/template-tags.php:77
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr "Rediger"
+
+# @ flatsome
+#: image.php:101
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Tilføj "
+"en kommentar</a> eller lave en Traceback: <a class=\"trackback-link\" href="
+"\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback "
+"URL</a>."
+
+# @ flatsome
+#: image.php:103
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Kommentar er lukket, men du kan lave trackback: <a class=\"trackback-link\" "
+"href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+
+# @ flatsome
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Trackbacks er lukket, men du kan <a class=\"comment-link\" href=\"#respond\" "
+"title=\"Post a comment\">kommenterer</a>."
+
+# @ flatsome
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Både kommentar og trackbacks er pt. lukket"
+
+# @ flatsome
+#: image.php:114 woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Forrige"
+
+# @ flatsome
+#: image.php:115 woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Næste <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: inc/custom-css.php:176
+msgid "New"
+msgstr "Ny"
+
+# @ flatsome
+#: inc/woocommerce/tempalte-tags-global:36
+msgid "Home"
+msgstr "Hjem"
+
+# @ flatsome
+#: inc/custom-css.php:177
+msgid "Hot"
+msgstr "Hot"
+
+# @ flatsome
+#: inc/custom-css.php:178
+msgid "Sale"
+msgstr "Tilbud"
+
+# @ flatsome
+#: inc/custom-css.php:179
+msgid "Popular"
+msgstr "Populært"
+
+# @ flatsome
+#: inc/extras.php:101
+#, php-format
+msgid "Page %s"
+msgstr "Side %s"
+
+# @ pippin
+#: inc/extras.php:120
+msgid "Top Content"
+msgstr "Øverste indhold"
+
+# @ pippin
+#: inc/extras.php:126
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+"Indtast værdi i dette felt. Shortcodes er tilladt. Dette vil blive vist i "
+"toppen af categorien"
+
+# @ default
+#: inc/post-types/blocks.php:30
+#: inc/widgets/woocommerce-subcategories-widget.php:108
+msgid "Title"
+msgstr "Titel"
+
+# @ default
+#: inc/post-types/blocks.php:33
+msgid "Shortcode"
+msgstr "Shortcode"
+
+# @ default
+#: inc/post-types/blocks.php:35
+msgid "Date"
+msgstr "Dato"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr "Del på Facebook"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr "Del på Twitter"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr "Email en ven"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr "Pin på Pinterest"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr "Del på Google+"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Tumblr"
+msgstr "Del på Tumblr"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow on Facebook"
+msgstr "Følg på Facebook"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:103
+msgid "Follow on YouTube"
+msgstr "Følg på YouTube"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow on Twitter"
+msgstr "Følg på Twitter"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Follow on SnapChat"
+msgstr "Følg på SnapChat"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr "Send os en email"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow on Pinterest"
+msgstr "Følg på Pinterest"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow on Google+"
+msgstr "Følg på Google+"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow on Instagram"
+msgstr "Følg på Instagram"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr "Abonner på RSS"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr "YouTube"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ flatsome
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> Ældre artikel"
+
+# @ flatsome
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "Nyere artikel <span class=\"icon-angle-right\"></span>"
+
+# @ flatsome
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ flatsome
+#: inc/template-tags.php:93
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">siger:</span>"
+
+# @ flatsome
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer godkendelse"
+
+# @ flatsome
+#: inc/template-tags.php:104
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+# @ flatsome
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Udgivet den %s"
+
+# @ flatsome
+#: inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "af %s"
+
+# @ flatsome
+#: inc/template-tags.php:147
+#, php-format
+msgid "View all posts by %s"
+msgstr "Se alle artikler af %s"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr "Forrige artikel"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr "Næste artikel"
+
+# @ flatsome
+#: search.php:35
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Søgeresultat for \"%s\""
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr "Seneste Indlæg"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr "Antal artikler der vises:"
+
+# @ text_domain
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr "Tilføj up-selling produkter til produktsiden"
+
+# @ text_domain
+# @ flatsome
+#: inc/widgets/upsell-widget.php:105
+#: woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr "Complete the look"
+
+# @ flatsome
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Intet indhold fundet"
+
+# @ flatsome
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klar til at udgive din første artikel? <a href=\"%1$s\">Kom i gang her</a>."
+
+# @ flatsome
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Beklager, der var ikke noget der matchede din søgning, Venligst prøv igen "
+"med andre ord"
+
+# @ flatsome
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det lader til, vi ikke kan finde det du leder efter, måske en søgning kan "
+"hjælpe"
+
+# @ flatsome
+#: page-checkout.php:17 page-checkout.php:28
+msgid "Shopping Cart"
+msgstr "Varekurv"
+
+# @ flatsome
+#: page-checkout.php:19 page-checkout.php:30
+msgid "Checkout details"
+msgstr "Kundeinformation"
+
+# @ flatsome
+#: page-checkout.php:21 page-checkout.php:32
+msgid "Order Complete"
+msgstr "Ordre gennemført"
+
+# @ flatsome
+#: page-my-account.php:30 woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "Login / Registrer med <strong>Facebook</strong>"
+
+# @ flatsome
+#: content-product.php:61 woocommerce/content-product.php:61
+msgid "Quick View"
+msgstr "Vis"

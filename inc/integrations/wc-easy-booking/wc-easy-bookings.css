@@ -1,0 +1,22 @@
+.book_start_date_label, .book_end_date_label{
+	margin-top: 0!important;
+	font-weight: bolder;
+	margin-bottom: 10px;
+}
+
+input.booking_calender + img{
+	position: relative;
+	top:-27px;
+	margin-left: 8px;
+}
+
+.show_addon_price, .show_time_slot{
+	font-weight: bolder;
+	font-size: 120%;
+	margin-bottom: 10px;
+}
+
+input.booking_calender{
+	padding-left: 40px;
+	margin-bottom: 0px;
+}

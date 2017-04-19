@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="72px" height="52px" viewBox="0 0 72 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>overlay-center</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="70" height="50" rx="4"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="72" height="52">
+            <rect x="-1" y="-1" width="72" height="52" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="overlay-center" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask">
+                <use fill-opacity="0.01" fill="#00A0D2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#3498DB" mask="url(#mask-3)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="24.3023833 16.5 48.176206 16.5 48.676206 16.5 48.676206 15.5 48.176206 15.5 24.3023833 15.5 23.8023833 15.5 23.8023833 16.5"></polygon>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="25.3023833 21.5 45.9999994 21.5 46.4999994 21.5 46.4999994 20.5 45.9999994 20.5 25.3023833 20.5 24.8023833 20.5 24.8023833 21.5"></polygon>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="24.3023833 26.5 48.176206 26.5 48.676206 26.5 48.676206 25.5 48.176206 25.5 24.3023833 25.5 23.8023833 25.5 23.8023833 26.5"></polygon>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="27.3023833 31.5 44.1024469 31.5 44.6024469 31.5 44.6024469 30.5 44.1024469 30.5 27.3023833 30.5 26.8023833 30.5 26.8023833 31.5"></polygon>
+            <polygon id="Line" fill="#3498DB" mask="url(#mask-2)" points="24.3023833 36.5 48.176206 36.5 48.676206 36.5 48.676206 35.5 48.176206 35.5 24.3023833 35.5 23.8023833 35.5 23.8023833 36.5"></polygon>
+        </g>
+    </g>
+</svg>

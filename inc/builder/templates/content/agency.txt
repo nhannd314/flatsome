@@ -1,0 +1,196 @@
+[ux_banner height="100%" bg="8902" bg_overlay="rgba(0, 0, 0, 0.27)" bg_pos="49% 43%" parallax="4" link="Portfolio"]
+
+[text_box width="59" width__sm="100" scale__sm="131" animate="fadeInUp" parallax="-3" text_depth="1"]
+
+<h1 class="uppercase"><strong>WE're a creative Agency</strong></h1>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat</p>
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner_grid spacing="collapse" height="885" width="full-width"]
+
+[col_grid span="6" height="2-3"]
+
+[ux_banner height="500px" bg="8900" bg_overlay="rgba(0, 0, 0, 0.2)" bg_pos="53% 69%" hover="zoom" link="Portfolio"]
+
+[text_box width="37" animate="fadeInRight" position_x="10" position_y="80" text_align="left"]
+
+[video_button size="130"]
+
+<h3 class="uppercase"><strong>This is a simple banner</strong></h3>
+<p class="lead">A Website for Acme Company</p>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="6" height="1-2"]
+
+[ux_banner height="500px" bg="8898" bg_overlay="rgba(0, 0, 0, 0.19)" bg_pos="53% 69%" hover="zoom" link="Portfolio"]
+
+[text_box width="30" animate="fadeInLeft" position_x="90" text_align="right"]
+
+<h3 class="uppercase"><strong>This is a simple banner</strong></h3>
+<p class="lead">A Website for Acme Company</p>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="3" height="1-2"]
+
+[ux_banner height="500px" bg="8891" bg_size="medium" bg_overlay="rgba(0, 0, 0, 0.21)" hover="zoom" link="Portfolio"]
+
+[text_box]
+
+<h3 class="uppercase"><strong>This is a simple banner</strong></h3>
+<p class="lead">A Website for Acme Company</p>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="3" height="1-2"]
+
+[ux_banner height="500px" bg="9067" bg_overlay="rgba(0, 0, 0, 0.47)" bg_pos="34% 46%" hover="zoom" link="Portfolio"]
+
+[text_box hover="fade-out" position_y="95"]
+
+<h3 class="uppercase"><strong>This is a simple banner</strong></h3>
+<p class="lead">A Website for Acme Company</p>
+
+[/text_box]
+[text_box hover="zoom-in"]
+
+[video_button size="178"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="6" height="1-3"]
+
+[ux_banner height="500px" bg="8888" hover="zoom"]
+
+[text_box text_color="dark" width="39" position_x="10" position_y="70" text_align="left"]
+
+<h3 class="uppercase"><strong>This is a simple banner</strong></h3>
+<p class="lead">A Website for Acme Company</p>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+
+[/ux_banner_grid]
+[row]
+
+[col span__sm="12" align="center"]
+
+[button text="Browse Portfolio" style="outline" size="larger" radius="99" icon="icon-angle-right" icon_reveal="true" link="Portfolio"]
+
+
+[/col]
+
+[/row]
+[title style="center" text="Our Clients"]
+
+[row col_style="dashed" v_align="middle"]
+
+[col span="4" span__sm="12" align="center"]
+
+[logo hover="color"]
+
+
+[/col]
+[col span="4" span__sm="12" align="center"]
+
+[logo hover="color"]
+
+
+[/col]
+[col span="4" span__sm="12" align="center"]
+
+[logo hover="color"]
+
+
+[/col]
+[col span="4" span__sm="12" align="center"]
+
+[logo hover="color"]
+
+
+[/col]
+[col span="4" span__sm="12" align="center"]
+
+[logo hover="color"]
+
+
+[/col]
+[col span="4" span__sm="12" align="center"]
+
+[logo hover="color"]
+
+
+[/col]
+
+[/row]
+[gap]
+
+[section label="Media Right" bg_color="rgb(207, 207, 207)" bg_overlay="rgba(255, 255, 255, 0.85)" padding="60px" border="1px 0px 1px 0px"]
+
+[row style="large" h_align="center"]
+
+[col span="9" span__sm="12" align="center"]
+
+<h2 class="uppercase"><span style="font-size: 100%;">Contact Us</span></h2>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/col]
+[col span="6" span__sm="12" align="left"]
+
+[accordion auto_open="true"]
+
+[accordion-item title="How long does it takes to we get back to you"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/accordion-item]
+[accordion-item]
+
+
+[/accordion-item]
+[accordion-item title="Add anything here"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/accordion-item]
+[accordion-item title="Research"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+[col span="6" span__sm="12"]
+
+[contact-form-7 id="8979"]
+
+
+[/col]
+
+[/row]
+
+[/section]
+[title style="center" text="LAtest NEws" margin_top="22px" size="undefined"]
+
+[blog_posts style="push" slider_nav_style="simple" slider_nav_position="outside" columns="3" badge_style="circle" image_height="180px"]

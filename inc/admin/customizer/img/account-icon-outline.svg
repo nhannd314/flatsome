@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="72px" viewBox="0 0 100 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>account-icon-outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="71.4285714" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-5" x="23.3075435" y="8.28125" width="52.9293346" height="53.4462226" rx="26.4646673"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="52.9293346" height="53.4462226" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="account-icon-outline">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" stroke="#3498DB" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.01" fill="#00A0D2">
+                <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Rectangle-166-Copy-4" mask="url(#mask-3)" stroke="#3498DB" stroke-width="2" fill="#3498DB" fill-opacity="0.127858922">
+                <use mask="url(#mask-6)" xlink:href="#path-5"></use>
+            </g>
+            <path d="M53.2837597,37.2547356 C53.2837597,37.2547356 55.3991751,35.1782244 55.8599466,32.385633 C57.1000177,32.385633 57.8659439,29.4167569 56.6258728,28.3724225 C56.6781504,27.2733791 58.2197289,19.7417708 50.4109283,19.7417708 C42.6021277,19.7417708 44.1437063,27.2733791 44.1959838,28.3724225 C42.9559127,29.4167569 43.7218389,32.385633 44.96191,32.385633 C45.4226815,35.1782244 47.5393127,37.2547356 47.5393127,37.2547356 C47.5393127,37.2547356 47.5222921,39.2181815 46.8025646,39.3312468 C44.4829022,39.6971894 35.8218566,43.4842693 35.8218566,47.6372917 L65,47.6372917 C65,43.4842693 56.3389544,39.6971894 54.0205078,39.3312468 C53.3007803,39.2181815 53.2837597,37.2547356 53.2837597,37.2547356 Z" id="Path" fill="#3498DB" mask="url(#mask-3)"></path>
+        </g>
+    </g>
+</svg>

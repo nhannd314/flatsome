@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>accordion</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="14" y="9" width="72" height="26.9899235" rx="3"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="26.9899235" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <rect id="path-6" x="14" y="38.6731086" width="72" height="8.70642695" rx="3"></rect>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="8.70642695" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <rect id="path-8" x="14" y="50.0187089" width="72" height="8.70642695" rx="3"></rect>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="8.70642695" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="accordion">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Rectangle-166-Copy" mask="url(#mask-2)" stroke="#00A0D2" stroke-width="2" fill="url(#linearGradient-3)" fill-opacity="0.15">
+                <use mask="url(#mask-5)" xlink:href="#path-4"></use>
+            </g>
+            <path d="M34.9986535,20.9984291 C34.9986535,21.1025583 34.9584829,21.1947935 34.8781418,21.2751346 L29.2760323,26.8772442 C29.1956912,26.9575853 29.103456,26.9977558 28.9993268,26.9977558 C28.8951975,26.9977558 28.8029623,26.9575853 28.7226212,26.8772442 L23.1205117,21.2751346 C23.0401706,21.1947935 23,21.1025583 23,20.9984291 C23,20.8942998 23.0401706,20.8020646 23.1205117,20.7217235 L23.7217235,20.1205117 C23.8020646,20.0401706 23.8942998,20 23.9984291,20 C24.1025583,20 24.1947935,20.0401706 24.2751346,20.1205117 L29,24.845377 L33.7248654,20.1205117 C33.8052065,20.0401706 33.8974417,20 34.0015709,20 C34.1057002,20 34.1979354,20.0401706 34.2782765,20.1205117 L34.8794883,20.7217235 C34.9598294,20.8020646 35,20.8942998 35,20.9984291 L34.9986535,20.9984291 Z" id="Shape" fill="#00A0D2" mask="url(#mask-2)"></path>
+            <g id="Rectangle-166-Copy" opacity="0.12943097" mask="url(#mask-2)" stroke="#00A0D2" stroke-width="2" fill="#FFFFFF" fill-opacity="0.0336574389">
+                <use mask="url(#mask-7)" xlink:href="#path-6"></use>
+            </g>
+            <g id="Rectangle-166-Copy" opacity="0.12943097" mask="url(#mask-2)" stroke="#00A0D2" stroke-width="2" fill="#FFFFFF" fill-opacity="0.0336574389">
+                <use mask="url(#mask-9)" xlink:href="#path-8"></use>
+            </g>
+        </g>
+    </g>
+</svg>

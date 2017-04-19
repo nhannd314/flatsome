@@ -1,0 +1,59 @@
+[ux_slider slide_width="100%" bullets="false"]
+
+[ux_banner height="100%" bg="8328" bg_overlay="rgba(0, 0, 0, 0.3)" bg_pos="70% 17%"]
+
+[text_box width="56" width__sm="85" width__md="52" animate="fadeInLeft" position_x="5" position_x__sm="10" position_y__sm="90" text_depth="1"]
+
+<h1><span style="font-size: 80%;"><strong>WordPress &amp; WooCommerce Expert</strong></span></h1>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+[button text="My Work" color="white" style="outline" radius="99" link="Portfolio"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="100%" bg="8330" bg_overlay="rgba(0, 0, 0, 0.3)" bg_pos="62% 50%"]
+
+[text_box width="63" width__sm="85" width__md="52" animate="fadeInLeft" position_x__sm="10" position_x__md="5" position_y="25" position_y__sm="90" text_depth="1"]
+
+<h2><strong>A small but focused Web Studio</strong></h2>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[button text="Learn more" color="white" style="outline" radius="99" icon="icon-angle-right" icon_reveal="true" link="About"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="100%" bg="8333" bg_overlay="rgba(0, 0, 0, 0.3)" bg_pos="62% 50%"]
+
+[text_box width="80" width__sm="85" width__md="52" animate="fadeInLeft" position_x__sm="10" position_x__md="5" position_y__sm="90" text_depth="1"]
+
+<h2><strong>Services</strong></h2>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[row]
+
+[col span="4" span__sm="12"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/col]
+[col span="4" span__sm="12"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/col]
+[col span="4" span__sm="12"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/col]
+
+[/row]
+[button text="Contact Now" color="white" style="outline" radius="99" icon="icon-angle-right" icon_reveal="true" link="Contact"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]

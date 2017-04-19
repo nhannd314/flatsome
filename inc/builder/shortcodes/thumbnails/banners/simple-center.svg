@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="71px" viewBox="0 0 100 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>simple-center</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="70.04"></rect>
+    </defs>
+    <g id="Banner-Presets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="simple-center">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#00A0D2" xlink:href="#path-1"></use>
+            <path d="M75.7063774,44.8283343 C75.7063774,44.8283343 80.7588801,39.8687512 81.8593965,33.1988669 C84.8212084,33.1988669 86.6505629,26.1079406 83.6887509,23.6136304 C83.8136116,20.9886519 87.4955504,3 68.8448464,3 C50.1941424,3 53.8760811,20.9886519 54.0009418,23.6136304 C51.0391299,26.1079406 52.8684843,33.1988669 55.8302963,33.1988669 C56.9308126,39.8687512 61.9862191,44.8283343 61.9862191,44.8283343 C61.9862191,44.8283343 61.9455668,49.5178699 60.2265544,49.7879175 C54.6862238,50.6619424 34,59.7070837 34,69.62625 L103.689693,69.62625 C103.689693,59.7070837 83.0034689,50.6619424 77.4660421,49.7879175 C75.7470297,49.5178699 75.7063774,44.8283343 75.7063774,44.8283343 Z" id="Shape-Copy-6" fill="#FFFFFF" opacity="0.151061101" mask="url(#mask-2)"></path>
+            <g id="Group" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(34.000000, 23.000000)" id="Rectangle-7">
+                    <rect opacity="0.51614972" x="8" y="19" width="16" height="5"></rect>
+                    <rect x="0" y="9" width="32" height="4"></rect>
+                    <rect x="5" y="0" width="22" height="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

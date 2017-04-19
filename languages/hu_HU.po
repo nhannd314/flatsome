@@ -1,0 +1,595 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-03-11 12:21+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: hu\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ flatsome
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Az oldal nem található"
+
+# @ flatsome
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+# @ flatsome
+#: archive.php:40
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategória Archívumok: %s"
+
+# @ flatsome
+#: archive.php:43
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archívumok: %s"
+
+# @ flatsome
+#: archive.php:50
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Szerző Archívumok: %s"
+
+# @ flatsome
+#: archive.php:58
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Napi Archívumok: %s"
+
+# @ flatsome
+#: archive.php:61
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Havi Archívumok: %s"
+
+# @ flatsome
+#: archive.php:64
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Éves Archívumok: %s"
+
+# @ flatsome
+#: archive.php:67
+msgid "Asides"
+msgstr ""
+
+# @ flatsome
+#: archive.php:70
+msgid "Images"
+msgstr "Képek"
+
+# @ flatsome
+#: archive.php:73
+msgid "Videos"
+msgstr "Videók"
+
+# @ flatsome
+#: archive.php:76
+msgid "Quotes"
+msgstr ""
+
+# @ flatsome
+#: archive.php:79
+msgid "Links"
+msgstr "Hivatkozások"
+
+# @ flatsome
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ flatsome
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ flatsome
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ flatsome
+#: comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+# @ flatsome
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Hozzászólások lezárva."
+
+# @ flatsome
+#: content-page.php:17 content-single.php:33 content.php:47 image.php:92
+#: page-left-sidebar-notitle.php:22 page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr "Oldalak:"
+
+# @ flatsome
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:51 content-single.php:54 content.php:58 content.php:66
+#: content.php:109 content.php:117 content.php:167 content.php:187
+msgid ", "
+msgstr ""
+
+# @ flatsome
+#: content-single.php:59
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr ""
+
+# @ flatsome
+#: content-single.php:61
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+# @ flatsome
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ flatsome
+#: content.php:61
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+# @ flatsome
+#: content.php:71 content.php:122 content.php:192
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "Szóljon hozzá"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> Hozzászólás"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr ""
+
+# @ flatsome
+#: content.php:112 content.php:170
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+# @ flatsome
+#: functions.php:213
+msgid "Main Menu"
+msgstr "Fő menü"
+
+# @ flatsome
+#: functions.php:214
+msgid "Footer Menu"
+msgstr ""
+
+# @ flatsome
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr ""
+
+# @ flatsome
+#: functions.php:216
+msgid "My Account Menu"
+msgstr "Fiókom"
+
+# @ flatsome
+#: functions.php:231
+msgid "Sidebar"
+msgstr ""
+
+# @ flatsome
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr "Webáruház - Sidebar"
+
+# @ flatsome
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr "Termék - Sidebar"
+
+# @ flatsome
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr "Lábléc 1 (4  oszlop)"
+
+# @ flatsome
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr "Lábléc 2 (4 oszlop)"
+
+# @ default
+#: functions.php:349
+msgid "Flatsome Theme Options"
+msgstr "Flatsome Téma beállítások"
+
+# @ flatsome
+#: image.php:25
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Publikálva <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+
+# @ flatsome
+#: image.php:36 image.php:109 inc/template-tags.php:77
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr "Szerkesztés"
+
+# @ flatsome
+#: image.php:101
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+# @ flatsome
+#: image.php:103
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+# @ flatsome
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+# @ flatsome
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Mindkét hozzászólás sikeresen lezárva."
+
+# @ flatsome
+#: image.php:114 woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Előző"
+
+# @ flatsome
+#: image.php:115 woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Következő <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: inc/custom-css.php:176
+msgid "New"
+msgstr "Új"
+
+# @ flatsome
+#: inc/woocommerce/tempalte-tags-global:36
+msgid "Home"
+msgstr ""
+
+# @ flatsome
+#: inc/custom-css.php:177
+msgid "Hot"
+msgstr "Forró (HOT)"
+
+# @ flatsome
+#: inc/custom-css.php:178
+msgid "Sale"
+msgstr "Akció"
+
+# @ flatsome
+#: inc/custom-css.php:179
+msgid "Popular"
+msgstr "Népszerű"
+
+# @ flatsome
+#: inc/extras.php:101
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ pippin
+#: inc/extras.php:120
+msgid "Top Content"
+msgstr "Top Tartalom"
+
+# @ pippin
+#: inc/extras.php:126
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+
+# @ default
+#: inc/post-types/blocks.php:30
+#: inc/widgets/woocommerce-subcategories-widget.php:108
+msgid "Title"
+msgstr "Cím"
+
+# @ default
+#: inc/post-types/blocks.php:33
+msgid "Shortcode"
+msgstr ""
+
+# @ default
+#: inc/post-types/blocks.php:35
+msgid "Date"
+msgstr "Dátum"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr "Megosztom a Facebookon"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr "Megosztom a Twitteren"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr "Elküldöm email-ben a barátomnak."
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr "Bejelölöm (Pinelem) a Pinteresten"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr "Megosztom a Google+ - on"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Tumblr"
+msgstr "Megosztom a Tumlr-en"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow on Facebook"
+msgstr "Követem a Facebookon"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:103
+msgid "Follow on YouTube"
+msgstr "Követem a Youtube-on"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow on Twitter"
+msgstr "Követem a Twitteren"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Follow on SnapChat"
+msgstr "Kövessen a SnapChat-en"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr "Küldjön emailt nekünk."
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow on Pinterest"
+msgstr "Kövessen a Pinterest-en"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow on Google+"
+msgstr "Kövessen a Google+ -on"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow on Instagram"
+msgstr "Kövessen az Instagrammon"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr "Feliratkozás RSS csatornára"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr "YouTube"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ flatsome
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr ""
+
+# @ flatsome
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "Újabb hozzászólások <span class=\"icon-angle-right\"></span>"
+
+# @ flatsome
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr ""
+
+# @ flatsome
+#: inc/template-tags.php:93
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+# @ flatsome
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "A hozzászólásod moderálásra vár"
+
+# @ flatsome
+#: inc/template-tags.php:104
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s és %2$s"
+
+# @ flatsome
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Hozzászólva %s"
+
+# @ flatsome
+#: inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "szerző által %s"
+
+# @ flatsome
+#: inc/template-tags.php:147
+#, php-format
+msgid "View all posts by %s"
+msgstr "Mutassa az összes hozzászólást %s"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr "Előző hozzászólás"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr "Következő hozzászólás"
+
+# @ flatsome
+#: search.php:35
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Keresési eredmény: %s"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr "Legutóbbi hozzászólások"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr "Hozzászólsok számának mutatása:"
+
+# @ text_domain
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr "Uppsell termékek hozzáadása a termékhez."
+
+# @ text_domain
+# @ flatsome
+#: inc/widgets/upsell-widget.php:105 woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr ""
+
+# @ flatsome
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Nem található semmi"
+
+# @ flatsome
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Készen áll pubkilálni első hozzászólását? a href=\"%1$s\">Kezdjen hozzá itt</"
+"a>."
+
+# @ flatsome
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sajnáljuk, nem található eredmény a beírt kulcsszóra. Próbáljon keresni "
+"másik kulcsszóval."
+
+# @ flatsome
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ flatsome
+#: page-checkout.php:17 page-checkout.php:28
+msgid "Shopping Cart"
+msgstr "Bevásárló kosár"
+
+# @ flatsome
+#: page-checkout.php:19 page-checkout.php:30
+msgid "Checkout details"
+msgstr "Rendelés részletei"
+
+# @ flatsome
+#: page-checkout.php:21 page-checkout.php:32
+msgid "Order Complete"
+msgstr "Renderés befejezve"
+
+# @ flatsome
+#: page-my-account.php:30 woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "Bejelentkezés/Regisztrálás <strong>Facebook</strong> fiókkal"
+
+# @ flatsome
+#: content-product.php:61 woocommerce/content-product.php:61
+msgid "Quick View"
+msgstr "Gyors nézet"
+

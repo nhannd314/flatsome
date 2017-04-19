@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="70px" viewBox="0 0 100 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>media-right-large</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-1">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="99.9428898" height="70"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.9428898" height="70" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.9428898" height="70" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="Section-Presets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="media-right-large">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <g id="BG" stroke="#00A0D2" mask="url(#mask-3)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-1)">
+                <use mask="url(#mask-5)" xlink:href="#path-2"></use>
+            </g>
+            <path d="M11.2164119,47.3544812 C11.2164119,47.3544812 16.9364256,41.7396632 18.1823366,34.1885876 C21.5354481,34.1885876 23.6064876,26.1608443 20.2533761,23.3369984 C20.3947327,20.3652212 24.5631105,0 3.44837033,0 C-17.6663699,0 -13.4979921,20.3652212 -13.3566354,23.3369984 C-16.7097469,26.1608443 -14.6387075,34.1885876 -11.285596,34.1885876 C-10.039685,41.7396632 -4.3163839,47.3544812 -4.3163839,47.3544812 C-4.3163839,47.3544812 -4.362407,52.6635744 -6.3085266,52.9692993 C-12.5808175,53.9587959 -36,64.1989353 -36,75.4285714 L42.8967407,75.4285714 C42.8967407,64.1989353 19.4775581,53.9587959 13.2085546,52.9692993 C11.262435,52.6635744 11.2164119,47.3544812 11.2164119,47.3544812 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.1015625" mask="url(#mask-4)"></path>
+            <rect id="Rectangle-2" fill="#00A0D2" mask="url(#mask-4)" x="57" y="0" width="45" height="70"></rect>
+            <rect id="Rectangle-3" fill-opacity="0.532382246" fill="#00A0D2" opacity="0.333430504" mask="url(#mask-4)" x="13" y="41" width="21" height="5"></rect>
+            <rect id="Rectangle-3" fill="#00A0D2" mask="url(#mask-4)" x="13" y="23" width="31" height="5"></rect>
+            <rect id="Rectangle-3" fill-opacity="0.532382246" fill="#00A0D2" opacity="0.333430504" mask="url(#mask-4)" x="13" y="32" width="21" height="5"></rect>
+        </g>
+    </g>
+</svg>

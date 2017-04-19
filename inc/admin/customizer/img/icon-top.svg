@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="102px" height="74px" viewBox="0 0 102 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-top</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="71.4285714" rx="4"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="102" height="73.4285714">
+            <rect x="-1" y="-1" width="102" height="73.4285714" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-top" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask">
+                <use fill-opacity="0.01" fill="#00A0D2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#3498DB" mask="url(#mask-3)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-Copy" mask="url(#mask-2)" opacity="0.420359142">
+                <g transform="translate(17.003067, 44.624645)" id="Rectangle-167-Copy-5-+-Rectangle-167-Copy-8-+-Rectangle-167-Copy-7">
+                    <g transform="translate(0.000000, 0.437756)">
+                        <rect id="Rectangle-167-Copy-8" fill="#3498DB" x="4.46421907" y="8.44328426" width="56.8135584" height="3.8434373"></rect>
+                        <rect id="Rectangle-167-Copy-7" fill="#3498DB" x="0.347876394" y="0.0117371775" width="67.2858529" height="3.8434373"></rect>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle-166-Copy-4" fill="#3498DB" mask="url(#mask-2)" x="35.4555784" y="8.58880074" width="29.334242" height="29.6207092" rx="99"></rect>
+        </g>
+    </g>
+</svg>

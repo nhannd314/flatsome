@@ -1,0 +1,13 @@
+<div id="slider-{{::$id}}" class="slider-wrapper relative {{ shortcode.options.visibility }}">
+
+    <div class="slider slider-auto-height slider-nav-{{ shortcode.options.navPos }}  slider-nav-{{ shortcode.options.navSize }} slider-style-{{ shortcode.options.style }} slider-nav-{{ shortcode.options.navColor }} slider-nav-{{ shortcode.options.navStyle }} is-draggable"
+    ng-class="{'slider-show-nav' : shortcode.options.hideNav}">
+        <content />
+    </div>
+
+    <style scope="scope">
+    	#slider-{{::$id}} {margin-bottom: {{ shortcode.options.margin }}; }
+    	#slider-{{::$id}} { background-color: {{ shortcode.options.bgColor }}; }
+        #slider-{{::$id}} .flickity-slider > *{ max-width: {{ shortcode.options.slideWidth }}!important; }
+    </style>
+</div>

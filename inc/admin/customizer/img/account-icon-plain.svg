@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="72px" viewBox="0 0 100 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>account-icon-plain</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="71.4285714" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="account-icon-plain">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" stroke="#3498DB" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.01" fill="#00A0D2">
+                <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+            </g>
+            <path d="M53.1266522,41.1942787 C53.1266522,41.1942787 55.9283214,38.4441345 56.5385701,34.7456091 C58.1809279,34.7456091 59.1953253,30.8136112 57.5529675,29.4304883 C57.6222042,27.9749085 59.6638804,18 49.3218566,18 C38.9798329,18 41.021509,27.9749085 41.0907457,29.4304883 C39.4483879,30.8136112 40.4627854,34.7456091 42.1051432,34.7456091 C42.7153918,38.4441345 45.5186712,41.1942787 45.5186712,41.1942787 C45.5186712,41.1942787 45.496129,43.7946786 44.5429174,43.944423 C41.4707422,44.4290795 30,49.4447115 30,54.945 L68.6437132,54.945 C68.6437132,49.4447115 57.172971,44.4290795 54.102406,43.944423 C53.1491944,43.7946786 53.1266522,41.1942787 53.1266522,41.1942787 Z" id="Path" fill="#3498DB" mask="url(#mask-3)"></path>
+        </g>
+    </g>
+</svg>

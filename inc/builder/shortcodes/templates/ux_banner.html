@@ -1,0 +1,45 @@
+<div role="banner" class="banner has-hover bg-{{ shortcode.options.hover }} bg-{{ shortcode.options.hoverAlt }} slide-{{ shortcode.options.slideEffect }} {{ shortcode.options.class }} {{ shortcode.options.visibility }}"
+  ng-class="{'has-slide-effect' : shortcode.options.slideEffect,
+             'has-parallax' :  shortcode.options.parallax, 'sticky-section' : shortcode.options.sticky}"
+  ng-style="{'padding-top' : (shortcode.options.height | heightCheck), 'background-color' : shortcode.options.bgColor}">
+  <div class="banner-inner fill">
+    <div class="banner-bg fill"  data-parallax-container=".banner" data-parallax-background
+        ng-attr-data-parallax="-{{ shortcode.options.parallax }}" >
+      <div class="bg fill bg-fill" ng-style="{ 'backgroundPosition': shortcode.options.bgPos }" wp-attachment="shortcode.options.bg" wp-attachment-size="shortcode.options.bgSize"></div>
+      <video ng-if="shortcode.options.videoMp4"
+      class="video-bg no-click hide-for-small"
+      preload="auto" autoplay="true" ng-attr-loop="{{shortcode.options.videoLoop !== 'false'}}" muted="muted">
+        <source ng-if="shortcode.options.videoMp4" ng-src="{{ shortcode.options.videoMp4 | trusted: 'resourceUrl' }}" type="video/mp4">
+        <source ng-if="shortcode.options.videoOgg" ng-src="{{ shortcode.options.videoOgg | trusted: 'resourceUrl' }}" type="video/ogg">
+        <source ng-if="shortcode.options.videoWebm" ng-src="{{ shortcode.options.videoWebm | trusted: 'resourceUrl' }}" type="video/webm">
+      </video>
+
+      <div ng-if="shortcode.options.bgOverlay" class="overlay" style="background-color: {{ shortcode.options.bgOverlay }}"></div>
+      <div ng-if="shortcode.options.effect" class="effect-{{ shortcode.options.effect }} bg-effect fill"></div>
+      <div ng-if="shortcode.options.youtube" class="uxb-youtube-overlay absolute fill" style="background-color: rgba(0, 86, 130, .8); padding:30%;"><span style="color:#FFF">YouTube video only loads on Front-end. Save and visit page to preview.</span></div>
+      <div ng-if="shortcode.options.videoMp4" class="video-overlay absolute fill"></div>
+      <div ng-if="shortcode.options.shade" class="shade"></div>
+      <div ng-if="shortcode.options.videoMp4" class="video-overlay absolute fill"></div>
+      <div ng-if="shortcode.options.border"
+      ng-class="{['hover-'+shortcode.options.borderHover ] : shortcode.options.borderHover}"
+      class="is-border is-{{shortcode.options.borderStyle}}"
+      ng-style="{
+        'borderRadius': shortcode.options.borderRadius+'px',
+        'borderWidth': shortcode.options.border,
+        'margin': shortcode.options.borderMargin,
+        'borderColor': shortcode.options.borderColor,
+        }"
+      ></div>
+    </div><!-- .banner-bg -->
+
+    <div class="banner-layers container">
+      <content />
+    </div><!-- .banner-layers -->
+  </div><!-- .banner-inner -->
+
+  <div ng-if="!shortcode.options.height" class="height-fix is-invisible">
+    <img wp-attachment="shortcode.options.bg" />
+    <div ng-if="!shortcode.options.bg" class="uxb-no-content uxb-image"></div>
+  </div>
+
+</div><!-- .banner -->

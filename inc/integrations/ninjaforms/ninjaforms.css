@@ -1,0 +1,16 @@
+/* Ninja Forms styling */
+.ninja-forms-required-items, 
+.hp-wrap, 
+.honeypot-wrap{
+  display: none;
+}
+
+.nf-form-layout .nf-field-element select,
+.nf-form-layout .nf-field-element input{
+	height: 2.7em;
+}
+
+.ninja-forms-response-msg .ninja-forms-error-msg,
+.ninja-forms-field-error{
+	color:red;
+}

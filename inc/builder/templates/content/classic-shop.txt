@@ -1,0 +1,198 @@
+[ux_slider]
+
+[ux_banner height="600px" bg="3861" bg_overlay="rgba(0, 0, 0, 0.02)" bg_pos="58% 63%"]
+
+[text_box width="70" width__sm="100" animate="flipInY"]
+<h3 class="alt-font">It has Finally started...</h3>
+[divider margin="3px"]
+<h1 class="h-large uppercase"><span style="font-size: 160%;"><strong>HUGE SALE</strong></span></h1>
+<h1 class="uppercase"><span style="font-size: 100%;">UP TO <strong>70% OFF</strong></span></h1>
+[divider]
+
+[button text="Shop men" color="white" style="outline" link="#"]
+
+[button text="Shop women" color="white" style="outline" link="#"]
+
+[button text="Shop all" color="white" style="outline" link="#"]
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="600px" bg="8102" bg_overlay="rgba(0, 0, 0, 0.03)"  bg_pos="72% 6%"]
+
+[text_box width="40" width__sm="85" animate="fadeInLeft" position_x="10" position_x__sm="50" text_color="dark"]
+<h3 class="alt-font">Mens Clothing</h3>
+<h2 class="uppercase" data-animate="fadeInLeft" data-animated="true"><strong>Hot Summer Fashion</strong></h2>
+<h3><strong>From 19$</strong></h3>
+[divider]
+
+[button text="Shop now" style="outline"]
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="600px" bg="8654" bg_overlay="rgba(0, 0, 0, 0.03)" bg_pos="57% 49%" video_mp4="http://41hmj38vkl98fqzebjp1112g.wpengine.netdna-cdn.com/wp-content/uploads/sites/2/2013/12/7202.mp4"]
+
+[text_box width="40" width__sm="84" animate="fadeInLeft" position_x="10" text_align="left" text_color="dark"]
+<h3 class="alt-font">Shop Now</h3>
+<h2 class="uppercase" data-animate="fadeInLeft" data-animated="true"><strong>This is an awesome video banner</strong></h2>
+[divider align="left"]
+
+[button text="Shop Men" style="outline"]
+
+[button text="Shop Women" style="outline"]
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="600px" bg="8651" bg_overlay="rgba(0, 0, 0, 0.05)" bg_pos="67% 70%"]
+
+[text_box width="40" width__sm="100" animate="fadeInLeft" position_x="90" position_x__sm="50" position_y__sm="50"]
+<h3 class="alt-font">A Nice top title</h3>
+<h2 class="uppercase" data-animate="fadeInLeft" data-animated="true"><strong>Change this</strong></h2>
+<h2 class="uppercase"><strong>to Anything</strong></h2>
+<p class="lead">This can easely be edited in the page builder.</p>
+[button text="Browse PRoducts"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
+[row]
+
+[col span="4" span__sm="12"]
+
+[ux_banner height="160px" bg="3834" bg_pos="55% 11%" hover="zoom-fade" link="blog"]
+
+[text_box]
+<h2><strong><span class="uppercase">Our Blog</span></strong></h2>
+[divider]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="160px" bg="3862" hover="zoom-fade" link="http://localhost:8888/test/blog/"]
+
+[text_box]
+<h2><strong><span class="uppercase">Join our
+<span style="font-size: 85%;">competition</span></span></strong></h2>
+[divider]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="160px" bg="3833" bg_pos="71% 0%" hover="zoom-fade" link="about-us"]
+
+[text_box]
+<h2><strong><span class="uppercase">ABOUT US</span></strong></h2>
+[divider]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+[title style="center" text="weekly featured products"]
+
+[ux_products products="14" show="featured"]
+
+[title style="center" text="Best Selling Products" size="undefined"]
+
+[ux_products products="8" orderby="sales"]
+
+[title style="center" text="Browse our categories"]
+
+[ux_product_categories number="20"]
+
+[gap height="40px"]
+
+[row col_style="divided"]
+
+[col span="4"]
+
+[featured_box img="8685" img_width="46" pos="center" title="Free Shipping on all ordres" icon_border="2" icon_color="rgb(182, 182, 182)" margin="0px 0px 0px 0px"]
+
+Get Free Shipping on all orders over $75 and free returns to our UK returns centre! Items are dispatched from the US and will arrive in 5-8 days.
+
+[/featured_box]
+
+[/col]
+[col span="4"]
+
+[featured_box img="8686" img_width="46" pos="center" title="Amazing customer service" icon_border="2" icon_color="rgb(182, 182, 182)" margin="0px 0px 0px 0px"]
+
+Get Free Shipping on all orders over $75 and free returns to our UK returns centre! Items are dispatched from the US and will arrive in 5-8 days.
+
+[/featured_box]
+
+[/col]
+[col span="4"]
+
+[featured_box img="8687" img_width="46" pos="center" title="No Customs or Duty Fees!" icon_border="2" icon_color="rgb(182, 182, 182)" margin="0px 0px 0px 0px"]
+
+We pay these fees so you don’t have to! The total billed at checkout is the final amount you pay, inclusive of VAT, with no additional charges at the time of delivery!
+
+[/featured_box]
+
+[/col]
+
+[/row]
+[gap height="40px"]
+
+[ux_slider timer="2000"]
+
+[ux_banner height="300px" bg="8011" parallax="1"]
+
+[text_box width="78"]
+
+[testimonial image_width="128" name="Lucy Anderson" company="Facebook" stars="3"]
+
+PBR kogi VHS commodo, single-origin coffee selvage kale chips. Fugiat try-hard ad aesthetic, tofu master cleanse typewriter tote bag accusamus sustainable ennui hella small batch cliche.
+
+[/testimonial]
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="300px" bg="8011" parallax="1"]
+
+[text_box width="80"]
+
+[testimonial image_width="117" name="Rebecca Smith" company="Twitter" stars="3"]
+
+PBR kogi VHS commodo, single-origin coffee selvage kale chips. Fugiat try-hard ad aesthetic, tofu master cleanse typewriter tote bag accusamus sustainable ennui hella small batch cliche.
+
+[/testimonial]
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="300px" bg="8011" parallax="1"]
+
+[text_box width="80"]
+
+[testimonial image_width="131" name="Jenny Brooks" company="LinkedIn"]
+
+PBR kogi VHS commodo, single-origin coffee selvage kale chips. Fugiat try-hard ad aesthetic, tofu master cleanse typewriter tote bag accusamus sustainable ennui hella small batch cliche.
+
+[/testimonial]
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
+[title style="center" text="Latest News" size="undefined"]
+
+[blog_posts columns__sm="1" animate="fadeInLeft" posts="4" image_height="70%"]

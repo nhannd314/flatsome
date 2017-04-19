@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>pages</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="32" height="34"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="34" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="34" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <rect id="path-8" x="0" y="0" width="32" height="34"></rect>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="34" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="34" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <rect id="path-12" x="0" y="0" width="32" height="34"></rect>
+        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="34" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="34" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pages">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="page" mask="url(#mask-2)">
+                <g transform="translate(11.000000, 11.000000)">
+                    <g id="image" transform="translate(1.000000, 0.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Mask" stroke="#00A0D2" mask="url(#mask-5)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)">
+                            <use mask="url(#mask-7)" xlink:href="#path-4"></use>
+                        </g>
+                        <path d="M18.6065714,22.3571765 C18.6065714,22.3571765 20.9265714,19.8262547 21.4319047,16.4225502 C22.7919047,16.4225502 23.6319047,12.8039841 22.2719047,11.5311142 C22.329238,10.1915631 24.0199047,1.01178536 15.4559047,1.01178536 C6.89190469,1.01178536 8.58257135,10.1915631 8.63990469,11.5311142 C7.27990469,12.8039841 8.11990469,16.4225502 9.47990469,16.4225502 C9.98523802,19.8262547 12.3065714,22.3571765 12.3065714,22.3571765 C12.3065714,22.3571765 12.2879047,24.7502905 11.4985714,24.8880983 C8.95457135,25.3341214 -0.544095312,29.9499418 -0.544095312,35.0117854 L31.4559047,35.0117854 C31.4559047,29.9499418 21.957238,25.3341214 19.4145714,24.8880983 C18.625238,24.7502905 18.6065714,22.3571765 18.6065714,22.3571765 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-6)"></path>
+                    </g>
+                    <g id="headline" opacity="0.6" transform="translate(0.000000, 37.000000)">
+                        <rect id="Rectangle-167-Copy-16" fill="#00A0D2" x="1.20833333" y="0" width="27.7916667" height="2.45454545"></rect>
+                        <rect id="Rectangle-167-Copy-8" fill-opacity="0.532382246" fill="#00A0D2" opacity="0.333430504" x="0.965060165" y="5.45586942" width="16.8567448" height="2.29406259"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="page" mask="url(#mask-2)">
+                <g transform="translate(49.000000, 11.000000)">
+                    <g id="image" transform="translate(1.000000, 0.000000)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-8"></use>
+                        </mask>
+                        <g id="Mask" stroke="#00A0D2" mask="url(#mask-9)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)">
+                            <use mask="url(#mask-11)" xlink:href="#path-8"></use>
+                        </g>
+                        <path d="M18.6065714,22.3571765 C18.6065714,22.3571765 20.9265714,19.8262547 21.4319047,16.4225502 C22.7919047,16.4225502 23.6319047,12.8039841 22.2719047,11.5311142 C22.329238,10.1915631 24.0199047,1.01178536 15.4559047,1.01178536 C6.89190469,1.01178536 8.58257135,10.1915631 8.63990469,11.5311142 C7.27990469,12.8039841 8.11990469,16.4225502 9.47990469,16.4225502 C9.98523802,19.8262547 12.3065714,22.3571765 12.3065714,22.3571765 C12.3065714,22.3571765 12.2879047,24.7502905 11.4985714,24.8880983 C8.95457135,25.3341214 -0.544095312,29.9499418 -0.544095312,35.0117854 L31.4559047,35.0117854 C31.4559047,29.9499418 21.957238,25.3341214 19.4145714,24.8880983 C18.625238,24.7502905 18.6065714,22.3571765 18.6065714,22.3571765 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-10)"></path>
+                    </g>
+                    <g id="headline" opacity="0.6" transform="translate(0.000000, 37.000000)">
+                        <rect id="Rectangle-167-Copy-16" fill="#00A0D2" x="1.20833333" y="0" width="27.7916667" height="2.45454545"></rect>
+                        <rect id="Rectangle-167-Copy-8" fill-opacity="0.532382246" fill="#00A0D2" opacity="0.333430504" x="0.965060165" y="5.45586942" width="16.8567448" height="2.29406259"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="page" mask="url(#mask-2)">
+                <g transform="translate(87.000000, 11.000000)">
+                    <g id="image" transform="translate(1.000000, 0.000000)">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-12"></use>
+                        </mask>
+                        <g id="Mask" stroke="#00A0D2" mask="url(#mask-13)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)">
+                            <use mask="url(#mask-15)" xlink:href="#path-12"></use>
+                        </g>
+                        <path d="M18.6065714,22.3571765 C18.6065714,22.3571765 20.9265714,19.8262547 21.4319047,16.4225502 C22.7919047,16.4225502 23.6319047,12.8039841 22.2719047,11.5311142 C22.329238,10.1915631 24.0199047,1.01178536 15.4559047,1.01178536 C6.89190469,1.01178536 8.58257135,10.1915631 8.63990469,11.5311142 C7.27990469,12.8039841 8.11990469,16.4225502 9.47990469,16.4225502 C9.98523802,19.8262547 12.3065714,22.3571765 12.3065714,22.3571765 C12.3065714,22.3571765 12.2879047,24.7502905 11.4985714,24.8880983 C8.95457135,25.3341214 -0.544095312,29.9499418 -0.544095312,35.0117854 L31.4559047,35.0117854 C31.4559047,29.9499418 21.957238,25.3341214 19.4145714,24.8880983 C18.625238,24.7502905 18.6065714,22.3571765 18.6065714,22.3571765 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-14)"></path>
+                    </g>
+                    <g id="headline" opacity="0.6" transform="translate(0.000000, 37.000000)">
+                        <rect id="Rectangle-167-Copy-16" fill="#00A0D2" x="1.20833333" y="0" width="27.7916667" height="2.45454545"></rect>
+                        <rect id="Rectangle-167-Copy-8" fill-opacity="0.532382246" fill="#00A0D2" opacity="0.333430504" x="0.965060165" y="5.45586942" width="16.8567448" height="2.29406259"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

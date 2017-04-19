@@ -1,0 +1,106 @@
+[ux_slider bg_color="rgb(0, 0, 0)"]
+
+[ux_banner height="100%" slide_effect="zoom-in" bg="8271" bg_size="orginal" bg_color="rgb(35, 35, 35)" bg_overlay="rgba(0, 0, 0, 0.17)" bg_pos="44% 34%"]
+
+[text_box width="58" width__sm="100" animate="fadeInUp" parallax="2"]
+
+<h2 class="uppercase"><span style="font-size: 160%;">Nothing is Impossible</span></h2>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod</p>
+[button text="Shop Men" color="white" style="outline"]
+
+[button text="Shop Women" color="white" style="outline"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="100%" slide_effect="zoom-in" bg="8243" bg_size="orginal" bg_color="rgb(35, 35, 35)" bg_overlay="rgba(0, 0, 0, 0.17)" bg_pos="44% 34%"]
+
+[text_box width="58" width__sm="100" animate="fadeInLeft" parallax="2" position_x="0" text_align="left"]
+
+<h2 class="uppercase"><span style="font-size: 160%;">CHANGE THIS TO ANYTHING</span></h2>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod</p>
+[button text="Shop Men" color="white" style="outline"]
+
+[button text="Shop Women" color="white" style="outline"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="100%" slide_effect="zoom-in" bg="8273" bg_size="orginal" bg_color="rgb(35, 35, 35)" bg_overlay="rgba(0, 0, 0, 0.17)" bg_pos="44% 34%"]
+
+[text_box width="58" width__sm="100" animate="fadeInLeft" parallax="3" position_x="0" text_align="left"]
+
+<h2 class="uppercase"><span style="font-size: 160%;">CHANGE THIS TO ANYTHING</span></h2>
+<p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod</p>
+[button text="Shop Men" color="white" style="outline"]
+
+[button text="Shop Women" color="white" style="outline"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
+[section bg_color="rgb(27, 27, 27)" dark="true" padding="60px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[featured_box img="8687" img_width="42" pos="left" icon_border="2" icon_color="rgb(143, 143, 143)" margin="px px px px"]
+
+<h4>Free Shipping all products above 99$</h4>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[featured_box img="8686" img_width="42" pos="left" icon_border="2" icon_color="rgb(143, 143, 143)" margin="px px px px"]
+
+<h4>New products added everyday</h4>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[featured_box img="8685" img_width="42" pos="left" icon_border="2" icon_color="rgb(143, 143, 143)" margin="px px px px"]
+
+<h4>Free Shipping all products above 99$</h4>
+
+[/featured_box]
+
+[/col]
+
+[/row]
+[title style="center" text="Featured Products" size="undefined"]
+
+[ux_products slider_nav_style="circle"]
+
+[title style="center" text="Browse" size="undefined"]
+
+[ux_product_categories style="overlay" columns="5" image_height="113%" image_overlay="rgba(0, 0, 0, 0.16)" text_pos="middle"]
+
+[title style="center" text="Latest News" size="undefined"]
+
+[blog_posts style="overlay" depth="1" title_style="uppercase" badge_style="square" image_height="300px"]
+
+
+[/section]
+[ux_banner height="420px" bg="8273" bg_overlay="rgba(0, 0, 0, 0.68)" parallax="3"]
+
+[text_box]
+
+<h3 class="uppercase"><strong>Signup for newsletter</strong></h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[contact-form-7 id="7042"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_instagram_feed username="surfer_magazine" type="slider" width="full-width" columns="8"]

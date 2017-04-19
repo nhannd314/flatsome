@@ -1,0 +1,21 @@
+<div
+	id="{{:: shortcode.$id }}"
+	class="row
+	row-{{ shortcode.options.style }}
+	row-{{ shortcode.options.width }}
+	row-{{ shortcode.options.colStyle }}
+	row-box-shadow-{{ shortcode.options.depth }}
+	row-box-shadow-{{ shortcode.options.depthHover }}-hover
+	{{ shortcode.options.class }}
+	align-{{ shortcode.options.vAlign }}
+	align-{{ shortcode.options.hAlign }}"
+	ng-class="{'has-shadow' : shortcode.options.depth, 'has-shadow' : shortcode.options.depthHover }"
+	ng-style="{'max-width' : (shortcode.options.width == 'custom') ? shortcode.options.customWidth : ''}">
+
+    <content/>
+
+    <style scope="scope">
+		  #{{:: shortcode.$id }} > .col > .col-inner{padding: {{ shortcode.options.padding }} }
+		  #{{:: shortcode.$id }} > .col > .col-inner{background-color: {{ shortcode.options.colBg }} }
+    </style>
+</div>

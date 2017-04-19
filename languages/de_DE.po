@@ -1,0 +1,581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-01 11:20+0000\n"
+"PO-Revision-Date: 2016-09-01 11:22+0000\n"
+"Last-Translator: alyaeda <admin@chuwal.com>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: de_DE"
+
+# @ flatsome
+#: image.php:25
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return "
+"to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow on Facebook"
+msgstr "Folge uns Facebook"
+
+#: inc/shortcodes/share_follow.php:103
+msgid "Follow on YouTube"
+msgstr "Folge uns Youtube"
+
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow on Twitter"
+msgstr "Folge uns Twitter"
+
+#: inc/shortcodes/share_follow.php:79
+msgid "Follow on SnapChat"
+msgstr "Folge uns Snapchat"
+
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow on Pinterest"
+msgstr "Folge uns Pinterest"
+
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow on Google+"
+msgstr "Folge uns Google+"
+
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow on Instagram"
+msgstr "Folge uns Instagram"
+
+# @ flatsome
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Uups! Diese Seite wurde nicht gefunden."
+
+# @ flatsome
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"In dieser Location wurde nichts gefunden. Versuchen Sie eine der unten "
+"aufgeführten Links oder benutzen sie unseren Suchfeld."
+
+# @ flatsome
+#: archive.php:40
+msgid "Category Archives: %s"
+msgstr "Kategorie Archiv: %s"
+
+# @ flatsome
+#: archive.php:43
+msgid "Tag Archives: %s"
+msgstr "Täglicher Archiv: %s"
+
+# @ flatsome
+#: archive.php:50
+msgid "Author Archives: %s"
+msgstr "Author Archiv: %s"
+
+# @ flatsome
+#: archive.php:58
+msgid "Daily Archives: %s"
+msgstr "Täglicher Archiv: %s"
+
+# @ flatsome
+#: archive.php:61
+msgid "Monthly Archives: %s"
+msgstr "Monatlicher Archiv: %s"
+
+# @ flatsome
+#: archive.php:64
+msgid "Yearly Archives: %s"
+msgstr "Jährlicher Archiv: %s"
+
+# @ flatsome
+#: archive.php:67
+msgid "Asides"
+msgstr "Nebenbemerkungen"
+
+# @ flatsome
+#: archive.php:70
+msgid "Images"
+msgstr "Fotos"
+
+# @ flatsome
+#: archive.php:73
+msgid "Videos"
+msgstr "Videos"
+
+# @ flatsome
+#: archive.php:76
+msgid "Quotes"
+msgstr "Zitate"
+
+# @ flatsome
+#: archive.php:79
+msgid "Links"
+msgstr "Links"
+
+# @ flatsome
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Eine Idee zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Idee über &ldquo;%2$s&rdquo;"
+
+# @ flatsome
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+# @ flatsome
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Neueste Kommentare &rarr;"
+
+# @ flatsome
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "Kommentare navigieren"
+
+# @ flatsome
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+# @ flatsome
+#: content-page.php:17 content-single.php:33 content.php:47 image.php:92 
+#: page-left-sidebar-notitle.php:22 page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr "Seiten:"
+
+# @ flatsome
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:51 content-single.php:54 content.php:58 content.php:66 
+#: content.php:109 content.php:117 content.php:167 content.php:187
+msgid ", "
+msgstr ", "
+
+# @ flatsome
+#: content-single.php:59
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "Dieser Eintrag wurde veröffentlicht am %1$s und getaggt %2$s."
+
+# @ flatsome
+#: content-single.php:61
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Dieser Eintrag wurde veröffentlicht am %1$s. Setzte ein Lesezeichen <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+# @ flatsome
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: content.php:61
+msgid "Posted in %1$s"
+msgstr "Veröffentlicht am %1$s"
+
+# @ flatsome
+#: content.php:71 content.php:122 content.php:192
+msgid "Tagged %1$s"
+msgstr "Markiert %1$s"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181 
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "Hinterlasse ein kommentar"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181 
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> Kommentar"
+
+# @ flatsome
+#: content.php:77 content.php:133 content.php:181 
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%</strong> Kommentare"
+
+# @ flatsome
+#: content.php:112 content.php:170
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ flatsome
+#: functions.php:213
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+# @ flatsome
+#: functions.php:214
+msgid "Footer Menu"
+msgstr "Fußzeilen Menü"
+
+# @ flatsome
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr "Obere Leiste Menü"
+
+# @ flatsome
+#: functions.php:216
+msgid "My Account Menu"
+msgstr "Mein Konto"
+
+# @ flatsome
+#: functions.php:231
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+# @ flatsome
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr "Shop Seitenleiste"
+
+# @ flatsome
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr "Produkt Seitenleiste"
+
+# @ flatsome
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr "Fusszeile 1 (4 Zeilen)"
+
+# @ flatsome
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr "Fusszeile 2 (4 Zeilen)"
+
+# @ default
+#: functions.php:349
+msgid "Flatsome Theme Options"
+msgstr "Flatsome Theme Options"
+
+# @ flatsome
+#: image.php:36 image.php:109 inc/template-tags.php:77 
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# @ flatsome
+#: image.php:101
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Poste ein Kommentar\">"
+"Poste ein Kommentar</a> oder hinterlasse ein Trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL für ihr Post\" rel=\"trackback\">"
+"Trackback URL</a>."
+
+# @ flatsome
+#: image.php:103
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">"
+"Trackback URL</a>."
+msgstr ""
+"Kommentare sind geschlossen, sie können aber gerne einen trackback "
+"hinterlassen: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL "
+"für ihr Post\" rel=\"trackback\">Trackback URL</a>."
+
+# @ flatsome
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Trackbacks sind geschlossen, aber sie können gerne <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Poste ein kommentar\">poste ein kommentar</a>."
+
+# @ flatsome
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Kommentare und Trackbacks sind derzeit geschlossen."
+
+# @ flatsome
+#: image.php:114 woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> vorherige Seite"
+
+# @ flatsome
+#: image.php:115 woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nächste <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: inc/custom-css.php:176
+msgid "New"
+msgstr "Neu"
+
+# @ flatsome
+#: inc/woocommerce/tempalte-tags-global:36
+msgid "Home"
+msgstr "Home"
+
+# @ flatsome
+#: inc/custom-css.php:177
+msgid "Hot"
+msgstr "Hot"
+
+# @ flatsome
+#: inc/custom-css.php:178
+msgid "Sale"
+msgstr "Ausverkauf"
+
+# @ flatsome
+#: inc/custom-css.php:179
+msgid "Popular"
+msgstr "Beliebt"
+
+# @ flatsome
+#: inc/extras.php:101
+msgid "Page %s"
+msgstr "Seite %s"
+
+# @ pippin
+#: inc/extras.php:120
+msgid "Top Content"
+msgstr "Top Inhalte"
+
+# @ pippin
+#: inc/extras.php:126
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+"Geben Sie einen Wert für dieses Feld ein. Kurzcodes sind erlaubt. Dies wird "
+"am oberen Rand der Kategorie angezeigt werden."
+
+# @ default
+#: inc/post-types/blocks.php:30 
+#: inc/widgets/woocommerce-subcategories-widget.php:108
+msgid "Title"
+msgstr "Titel"
+
+# @ default
+#: inc/post-types/blocks.php:33
+msgid "Shortcode"
+msgstr "Kurzzeichen"
+
+# @ default
+#: inc/post-types/blocks.php:35
+msgid "Date"
+msgstr "Datum"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr "Auf Facebook teilen"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr "Auf Twitter teilen"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr "Sende eine Email an einen Freund"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr "Pinterest pin erstellen"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr "auf Google+ teilen"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Tumblr"
+msgstr "auf Tumblr teilen"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr "Sende uns eine email"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr "Abonniere RSS"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr "YouTube"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ flatsome
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> Älterer Post"
+
+# @ flatsome
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "Neuester Post <span class=\"icon-angle-right\"></span>"
+
+# @ flatsome
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ flatsome
+#: inc/template-tags.php:93
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">sagt:</span>"
+
+# @ flatsome
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wird geprüft."
+
+# @ flatsome
+#: inc/template-tags.php:104
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+# @ flatsome
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Veröffentlicht am %s"
+
+# @ flatsome
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr "von %s"
+
+# @ flatsome
+#: inc/template-tags.php:147
+msgid "View all posts by %s"
+msgstr "Alle Posts von %s"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr "Vorheriger Post"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr "Nächster Post"
+
+# @ flatsome
+#: search.php:35
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr "Kürzlich angesehene Posts"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr "Anzahl anzuzeigender Posts:"
+
+# @ text_domain
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr "Ergänze Upsell Produkte zur Produkt Seite"
+
+# @ text_domain
+# @ flatsome
+#: inc/widgets/upsell-widget.php:105 woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr "verfollständige den Look"
+
+# @ flatsome
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+# @ flatsome
+#: no-results.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bist du bereit deinen ersten Post zu veröffentlichen? <a href=\"%1$s\">"
+"Starte hier</a>."
+
+# @ flatsome
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Ups! Es tut uns leid aber nichts entspricht Ihren Suchbegriffen. Bitte "
+"versuchen Sie es mit anderen Schlüsselwörtern ."
+
+# @ flatsome
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es sieht so aus das wir das wonach sie schauen nicht finden können. "
+"Vielleicht kann ihnen eine Suche weiter helfen."
+
+# @ flatsome
+#: page-checkout.php:17 page-checkout.php:28
+msgid "Shopping Cart"
+msgstr "Warenkorb"
+
+# @ flatsome
+#: page-checkout.php:19 page-checkout.php:30
+msgid "Checkout details"
+msgstr "Bestellübersicht"
+
+# @ flatsome
+#: page-checkout.php:21 page-checkout.php:32
+msgid "Order Complete"
+msgstr "Bestellung ausgeführt"
+
+# @ flatsome
+#: page-my-account.php:30 woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "Anmeldung / Registrieren mit <strong>Facebook</strong>"
+
+# @ flatsome
+#: content-product.php:61 woocommerce/content-product.php:61
+msgid "Quick View"
+msgstr "Schnellansicht"

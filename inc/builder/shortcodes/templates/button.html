@@ -1,0 +1,11 @@
+<a href="javascript:void();"
+    class="button is-{{ shortcode.options.style }} {{ shortcode.options.color }} is-{{ shortcode.options.size }} box-shadow-{{ shortcode.options.depth }} box-shadow-{{ shortcode.options.depthHover }}-hover {{shortcode.options.letterCase}}"
+    ng-class="{'reveal-icon' : shortcode.options.iconReveal && shortcode.options.icon, 'expand' :  shortcode.options.expand}"
+    ng-style="{'padding' : shortcode.options.padding, 'border-radius' : shortcode.options.radius+'px'}">
+
+    <i ng-if="shortcode.options.icon && shortcode.options.iconPos == 'left'" class="{{ shortcode.options.icon }}"></i>
+
+    <span>{{ shortcode.options.text }}</span>
+
+    <i ng-if="shortcode.options.icon && shortcode.options.iconPos !== 'left'" class="{{ shortcode.options.icon }}"></i>
+</a>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>share</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-4" cx="18" cy="18" r="18"></circle>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <circle id="path-8" cx="18" cy="18" r="18"></circle>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <circle id="path-12" cx="18" cy="18" r="18"></circle>
+        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="share">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="bg" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="icon" mask="url(#mask-2)">
+                <g transform="translate(12.000000, 15.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Oval-7" stroke="#00A0D2" mask="url(#mask-5)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)" fill-rule="evenodd">
+                        <use mask="url(#mask-7)" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+            <g id="icon" mask="url(#mask-2)">
+                <g transform="translate(52.000000, 15.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-8"></use>
+                    </mask>
+                    <g id="Oval-7" stroke="#00A0D2" mask="url(#mask-9)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)" fill-rule="evenodd">
+                        <use mask="url(#mask-11)" xlink:href="#path-8"></use>
+                    </g>
+                </g>
+            </g>
+            <g id="icon" mask="url(#mask-2)">
+                <g transform="translate(92.000000, 15.000000)">
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-12"></use>
+                    </mask>
+                    <g id="Oval-7" stroke="#00A0D2" mask="url(#mask-13)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)" fill-rule="evenodd">
+                        <use mask="url(#mask-15)" xlink:href="#path-12"></use>
+                    </g>
+                </g>
+            </g>
+            <path d="M31.6840522,43.3975259 L27.6746907,43.3975259 L27.6746907,32.698763 L25,32.698763 L25,29.0117018 L27.6746907,29.0103644 L27.67001,26.8385155 C27.67001,23.8308258 28.4857907,22 32.0290873,22 L34.9792711,22 L34.9792711,25.6877299 L33.1357406,25.6877299 C31.7556001,25.6877299 31.6894015,26.2032765 31.6894015,27.1648278 L31.6840522,29.0103644 L35,29.0103644 L34.6094952,32.6974256 L31.6873955,32.698763 L31.6847208,43.3975259 L31.6840522,43.3975259 Z" id="Shape" fill="#00A0D2" mask="url(#mask-2)"></path>
+            <path d="M76.8455048,23 L64.1544952,23 C62.4196119,23 61,24.4196119 61,26.1544952 L61,38.8455048 C61,40.5803881 62.4196119,42 64.1544952,42 L76.8455048,42 C78.5803881,42 80,40.5803881 80,38.8455048 L80,26.1544952 C80,24.4196119 78.5803881,23 76.8455048,23 L76.8455048,23 Z M67.0821849,31.3122402 L73.9172213,31.3122402 C74.0466548,31.6845099 74.1173088,32.0840911 74.1173088,32.4997031 C74.1173088,34.4946408 72.4940471,36.1179026 70.4991094,36.1179026 C68.5041717,36.1179026 66.88091,34.4946408 66.88091,32.4997031 C66.88091,32.0840911 66.951564,31.6845099 67.0815912,31.3122402 L67.0821849,31.3122402 Z M77.6244805,31.3134277 L77.6244805,38.4370176 C77.6244805,39.0901222 77.0901222,39.6244805 76.4370176,39.6244805 L64.5623887,39.6244805 C63.9092841,39.6244805 63.3749258,39.0901222 63.3749258,38.4370176 L63.3749258,31.3122402 L65.2321177,31.3122402 C65.1460267,31.6946033 65.1003094,32.0918096 65.1003094,32.4997031 C65.1003094,35.4766726 67.5221399,37.8990969 70.4997031,37.8990969 C73.4772663,37.8990969 75.8990969,35.4772663 75.8990969,32.4997031 C75.8990969,32.0918096 75.8533796,31.6946033 75.7672885,31.3122402 L77.6244805,31.3134277 L77.6244805,31.3134277 Z M77.6244805,27.1561201 C77.6244805,27.4826724 77.3573013,27.7498516 77.030749,27.7498516 L75.8432861,27.7498516 C75.5167339,27.7498516 75.2495547,27.4826724 75.2495547,27.1561201 L75.2495547,25.9686572 C75.2495547,25.6421049 75.5167339,25.3749258 75.8432861,25.3749258 L77.030749,25.3749258 C77.3573013,25.3749258 77.6244805,25.6421049 77.6244805,25.9686572 L77.6244805,27.1561201 L77.6244805,27.1561201 Z" id="Shape" fill="#00A0D2" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

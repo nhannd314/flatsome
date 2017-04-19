@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>ux_gallery</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="19" y="10" width="72" height="44"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="44" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <path d="M20,13 L16,13 L16,57 L88,57 L88,53 L20,53 L20,13 Z" id="path-6"></path>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="44" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <path d="M17,16 L13,16 L13,60 L85,60 L85,56 L17,56 L17,16 Z" id="path-8"></path>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="44" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ux_gallery">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Rectangle-486-Copy" mask="url(#mask-2)" stroke="#00A0D2" stroke-width="2" fill="url(#linearGradient-3)" fill-opacity="0.15">
+                <use mask="url(#mask-5)" xlink:href="#path-4"></use>
+            </g>
+            <g id="Combined-Shape" mask="url(#mask-2)" stroke="#00A0D2" stroke-width="2" fill="url(#linearGradient-3)" fill-opacity="0.15">
+                <use mask="url(#mask-7)" xlink:href="#path-6"></use>
+            </g>
+            <g id="Combined-Shape" mask="url(#mask-2)" stroke="#00A0D2" stroke-width="2" fill="url(#linearGradient-3)" fill-opacity="0.15">
+                <use mask="url(#mask-9)" xlink:href="#path-8"></use>
+            </g>
+            <path d="M59.1818164,37.0739005 C59.1818164,37.0739005 62.5048066,33.8328878 63.2286074,29.4742191 C65.1765672,29.4742191 66.3797188,24.8404059 64.431759,23.2104119 C64.5138789,21.4950281 66.9354603,9.73971575 54.6690429,9.73971575 C42.4026255,9.73971575 44.8242069,21.4950281 44.9063268,23.2104119 C42.958367,24.8404059 44.1615186,29.4742191 46.1094784,29.4742191 C46.8332792,33.8328878 50.1581792,37.0739005 50.1581792,37.0739005 C50.1581792,37.0739005 50.1314425,40.1384411 49.0008619,40.3149131 C45.3570312,40.8860752 31.7518689,46.7969385 31.7518689,53.2789638 L77.5862169,53.2789638 C77.5862169,46.7969385 63.9810546,40.8860752 60.3391337,40.3149131 C59.2085531,40.1384411 59.1818164,37.0739005 59.1818164,37.0739005 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

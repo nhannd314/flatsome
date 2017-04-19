@@ -1,0 +1,29 @@
+<div class="col
+  	small-{{ shortcode.options.span }}
+  	col-hover-{{ shortcode.options.hover }}
+    {{ shortcode.options.visibility }}
+    {{ shortcode.options.class }}
+    {{ shortcode.options.forceFirst }}-col-first
+  "
+  data-fade="true"
+ 	ng-class="{dark: shortcode.options.color == 'light', 'col-divided': shortcode.options.divider}"
+  ng-attr-data-parallax="{{ shortcode.options.parallax }}"
+	ng-style="{
+		'min-height' : shortcode.options.height,
+	}">
+
+	<div class="col-inner
+    text-{{ shortcode.options.align }}
+  	box-shadow-{{ shortcode.options.depth }}
+  	box-shadow-{{ shortcode.options.depthHover }}-hover
+  	text-shadow-{{ shortcode.options.textDepth }}"
+  	ng-attr-data-animate="{{ shortcode.options.animate }}"
+		ng-style="{
+      'max-width' : shortcode.options.maxWidth,
+			'padding' : (shortcode.options.padding | noDefault: shortcode.data.options.get('padding')),
+      'margin' : (shortcode.options.margin | noDefault: shortcode.data.options.get('padding')),
+			'background-color' :shortcode.options.bgColor,
+		}">
+   	  <content/>
+   	</div>
+</div>

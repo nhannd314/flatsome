@@ -1,0 +1,142 @@
+[ux_banner height="100%" bg="8264" bg_color="#FFF"]
+
+[text_box text_color="dark" width="61" width__sm="85" animate="fadeInUp"]
+
+<h2><span style="font-size: 170%;"><strong>Go Explore</strong></span></h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[divider]
+
+[search]
+
+
+[/text_box]
+
+[/ux_banner]
+[section label="Simple Light" bg_color="rgb(245, 245, 245)" padding="27px" border="1px 0px 0px 0px" border_color="rgb(235, 235, 235)"]
+
+[row]
+
+[col span="4" span__sm="12"]
+
+[featured_box margin="px px px px"]
+
+<h3>Explore Things</h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat....</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12"]
+
+<h3>Book Events</h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat....</p>
+
+[/col]
+[col span="4" span__sm="12"]
+
+<h3>Find a hotel</h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat....</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[title style="center" text="Thing to do" margin_top="25px" size="undefined"]
+
+[ux_products style="shade" slider_nav_style="simple" slider_nav_position="outside" cat="114"]
+
+[title style="center" text="Go Explore" margin_top="25px" size="undefined"]
+
+[ux_banner_grid]
+
+[col_grid span="3" span__sm="12"]
+
+[ux_banner height="500px" bg="8266" bg_overlay="rgba(0, 0, 0, 0.58)" hover="glow" hover_alt="overlay-add" link="#"]
+
+[text_box width="70" width__sm="100" scale="187"]
+
+<h3 class="uppercase"><strong>Find a Beach</strong></h3>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="6" height="1-2"]
+
+[ux_banner height="500px" bg="8246" bg_overlay="rgba(0, 0, 0, 0.58)" hover_alt="overlay-add" link="#"]
+
+[text_box width="40" width__sm="100"]
+
+<h3 class="uppercase"><strong>Explore THe CITY</strong></h3>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="6" height="1-2"]
+
+[ux_banner height="500px" bg="8272" bg_overlay="rgba(0, 0, 0, 0.58)" hover="glow" hover_alt="overlay-add" link="#"]
+
+[text_box width="40" width__sm="100"]
+
+<h3 class="uppercase"><strong>EXPLORE OUTDOORS</strong></h3>
+<p> </p>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="3" span__sm="6" height="1-2"]
+
+[ux_banner height="500px" bg="8093" bg_overlay="rgba(0, 0, 0, 0.58)" hover="glow" hover_alt="overlay-add" link="#"]
+
+[text_box width="40" width__sm="100"]
+
+<h3 class="uppercase"><strong>TAILORED SUITES</strong></h3>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+[col_grid span="3" span__sm="6" height="1-2"]
+
+[ux_banner height="500px" bg="8274" bg_overlay="rgba(0, 0, 0, 0.58)" hover="glow" hover_alt="overlay-add" link="#"]
+
+[text_box width="40" width__sm="97"]
+
+<h3 class="uppercase"><strong>ENJOY A DRINK</strong></h3>
+<p> </p>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col_grid]
+
+[/ux_banner_grid]
+[gap]
+
+[ux_banner height="400px" bg="8266" bg_overlay="rgba(255, 255, 255, 0.49)" bg_pos="26% 17%"]
+
+[text_box text_color="dark" width="40" width__sm="60"]
+
+<h3 class="uppercase"><strong>List your Company</strong></h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[button text="Apply Now"]
+
+
+[/text_box]
+
+[/ux_banner]
+[title style="center" text="Latest From Blog" margin_top="25px" size="undefined"]
+
+[blog_posts style="overlay" show_date="text" excerpt="false" comments="false" image_height="293px" image_hover="zoom" text_align="left"]
+
+[title style="center" text="Follow on Instagram" icon="icon-instagram" margin_top="25px" size="undefined"]
+
+[ux_instagram_feed type="slider" width="full-width" columns="6"]

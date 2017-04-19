@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-15 08:42+0000\n"
+"PO-Revision-Date: 2016-09-15 08:42+0000\n"
+"Last-Translator: Tommy Vedvik <tommyvedvik@gmail.com>\n"
+"Language-Team: Norwegian (Bokmål)\n"
+"Language: nb-NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: nb_NO"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:40
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:43
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:50
+msgid "Author Archives: %s"
+msgstr ""
+
+#: archive.php:58
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:61
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:64
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:67
+msgid "Asides"
+msgstr ""
+
+#: archive.php:70
+msgid "Images"
+msgstr ""
+
+#: archive.php:73
+msgid "Videos"
+msgstr ""
+
+#: archive.php:76
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:79
+msgid "Links"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:17 content-single.php:33 content.php:47 image.php:92 
+#: page-left-sidebar-notitle.php:22 page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:51 content-single.php:54 content.php:58 content.php:66 
+#: content.php:109 content.php:117 content.php:167 content.php:187
+msgid ", "
+msgstr ""
+
+#: content-single.php:59
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr ""
+
+#: content-single.php:61
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:61
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content.php:77 content.php:133 content.php:181 
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr ""
+
+#: content.php:77 content.php:133 content.php:181 
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr ""
+
+#: content.php:112 content.php:170
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:213
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:214
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr ""
+
+#: functions.php:216
+msgid "My Account Menu"
+msgstr ""
+
+#: functions.php:231
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr ""
+
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr ""
+
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr ""
+
+#: functions.php:349
+msgid "Flatsome Theme Options"
+msgstr ""
+
+#: image.php:25
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return "
+"to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: image.php:36 image.php:109 inc/template-tags.php:77 
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr ""
+
+#: image.php:101
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:103
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">"
+"Trackback URL</a>."
+msgstr ""
+
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: image.php:114 woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:115 woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/custom-css.php:176
+msgid "New"
+msgstr ""
+
+#: inc/woocommerce/tempalte-tags-global:36
+msgid "Home"
+msgstr ""
+
+#: inc/custom-css.php:177
+msgid "Hot"
+msgstr ""
+
+#: inc/custom-css.php:178
+msgid "Sale"
+msgstr ""
+
+#: inc/custom-css.php:179
+msgid "Popular"
+msgstr ""
+
+#: inc/extras.php:101
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:120
+msgid "Top Content"
+msgstr ""
+
+#: inc/extras.php:126
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+
+#: inc/post-types/blocks.php:30 
+#: inc/widgets/woocommerce-subcategories-widget.php:108
+msgid "Title"
+msgstr ""
+
+#: inc/post-types/blocks.php:33
+msgid "Shortcode"
+msgstr ""
+
+#: inc/post-types/blocks.php:35
+msgid "Date"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Tumblr"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow on Facebook"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:103
+msgid "Follow on YouTube"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow on Twitter"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:79
+msgid "Follow on SnapChat"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow on Pinterest"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow on Google+"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow on Instagram"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:104
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:147
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr ""
+
+#: search.php:35
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr ""
+
+#: inc/widgets/upsell-widget.php:105 woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr ""
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: page-checkout.php:17 page-checkout.php:28
+msgid "Shopping Cart"
+msgstr ""
+
+#: page-checkout.php:19 page-checkout.php:30
+msgid "Checkout details"
+msgstr ""
+
+#: page-checkout.php:21 page-checkout.php:32
+msgid "Order Complete"
+msgstr ""
+
+#: page-my-account.php:30 woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr ""
+
+#: structure-wc-product-page.php:149 woocommerce/content-product.php:149
+msgid "Zoom"
+msgstr ""
+
+#: content.php:71 content.php:122 content.php:192
+msgid "Tagged %1$s"
+msgstr "Tagget %1$s"
+
+#: content.php:77 content.php:133 content.php:181 
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "Legg igjen kommentar"
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Postet den %s"
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#: content-product.php:61 woocommerce/content-product.php:61
+msgid "Quick View"
+msgstr "Quick View"

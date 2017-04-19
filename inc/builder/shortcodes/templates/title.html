@@ -1,0 +1,18 @@
+<div class="container section-title-container"
+	ng-style="{
+	'margin-top': shortcode.options.marginTop, 
+	'margin-bottom': shortcode.options.marginBottom,
+  'max-width': shortcode.options.width,
+  }
+	">
+	<h3 class="section-title section-title-{{shortcode.options.style}}">
+		<b></b>
+		<span class="section-title-main"
+     ng-style="{'font-size': shortcode.options.size + '%', 'color': shortcode.options.color}">
+		<i ng-if="shortcode.options.icon" class="{{ shortcode.options.icon }}"></i>
+		{{shortcode.options.text}}
+		</span>
+		<b></b>
+		<a ng-if="shortcode.options.linkText" href="">{{shortcode.options.linkText}}</a>
+	</h3>
+</div>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="70px" viewBox="0 0 100 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>simple-center</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-1">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="99.9428898" height="70"></rect>
+    </defs>
+    <g id="Section-Presets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="simple-center">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="BG" fill="#00A0D2" xlink:href="#path-2"></use>
+            <rect id="Rectangle-3" fill="#FFFFFF" opacity="0.809293377" mask="url(#mask-3)" x="30.3546863" y="21" width="39.0359304" height="7.14722677"></rect>
+            <rect id="Rectangle-3" fill="#FFFFFF" opacity="0.426422575" mask="url(#mask-3)" x="23" y="35.0606566" width="54.375" height="5"></rect>
+            <rect id="Rectangle-3" fill="#FFFFFF" opacity="0.426422575" mask="url(#mask-3)" x="34.3546863" y="44.48494" width="30" height="5"></rect>
+        </g>
+    </g>
+</svg>

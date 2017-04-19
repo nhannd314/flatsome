@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_box">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="headline" mask="url(#mask-2)" fill="#00A0D2">
+                <g transform="translate(18.000000, 20.000000)" id="Rectangle-494">
+                    <rect x="0" y="0" width="15" height="15" rx="7.5"></rect>
+                </g>
+            </g>
+            <g id="headline" opacity="0.6" mask="url(#mask-2)" fill="#00A0D2">
+                <g transform="translate(39.000000, 21.000000)">
+                    <rect id="Rectangle-167-Copy-16" x="1.3040592" y="0" width="38.7274444" height="3.42038762"></rect>
+                    <rect id="Rectangle-167-Copy-17" x="1.3040592" y="6.84077524" width="28.6246328" height="3.42038762"></rect>
+                    <rect id="Rectangle-167-Copy-8" fill-opacity="0.532382246" opacity="0.333430504" x="0.965060165" y="21.5376188" width="23.4897265" height="3.19675615"></rect>
+                    <rect id="Rectangle-167-Copy-7" fill-opacity="0.532382246" opacity="0.333430504" x="0.965060165" y="14.5247296" width="27.8195262" height="3.19675615"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

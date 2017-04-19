@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="72px" viewBox="0 0 100 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>account-icon-fill-round</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="71.4285714" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="71.4285714" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="account-icon-fill-round">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" stroke="#3498DB" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.01" fill="#00A0D2">
+                <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+            </g>
+            <rect id="Rectangle-166-Copy-4" fill="#3498DB" mask="url(#mask-3)" x="24.3075435" y="8.28125" width="52.9293346" height="53.4462226" rx="7"></rect>
+            <path d="M52.95375,39.00625 C52.95375,39.00625 55.12875,36.87125 55.6025,34 C56.8775,34 57.665,30.9475 56.39,29.87375 C56.44375,28.74375 58.02875,21 50,21 C41.97125,21 43.55625,28.74375 43.61,29.87375 C42.335,30.9475 43.1225,34 44.3975,34 C44.87125,36.87125 47.0475,39.00625 47.0475,39.00625 C47.0475,39.00625 47.03,41.025 46.29,41.14125 C43.905,41.5175 35,45.41125 35,49.68125 L65,49.68125 C65,45.41125 56.095,41.5175 53.71125,41.14125 C52.97125,41.025 52.95375,39.00625 52.95375,39.00625 Z" id="Path" fill="#FFFFFF" mask="url(#mask-3)"></path>
+        </g>
+    </g>
+</svg>

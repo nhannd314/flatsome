@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="61px" height="90px" viewBox="0 0 61 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>badge-simple</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="60.9501473" height="89.4511719"></rect>
+    </defs>
+    <g id="Banner-Presets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="badge-simple">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#00A0D2" xlink:href="#path-1"></use>
+            <g id="Group" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(15.000000, 52.000000)" id="Rectangle-7">
+                    <rect opacity="0.41796875" x="5" y="19" width="22" height="7"></rect>
+                    <rect opacity="0.78410681" x="0" y="9" width="32" height="4"></rect>
+                    <rect opacity="0.78410681" x="5" y="0" width="22" height="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

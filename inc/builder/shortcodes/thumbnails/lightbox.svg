@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="68px" viewBox="0 0 100 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>lightbox</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="68"></rect>
+        <linearGradient x1="0%" y1="0%" x2="106.265625%" y2="109.895844%" id="linearGradient-3">
+            <stop stop-color="#C8EAF4" stop-opacity="0.208021966" offset="0%"></stop>
+            <stop stop-color="#3DD0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="72" height="43.5392481"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.125764266 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="43.5392481" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lightbox">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="headline" opacity="0.6" mask="url(#mask-2)">
+                <g transform="translate(14.000000, 11.000000)" id="Group-2">
+                    <g>
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Rectangle-486-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                            <use stroke="#00A0D2" mask="url(#mask-7)" stroke-width="2" fill-opacity="0.15" fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="headline" mask="url(#mask-5)">
+                            <g transform="translate(29.000000, -11.000000)"></g>
+                        </g>
+                        <rect id="Rectangle-486-Copy" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-5)" x="-25" y="-16" width="120" height="82"></rect>
+                        <path d="M50.1818164,27.0739005 C50.1818164,27.0739005 53.5048066,23.8328878 54.2286074,19.4742191 C56.1765672,19.4742191 57.3797188,14.8404059 55.431759,13.2104119 C55.5138789,11.4950281 57.9354603,-0.260284249 45.6690429,-0.260284249 C33.4026255,-0.260284249 35.8242069,11.4950281 35.9063268,13.2104119 C33.958367,14.8404059 35.1615186,19.4742191 37.1094784,19.4742191 C37.8332792,23.8328878 41.1581792,27.0739005 41.1581792,27.0739005 C41.1581792,27.0739005 41.1314425,30.1384411 40.0008619,30.3149131 C36.3570312,30.8860752 22.7518689,36.7969385 22.7518689,43.2789638 L68.5862169,43.2789638 C68.5862169,36.7969385 54.9810546,30.8860752 51.3391337,30.3149131 C50.2085531,30.1384411 50.1818164,27.0739005 50.1818164,27.0739005 Z" id="Shape-Copy-6" fill="#00A0D2" opacity="0.141965951" mask="url(#mask-5)"></path>
+                        <rect id="Rectangle-167-Copy-16" fill="#00A0D2" mask="url(#mask-5)" x="10.1607935" y="9" width="22.3606909" height="3.42038762"></rect>
+                        <rect id="Rectangle-167-Copy-17" fill="#00A0D2" mask="url(#mask-5)" x="10.1607935" y="15.8407752" width="16.5274672" height="3.42038762"></rect>
+                        <rect id="Rectangle-167-Copy-8" fill-opacity="0.532382246" fill="#00A0D2" opacity="0.333430504" mask="url(#mask-5)" x="9.96506017" y="30.5376188" width="13.5626432" height="3.19675615"></rect>
+                        <rect id="Rectangle-167-Copy-7" fill-opacity="0.532382246" fill="#00A0D2" opacity="0.333430504" mask="url(#mask-5)" x="9.96506017" y="23.5247296" width="16.0626097" height="3.19675615"></rect>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle-494" fill="#00A0D2" mask="url(#mask-2)" x="80" y="8" width="9" height="9" rx="4.5"></rect>
+        </g>
+    </g>
+</svg>

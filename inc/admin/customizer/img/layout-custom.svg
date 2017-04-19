@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="70px" height="67px" viewBox="0 0 70 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>layout-custom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="70" height="50" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="70" height="50" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="70" height="50" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="layout-custom">
+            <text id="Custom" font-family="Lato-Regular, Lato" font-size="13" font-weight="normal" fill="#9A8F9A">
+                <tspan x="0" y="66">Custom</tspan>
+            </text>
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" stroke="#3498DB" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.01" fill="#00A0D2">
+                <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+            </g>
+            <path d="M45.168931,14.830819 C42.7306307,12.3893937 38.7696623,12.3893937 36.331362,14.830819 L22.0242189,29.1371808 L22,37.99975 L30.837569,37.99975 L45.168931,23.668388 C47.6103563,21.2269627 47.6103563,17.2722443 45.168931,14.830819 L45.168931,14.830819 Z M29.5102149,34.8747256 L25.0914304,34.8747256 L25.0914304,30.4309409 C26.3117524,29.2106188 28.2898929,29.2106188 29.5102149,30.4309409 C30.730537,31.6512629 30.7313182,33.6544036 29.5102149,34.8747256 L29.5102149,34.8747256 Z M42.9017258,21.4589958 L38.4829413,17.0402113 C39.7032633,15.8198892 41.6814038,15.8198892 42.9017258,17.0402113 C44.1220478,18.2605333 44.1220478,20.2386737 42.9017258,21.4589958 L42.9017258,21.4589958 Z" id="Shape" fill="#3498DB" mask="url(#mask-3)"></path>
+        </g>
+    </g>
+</svg>
