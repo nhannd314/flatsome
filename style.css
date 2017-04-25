@@ -14,24 +14,3 @@ License URI:
 All custom CSS should be added to Flatsome > Advanced > Custom CSS,
 or in the style.css of a Child Theme.
 ***************/
-.reasons-row { padding-bottom: 0px !important; margin-bottom: -20px !important }
-.reasons-row .accordion-item {
-    border: solid 1px #c4161c; margin-bottom: 10px
-}
-.reasons-row .accordion-title.active {
-    background: #c4161c; color: #fff !important;
-    border-top: none; font-weight: normal !important
-}
-.reasons-row .accordion-inner { padding: 10px 15px; font-size: 15px }
-.teachers-row .col > .col-inner > .box {
-    background: #fafafa; padding: 10px
-}
-.teachers-row .col > .col-inner > .box > .box-text { padding-bottom: 3px }
-.teachers-row .main-header { color: #fff }
-.main-header {
-    text-align: center; margin-top: 20px; margin-bottom: 25px;
-}
-.main-header:after {
-    content: ""; display: block; width: 100px; height: 3px; background: #c4161c; margin: 2px auto 0
-}
-.testimonial-text, .testimonial-meta { font-size: 14px }

@@ -149,6 +149,8 @@ function flatsome_scripts() {
 
   if ( is_woocommerce_activated() ) {
      wp_enqueue_script( 'flatsome-theme-woocommerce-js', $uri .'/assets/js/woocommerce.js', array( 'flatsome-js' ), $version, true );
+  } else {
+    wp_enqueue_script( 'js-cookie', $uri .'/assets/js/jquery_cookie.js', $version, true );
   }
 
   if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {

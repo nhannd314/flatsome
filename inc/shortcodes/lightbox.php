@@ -22,19 +22,18 @@ function ux_lightbox($atts, $content=null) {
 <script>
 // Auto open lightboxes
 jQuery(document).ready(function($) {
-
     // auto open lightbox
      <?php if($auto_show == 'always') { ?>
-      Cookies.remove("lightbox_<?php echo $id; ?>");<?php } ?>
+    $.removeCookie("lightbox_<?php echo $id; ?>");<?php } ?>
     // run lightbox if no cookie is set
-     if(Cookies.get("lightbox_<?php echo $id; ?>") !== 'opened'){
+     if($.cookie("lightbox_<?php echo $id; ?>") !== 'opened'){
           // Open lightbox
           setTimeout(function(){
               $.magnificPopup.open({midClick: true, removalDelay: 300, items: { src: '#<?php echo $id; ?>', type: 'inline'}});
           }, <?php echo $auto_timer; ?>);
 
           // set cookie
-          Cookies.set("lightbox_<?php echo $id; ?>", "opened");
+         $.cookie("lightbox_<?php echo $id; ?>", "opened");
       }
 });
 </script>
