@@ -5,13 +5,12 @@ Template name: Page - Right sidebar
 get_header(); ?>
 
 <?php do_action( 'flatsome_before_page' ); ?>
-
+<?php get_template_part('template-parts/pages/page-title-breadcrumbs') ?>
 <div class="page-wrapper page-right-sidebar">
-<div class="row">
+<div class="row row-small">
 
-<div id="content" class="large-9 left col col-divided" role="main">
+<div id="content" class="large-9 left col" role="main">
 	<div class="page-inner">
-
 			<?php while ( have_posts() ) : the_post(); ?>
 
 				<?php the_content(); ?>
