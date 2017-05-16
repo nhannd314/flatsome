@@ -28,6 +28,7 @@ include_once(dirname( __FILE__ ).'/options-header-search.php');
 include_once(dirname( __FILE__ ).'/options-header-content.php');
 include_once(dirname( __FILE__ ).'/options-header-contact.php');
 include_once(dirname( __FILE__ ).'/options-header-newsletter.php');
+include_once(dirname( __FILE__ ).'/options-header-mega-menu.php');
 
 if(class_exists( 'YITH_WCWL' )){
 	include_once(dirname( __FILE__ ).'/options-header-wishlist.php');

@@ -51,6 +51,7 @@ $nav_elements = array(
   'html-3' => __( 'HTML 3', 'flatsome-admin' ),
   'html-4' => __( 'HTML 4', 'flatsome-admin' ),
   'html-5' => __( 'HTML 5', 'flatsome-admin' ),
+    'mega-menu' => __( 'Mega Menu', 'flatsome-admin' ),
 );
 
 // Add Hooked Header Elements
