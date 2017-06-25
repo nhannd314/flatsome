@@ -125,6 +125,7 @@ max-width: 49%;max-height: 330px;
 #mega_menu ul.sub-menu > li {
     position: relative
 }
+
 #mega_menu ul.sub-menu > li > .menu-image {
     position: absolute;
     top: 0;
