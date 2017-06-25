@@ -1,18 +1,22 @@
 # flatsome
 Fix flatsome ver 3.3.3
 
-## 1. Menu image:
+### 1. Menu image:
 
 Mình sử dụng plugin menu image, có custom lại code để phù hợp hơn. Tuy nhiên chưa có thời gian để tích hợp vào theme luôn nên đành tạm thời để tách ra vậy.
 Link download:
 http://www.mediafire.com/file/13cu6cinh0k4tl0/menu-image.zip
 
-## 2. Phần custome code của theme các bạn xem Git sẽ thấy
+### 2. Phần custome code của theme
+
+Các bạn xem Git sẽ thấy
 
 https://github.com/nhannd314/flatsome/commit/e83473f1cc1676e59ee46a416d1e31e759da0c68
 Mình cũng có fix 1 số lỗi của theme như lỗi Google fonts, font-weight, jquery cookie (jquery cookie của flatsome sử dụng từ woocommerce nên nếu bạn nào dựng web mà không cài woocommerce thì sẽ bị lỗi này)
 
-## 3. Phần CSS và JS mình viết trên Customize của theme để tiện chỉnh sửa, mình copy ra đây cho các bạn xem nhé:
+### 3. Phần CSS và JS:
+
+Mình viết css và js trên Customize của theme để tiện chỉnh sửa, mình copy ra đây cho các bạn xem nhé:
 
 - CSS:
 
