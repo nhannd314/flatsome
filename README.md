@@ -47,7 +47,9 @@ Mình cũng có fix 1 số lỗi của theme như lỗi Google fonts, font-weigh
 #header.header.has-sticky .header-wrapper.stuck #mega_menu {
     margin-top: 0;
 }
-body.home #mega_menu { display: block }
+body.home #mega_menu {
+    display: block
+}
 #mega_menu > li {
     position: relative;
     z-index: 8
@@ -55,20 +57,25 @@ body.home #mega_menu { display: block }
 #mega_menu li a {
     padding: 7px 15px;
     display: block;
-font-size: 14px
+    font-size: 14px
 }
 #mega_menu > li > a:after {
     content: "\f105";
     font-family: FontAwesome;
     float: right
 }
-#mega_menu>li>a{
-position:relative; padding-left:40px
+#mega_menu > li > a {
+    position: relative;
+    padding-left: 40px
 }
 #mega_menu > li > a > img {
-position:absolute;top:8px;left:8px
+    position: absolute;
+    top: 8px;
+    left: 8px
 }
-#mega_menu > li:hover > a {background: #f5f5f5 }
+#mega_menu > li:hover > a {
+    background: #f5f5f5
+}
 #mega_menu li > .toggle {
     display: none
 }
@@ -77,15 +84,19 @@ position:absolute;top:8px;left:8px
     top: -1px;
     left: 100%;
     background: #fff;
-    width: 201%;min-height: 334px;
+    width: 201%;
+    min-height: 334px;
     margin: 0;
     padding: 0;
-border: 1px solid #ccc;
+    border: 1px solid #ccc;
     box-shadow: 0 6px 12px rgba(0, 0, 0, .175)
 }
-#mega_menu ul.sub-menu > li > a { width: 50%}
+#mega_menu ul.sub-menu > li > a {
+    width: 50%
+}
 #mega_menu ul.sub-menu > li:hover > a {
-background: #f5f5f5 }
+    background: #f5f5f5
+}
 #mega_menu ul.sub-menu li a, #mega_menu > li:hover > ul.sub-menu {
     display: block
 }
@@ -95,7 +106,6 @@ background: #f5f5f5 }
 #header.header #mega_menu.active {
     display: block
 }
-/** menu image */
 #mega_menu > li > .menu-image {
     position: absolute;
     left: 100%;
@@ -108,7 +118,8 @@ background: #f5f5f5 }
 #mega_menu > li > .menu-image > img {
     position: relative;
     z-index: 1;
-max-width: 49%;max-height: 330px;
+    max-width: 49%;
+    max-height: 330px;
     margin-top: 1px;
 }
 #mega_menu > li:hover > .menu-image, #mega_menu > li:hover > ul.sub-menu {
@@ -126,17 +137,20 @@ max-width: 49%;max-height: 330px;
 #mega_menu ul.sub-menu > li {
     position: relative
 }
-
 #mega_menu ul.sub-menu > li > .menu-image {
     position: absolute;
     top: 0;
     right: 0;
-    width: 50%; min-height: 240px; background: #fff;
+    width: 50%;
+    min-height: 240px;
+    background: #fff;
     text-align: right;
     display: none;
     z-index: 2
 }
-#mega_menu ul.sub-menu > li > .menu-image > img { width: 100% }
+#mega_menu ul.sub-menu > li > .menu-image > img {
+    width: 100%
+}
 #mega_menu ul.sub-menu > li:hover > .menu-image {
     display: block
 }
