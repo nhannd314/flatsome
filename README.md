@@ -9,6 +9,7 @@ https://github.com/nhannd314/flatsome/commit/e83473f1cc1676e59ee46a416d1e31e759d
 Mình cũng có fix 1 số lỗi của theme như lỗi Google fonts, font-weight, jquery cookie (jquery cookie của flatsome sử dụng từ woocommerce nên nếu bạn nào dựng web mà không cài woocommerce thì sẽ bị lỗi này)
 3. Phần CSS và JS mình viết trên Customize của theme để tiện chỉnh sửa, mình copy ra đây cho các bạn xem nhé:
 - CSS:
+
 /** mega menu */
 
 #wide-nav > .flex-row > .flex-left {
