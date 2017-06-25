@@ -1,15 +1,16 @@
 # flatsome
 Fix flatsome ver 3.3.3
-1. Menu image:
+#1. Menu image:
 Mình sử dụng plugin menu image, có custom lại code để phù hợp hơn. Tuy nhiên chưa có thời gian để tích hợp vào theme luôn nên đành tạm thời để tách ra vậy.
 Link download:
 http://www.mediafire.com/file/13cu6cinh0k4tl0/menu-image.zip
-2. Phần custome code của theme các bạn xem Git sẽ thấy
+#2. Phần custome code của theme các bạn xem Git sẽ thấy
 https://github.com/nhannd314/flatsome/commit/e83473f1cc1676e59ee46a416d1e31e759da0c68
 Mình cũng có fix 1 số lỗi của theme như lỗi Google fonts, font-weight, jquery cookie (jquery cookie của flatsome sử dụng từ woocommerce nên nếu bạn nào dựng web mà không cài woocommerce thì sẽ bị lỗi này)
-3. Phần CSS và JS mình viết trên Customize của theme để tiện chỉnh sửa, mình copy ra đây cho các bạn xem nhé:
+#3. Phần CSS và JS mình viết trên Customize của theme để tiện chỉnh sửa, mình copy ra đây cho các bạn xem nhé:
 - CSS:
 
+```
 /** mega menu */
 
 #wide-nav > .flex-row > .flex-left {
@@ -181,21 +182,34 @@ body.home #mega_menu {
 #mega_menu ul.sub-menu > li:hover > .menu-image {
     display: block
 }
+```
 
 - Javascript:
+
+```
 <script>
 jQuery(document).ready(function () {
     jQuery("#mega-menu-title").click(function () {
+
         jQuery("#mega_menu").toggleClass("active")
-    }), jQuery("body").click(function (e) {
+
+    }),
+    jQuery("body").click(function (e) {
+
         var i = jQuery(e.target);
         "mega-menu-title" != i.attr("id") && jQuery("#mega_menu.active").removeClass("active")
-    }), jQuery("#mega_menu>li").each(function (e) {
+
+    }),
+    jQuery("#mega_menu>li").each(function (e) {
+
         jQuery(this).children(".sub-menu").css("margin-top", 37 * -e + "px"), jQuery(this).children(".menu-image").css("margin-top", 37 * -e + "px"), jQuery(this).find("li").each(function (e) {
             jQuery(this).children(".menu-image").css("margin-top", 36 * -e + "px")
         })
+
     })
+    
 });
 </script>
+```
 
 ** Mình đang vướng dự án nên không thể viết chi tiết hơn được, mong các bạn thông cảm. Hy vọng mọi người có thể đóng góp, hoàn thiện hơn để chia sẻ vì 1 cộng đồng tích cực!
