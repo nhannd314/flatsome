@@ -182,7 +182,7 @@ body.home #mega_menu {
     display: block
 }
 
-- JS:
+- Javascript:
 <script>
 jQuery(document).ready(function () {
     jQuery("#mega-menu-title").click(function () {
